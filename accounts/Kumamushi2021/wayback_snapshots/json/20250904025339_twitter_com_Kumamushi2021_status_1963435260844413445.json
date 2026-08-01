@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1963435260844413445",
+    "created_at": "2025-09-04T02:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T03:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963435260844413445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "992551168944439296",
+          "start": 3,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963435260844413445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963428487030780271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pale_machine: 。。一个错觉是我以前总觉得体面是跟努力正相关的，你能接受活得很平庸尴尬就能很安逸，最近才意识到就算是非常普通和窘迫的生活也要用很多精力去维持，就算过一种抬不起头的没有立足之地的生活还是会很累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1963435260844413445",
+        "created_at": "2025-09-04T02:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T03:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963435260844413445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "992551168944439296",
+              "start": 3,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963435260844413445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963428487030780271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pale_machine: 。。一个错觉是我以前总觉得体面是跟努力正相关的，你能接受活得很平庸尴尬就能很安逸，最近才意识到就算是非常普通和窘迫的生活也要用很多精力去维持，就算过一种抬不起头的没有立足之地的生活还是会很累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "1963428487030780271",
+        "created_at": "2025-09-04T02:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T03:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963428487030780271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963428487030780271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "。。一个错觉是我以前总觉得体面是跟努力正相关的，你能接受活得很平庸尴尬就能很安逸，最近才意识到就算是非常普通和窘迫的生活也要用很多精力去维持，就算过一种抬不起头的没有立足之地的生活还是会很累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 67,
+          "like_count": 1879,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlCif7A"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "⏻",
+        "name": "⏻",
+        "pinned_tweet_id": "1945734187673366618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958785508039172097/m3MCSZkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 846,
+          "like_count": 11241,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/KhELlCif7A",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

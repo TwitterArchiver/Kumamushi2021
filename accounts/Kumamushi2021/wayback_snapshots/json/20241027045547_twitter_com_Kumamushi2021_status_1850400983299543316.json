@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1850400983299543316",
+    "created_at": "2024-10-27T04:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T05:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850400983299543316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1850400983299543316",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普通人得了精神病只有死路一條  沒錢是不配治療精神病的\n我渴望體面地死去  渴望病逝  這樣還會被人惋惜  但是我只能自殺\n只能落得一個“不孝”的壞名聲  被人當做“想不開”的人被提起在茶餘飯後  最後被遺忘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1850400983299543316",
+        "created_at": "2024-10-27T04:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T05:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850400983299543316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850400983299543316",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普通人得了精神病只有死路一條  沒錢是不配治療精神病的\n我渴望體面地死去  渴望病逝  這樣還會被人惋惜  但是我只能自殺\n只能落得一個“不孝”的壞名聲  被人當做“想不開”的人被提起在茶餘飯後  最後被遺忘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 44,
+          "like_count": 1442,
+          "listed_count": 0,
+          "tweet_count": 767
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

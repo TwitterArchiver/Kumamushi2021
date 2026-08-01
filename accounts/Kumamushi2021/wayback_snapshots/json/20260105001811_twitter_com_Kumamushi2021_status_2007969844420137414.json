@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2007825024456221031",
+    "created_at": "2026-01-05T00:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T01:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007969844420137414"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007969844420137414",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007825024456221031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "截止啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2007825024456221031",
+        "created_at": "2026-01-05T00:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007969844420137414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007969844420137414",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007825024456221031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "截止啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2007825024456221031",
+        "created_at": "2026-01-04T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007825024456221031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007825024456221031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "才发现自己也是100fo了，从开始上网以来还没有哪个平台到了这个fo数，谢谢大家愿意看我说废话，虽然我现在还是很恐慌很害怕与人交流\n这条抽两个人20r请喝奶茶吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004502982227054592/tsjcfrWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 95,
+          "like_count": 3008,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1438
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

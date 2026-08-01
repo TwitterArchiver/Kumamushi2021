@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938929540916518912"
+      ],
+      "media_source_tweet_id": [
+        "1938929543810781451"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1939351972131541251",
+    "created_at": "2025-06-29T15:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T16:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939351972131541251"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "farcille"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1911047505678385152",
+          "start": 3,
+          "username": "dailyfarcille_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RmcKaami0I",
+          "end": 60,
+          "expanded_url": "https://x.com/dailyfarcille_/status/1938929543810781451/photo/1",
+          "media_key": "3_1938929540916518912",
+          "start": 37,
+          "url": "https://t.co/RmcKaami0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939351972131541251",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938929543810781451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dailyfarcille_: day 78\n#farcille https://t.co/RmcKaami0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 427,
+        "media_key": "3_1938929540916518912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guh2JQLXIAA_8uJ.jpg",
+        "width": 577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938929540916518912"
+          ],
+          "media_source_tweet_id": [
+            "1938929543810781451"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1939351972131541251",
+        "created_at": "2025-06-29T15:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939351972131541251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "farcille"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1911047505678385152",
+              "start": 3,
+              "username": "dailyfarcille_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmcKaami0I",
+              "end": 60,
+              "expanded_url": "https://x.com/dailyfarcille_/status/1938929543810781451/photo/1",
+              "media_key": "3_1938929540916518912",
+              "start": 37,
+              "url": "https://t.co/RmcKaami0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939351972131541251",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938929543810781451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dailyfarcille_: day 78\n#farcille https://t.co/RmcKaami0I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938929540916518912"
+          ]
+        },
+        "author_id": "1911047505678385152",
+        "conversation_id": "1938929543810781451",
+        "created_at": "2025-06-28T11:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938929543810781451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "farcille"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmcKaami0I",
+              "end": 40,
+              "expanded_url": "https://x.com/dailyfarcille_/status/1938929543810781451/photo/1",
+              "media_key": "3_1938929540916518912",
+              "start": 17,
+              "url": "https://t.co/RmcKaami0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938929543810781451",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 8696,
+          "like_count": 1115,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "day 78\n#farcille https://t.co/RmcKaami0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 58,
+          "like_count": 1734,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 864
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T13:23:42.000Z",
+        "description": "account that posts an image of farcille everyday! this account is not a bot, all art posted here is made by ryoko kui! —\nproship/lolisho dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailyfarcille.straw.page",
+                "end": 23,
+                "expanded_url": "https://dailyfarcille.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZY0VFEnz4D"
+              }
+            ]
+          }
+        },
+        "id": "1911047505678385152",
+        "location": "admin is a minor",
+        "name": "daily farcille! 📚🪶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911072381134569472/2mUQi8-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 7,
+          "like_count": 119,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/ZY0VFEnz4D",
+        "username": "dailyfarcille_",
+        "verified": false
+      }
+    ]
+  }
+}

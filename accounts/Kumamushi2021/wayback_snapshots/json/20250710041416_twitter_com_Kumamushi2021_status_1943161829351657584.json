@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1943120230110388592",
+    "created_at": "2025-07-10T04:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T05:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943161829351657584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943161829351657584",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943120230110388592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine 有点地狱（）但可能还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1943120230110388592",
+        "created_at": "2025-07-10T04:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T05:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943161829351657584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943161829351657584",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943120230110388592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine 有点地狱（）但可能还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "1943120230110388592",
+        "created_at": "2025-07-10T01:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T02:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943120230110388592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943120230110388592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "泰坦尼克号上拉小提琴的算不算组一辈子乐队了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 58,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 803
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "id": "992551168944439296",
+        "location": "⏻",
+        "name": "23FsVcFR4sZsZsZsZQsC6Qc0sFQT",
+        "pinned_tweet_id": "1899460463819121003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939098379822493696/LcxCUPMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 833,
+          "like_count": 11264,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 328
+        },
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

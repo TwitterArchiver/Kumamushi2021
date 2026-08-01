@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995870370969395200"
+      ],
+      "media_source_tweet_id": [
+        "1995870403215098113"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1996060344872304646",
+    "created_at": "2025-12-03T03:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996060344872304646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oXpjT3snM3",
+          "end": 48,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1995870403215098113/photo/1",
+          "media_key": "3_1995870370969395200",
+          "start": 25,
+          "url": "https://t.co/oXpjT3snM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996060344872304646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995870403215098113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 有感而发 https://t.co/oXpjT3snM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1995870370969395200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LBhx9boAAco2V.png",
+        "width": 777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995870370969395200"
+          ],
+          "media_source_tweet_id": [
+            "1995870403215098113"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1996060344872304646",
+        "created_at": "2025-12-03T03:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996060344872304646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXpjT3snM3",
+              "end": 48,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1995870403215098113/photo/1",
+              "media_key": "3_1995870370969395200",
+              "start": 25,
+              "url": "https://t.co/oXpjT3snM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996060344872304646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995870403215098113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 有感而发 https://t.co/oXpjT3snM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995870370969395200"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1995870403215098113",
+        "created_at": "2025-12-02T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995870403215098113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXpjT3snM3",
+              "end": 28,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1995870403215098113/photo/1",
+              "media_key": "3_1995870370969395200",
+              "start": 5,
+              "url": "https://t.co/oXpjT3snM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995870403215098113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 19257,
+          "like_count": 1590,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "有感而发 https://t.co/oXpjT3snM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 86,
+          "like_count": 2737,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1260
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9880,
+          "following_count": 8016,
+          "like_count": 27707,
+          "listed_count": 24,
+          "media_count": 6699,
+          "tweet_count": 42181
+        },
+        "username": "DDzhanshou5150",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2016826840653156780",
+    "created_at": "2026-01-29T11:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016828774168612941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016828774168612941",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016826840653156780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好害怕，我不能再忘记更多了，我好害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2016826840653156780",
+        "created_at": "2026-01-29T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016828774168612941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016828774168612941",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016826840653156780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好害怕，我不能再忘记更多了，我好害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2016826840653156780",
+        "created_at": "2026-01-29T10:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016826840653156780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016826840653156780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要做电休克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 96,
+          "like_count": 3484,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1760
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

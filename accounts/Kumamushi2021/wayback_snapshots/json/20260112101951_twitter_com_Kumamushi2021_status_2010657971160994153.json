@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2010654766461047041",
+    "created_at": "2026-01-12T10:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010657971160994153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010657971160994153",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010657512962576511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 好吃爱吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2010654766461047041",
+        "created_at": "2026-01-12T10:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010657971160994153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010657971160994153",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010657512962576511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 好吃爱吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2010654766461047041",
+        "created_at": "2026-01-12T10:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010657512962576511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010657512962576511",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010654766461047041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 🎂😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 92,
+          "like_count": 3157,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1575
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "现实戒断中 / email: u@uhio.uk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk/void",
+                "end": 23,
+                "expanded_url": "http://uhio.uk/void",
+                "start": 0,
+                "url": "https://t.co/WMoIHNe5nD"
+              }
+            ]
+          }
+        },
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "泛地面主义",
+        "pinned_tweet_id": "2005557494320660954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007723316203954176/pXpK4CTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 27,
+          "like_count": 3448,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/WMoIHNe5nD",
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

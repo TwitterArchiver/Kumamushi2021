@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900792251959439361"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      }
+    ],
+    "conversation_id": "1900792255058714760",
+    "created_at": "2025-03-15T06:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900792255058714760"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "ヒメヒナアート"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/01xUnZp6xH",
+          "end": 32,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1900792255058714760/photo/1",
+          "media_key": "3_1900792251959439361",
+          "start": 9,
+          "url": "https://t.co/01xUnZp6xH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900792255058714760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#ヒメヒナアート https://t.co/01xUnZp6xH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900792251959439361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmD4e3nbcAEeDc9.jpg",
+        "width": 1607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900792251959439361"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900792255058714760",
+        "created_at": "2025-03-15T06:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900792255058714760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ヒメヒナアート"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/01xUnZp6xH",
+              "end": 32,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1900792255058714760/photo/1",
+              "media_key": "3_1900792251959439361",
+              "start": 9,
+              "url": "https://t.co/01xUnZp6xH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900792255058714760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ヒメヒナアート https://t.co/01xUnZp6xH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 1587,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 693
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

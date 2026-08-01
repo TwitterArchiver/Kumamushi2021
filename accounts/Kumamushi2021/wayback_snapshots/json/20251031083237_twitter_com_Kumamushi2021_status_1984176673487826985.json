@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984176669985579008",
+        "3_1984176669251473409"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1984176673487826985",
+    "created_at": "2025-10-31T08:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984176673487826985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GrB8frhGQn",
+          "end": 32,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1984176673487826985/photo/1",
+          "media_key": "3_1984176669985579008",
+          "start": 9,
+          "url": "https://t.co/GrB8frhGQn"
+        },
+        {
+          "display_url": "pic.x.com/GrB8frhGQn",
+          "end": 32,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1984176673487826985/photo/1",
+          "media_key": "3_1984176669251473409",
+          "start": 9,
+          "url": "https://t.co/GrB8frhGQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984176673487826985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又吃上精品神药了 https://t.co/GrB8frhGQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984176669985579008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4k2KzIboAAIay5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984176669251473409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4k2KwZaEAESGiO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984176669985579008",
+            "3_1984176669251473409"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1984176673487826985",
+        "created_at": "2025-10-31T08:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984176673487826985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrB8frhGQn",
+              "end": 32,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1984176673487826985/photo/1",
+              "media_key": "3_1984176669985579008",
+              "start": 9,
+              "url": "https://t.co/GrB8frhGQn"
+            },
+            {
+              "display_url": "pic.x.com/GrB8frhGQn",
+              "end": 32,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1984176673487826985/photo/1",
+              "media_key": "3_1984176669251473409",
+              "start": 9,
+              "url": "https://t.co/GrB8frhGQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984176673487826985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又吃上精品神药了 https://t.co/GrB8frhGQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw5Ceo"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 71,
+          "like_count": 2354,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/TcLkEw5Ceo",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

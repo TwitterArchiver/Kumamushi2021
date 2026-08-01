@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979682472272052224"
+      ],
+      "media_source_tweet_id": [
+        "1979682476177117671"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1979810934186262814",
+    "created_at": "2025-10-19T07:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T08:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979810934186262814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1277754050532999168",
+          "start": 3,
+          "username": "RealQuixoteReal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v9K096qEKB",
+          "end": 49,
+          "expanded_url": "https://x.com/RealQuixoteReal/status/1979682476177117671/photo/1",
+          "media_key": "3_1979682472272052224",
+          "start": 26,
+          "url": "https://t.co/v9K096qEKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979810934186262814",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1026
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979682476177117671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealQuixoteReal: HUGE https://t.co/v9K096qEKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_1979682472272052224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3k-uD_XwAA6Euw.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979682472272052224"
+          ],
+          "media_source_tweet_id": [
+            "1979682476177117671"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1979810934186262814",
+        "created_at": "2025-10-19T07:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979810934186262814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1277754050532999168",
+              "start": 3,
+              "username": "RealQuixoteReal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9K096qEKB",
+              "end": 49,
+              "expanded_url": "https://x.com/RealQuixoteReal/status/1979682476177117671/photo/1",
+              "media_key": "3_1979682472272052224",
+              "start": 26,
+              "url": "https://t.co/v9K096qEKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979810934186262814",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1026
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979682476177117671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealQuixoteReal: HUGE https://t.co/v9K096qEKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979682472272052224"
+          ]
+        },
+        "author_id": "1277754050532999168",
+        "conversation_id": "1979682476177117671",
+        "created_at": "2025-10-18T22:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979682476177117671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9K096qEKB",
+              "end": 28,
+              "expanded_url": "https://x.com/RealQuixoteReal/status/1979682476177117671/photo/1",
+              "media_key": "3_1979682472272052224",
+              "start": 5,
+              "url": "https://t.co/v9K096qEKB"
+            },
+            {
+              "display_url": "x.com/astraldr4gonal…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/astraldr4gonalt/status/1978780460416479309",
+              "start": 29,
+              "url": "https://t.co/hqPJiTkGUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979682476177117671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1090,
+          "impression_count": 74167,
+          "like_count": 8477,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 1026
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978780460416479309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HUGE https://t.co/v9K096qEKB https://t.co/hqPJiTkGUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 65,
+          "like_count": 2195,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1122
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T00:01:29.000Z",
+        "description": "Hark! Thou may knowest me as Don Quixote, with “Don” as the signifier of my nobility!",
+        "id": "1277754050532999168",
+        "location": "La Manchaland",
+        "name": "Don Quixote",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979622198588456961/R8Fsxnur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 67,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 447
+        },
+        "username": "RealQuixoteReal",
+        "verified": false
+      }
+    ]
+  }
+}

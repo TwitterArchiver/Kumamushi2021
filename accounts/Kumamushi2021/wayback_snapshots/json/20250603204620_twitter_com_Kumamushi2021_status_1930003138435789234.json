@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1929885240857899452",
+    "created_at": "2025-06-03T20:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T21:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930003138435789234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632439131577126912",
+          "start": 0,
+          "username": "StreetCattttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930003138435789234",
+    "in_reply_to_user_id": "1632439131577126912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929958218752766177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StreetCattttt 我住的小区有给小孩子玩的滑梯和秋千，我体型小所以能卡在秋千里玩玩，可以找找那种有儿童游乐设施的公园（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1929885240857899452",
+        "created_at": "2025-06-03T20:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T21:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930003138435789234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632439131577126912",
+              "start": 0,
+              "username": "StreetCattttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930003138435789234",
+        "in_reply_to_user_id": "1632439131577126912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929958218752766177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StreetCattttt 我住的小区有给小孩子玩的滑梯和秋千，我体型小所以能卡在秋千里玩玩，可以找找那种有儿童游乐设施的公园（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632439131577126912",
+        "conversation_id": "1929885240857899452",
+        "created_at": "2025-06-03T17:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T18:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929958218752766177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929958218752766177",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929885240857899452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 我也想荡秋千"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 57,
+          "like_count": 1714,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 867
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T17:53:56.000Z",
+        "description": "不行了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aaqLQN_udOo2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aaqLQN_udOo2Yjhl",
+                "start": 0,
+                "url": "https://t.co/EdJBEJ6gIK"
+              }
+            ]
+          }
+        },
+        "id": "1632439131577126912",
+        "location": "你背后",
+        "name": "I doubt.",
+        "pinned_tweet_id": "1922685020663136638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909869639171289088/gO8NvWBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 157,
+          "like_count": 11950,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 3530
+        },
+        "url": "https://t.co/EdJBEJ6gIK",
+        "username": "StreetCattttt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876737157693632512"
+      ],
+      "media_source_tweet_id": [
+        "1876737162755883103"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1876938821587103913",
+    "created_at": "2025-01-08T10:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T11:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876938821587103913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692608849315028992",
+          "start": 3,
+          "username": "nuo_inu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XcXGTUh7St",
+          "end": 36,
+          "expanded_url": "https://x.com/nuo_inu/status/1876737162755883103/photo/1",
+          "media_key": "3_1876737157693632512",
+          "start": 13,
+          "url": "https://t.co/XcXGTUh7St"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876938821587103913",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876737162755883103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuo_inu: https://t.co/XcXGTUh7St"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1507,
+        "media_key": "3_1876737157693632512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GguCgGUa8AA0VHy.jpg",
+        "width": 1545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876737157693632512"
+          ],
+          "media_source_tweet_id": [
+            "1876737162755883103"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1876938821587103913",
+        "created_at": "2025-01-08T10:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876938821587103913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692608849315028992",
+              "start": 3,
+              "username": "nuo_inu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcXGTUh7St",
+              "end": 36,
+              "expanded_url": "https://x.com/nuo_inu/status/1876737162755883103/photo/1",
+              "media_key": "3_1876737157693632512",
+              "start": 13,
+              "url": "https://t.co/XcXGTUh7St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876938821587103913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876737162755883103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuo_inu: https://t.co/XcXGTUh7St"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876737157693632512"
+          ]
+        },
+        "author_id": "1692608849315028992",
+        "conversation_id": "1876737162755883103",
+        "created_at": "2025-01-07T21:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T22:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876737162755883103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XcXGTUh7St",
+              "end": 23,
+              "expanded_url": "https://x.com/nuo_inu/status/1876737162755883103/photo/1",
+              "media_key": "3_1876737157693632512",
+              "start": 0,
+              "url": "https://t.co/XcXGTUh7St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876737162755883103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 18371,
+          "like_count": 1651,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XcXGTUh7St"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 674
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T18:47:41.000Z",
+        "description": "18↑/性癖がねじれてる 人の地雷に配慮なしの雑多垢です",
+        "id": "1692608849315028992",
+        "name": "ぬぉ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849603412696104961/8ZgdFI9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 26,
+          "like_count": 382,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 497
+        },
+        "username": "nuo_inu",
+        "verified": false
+      }
+    ]
+  }
+}

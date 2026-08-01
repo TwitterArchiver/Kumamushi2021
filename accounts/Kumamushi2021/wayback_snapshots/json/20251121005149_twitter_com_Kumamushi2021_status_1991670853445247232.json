@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1991522477072372102",
+    "created_at": "2025-11-21T00:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T01:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991670853445247232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991670853445247232",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991529167742201991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 所以现在继续上学的同时开始了持续的治疗，希望到了寒假内分泌水平能调好，骨骼能恢复到可以支撑手术的程度，在此之前减少承重以减少下肢骨骼的损伤\n周一要再去医院把检查结果给骨科医生看，不过我觉得他应该也会建议我减少承重，感觉自己已经久病成医了orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1991522477072372102",
+        "created_at": "2025-11-21T00:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T01:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991670853445247232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991670853445247232",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991529167742201991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 所以现在继续上学的同时开始了持续的治疗，希望到了寒假内分泌水平能调好，骨骼能恢复到可以支撑手术的程度，在此之前减少承重以减少下肢骨骼的损伤\n周一要再去医院把检查结果给骨科医生看，不过我觉得他应该也会建议我减少承重，感觉自己已经久病成医了orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1991522477072372102",
+        "created_at": "2025-11-20T15:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T16:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991529167742201991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991529167742201991",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991522477072372102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 心疼孩子...好想紧紧抱住你😿\n这些天一直在看，能感觉到每天都要溢出屏幕的痛苦，辛苦了，你是很坚强很坚强的宝宝...\n虽然没有提意见的资格，但是真的不考虑暂停学习去好好治疗一下吗...你值得的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 81,
+          "like_count": 2558,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1368
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/iO6MRJNm9j"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1991299586002935866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 213,
+          "like_count": 11407,
+          "listed_count": 3,
+          "media_count": 857,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

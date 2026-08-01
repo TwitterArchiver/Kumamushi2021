@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942636190546681856"
+      ],
+      "media_source_tweet_id": [
+        "1942636490347143426"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1943553111408414768",
+    "created_at": "2025-07-11T06:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T07:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943553111408414768"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 21,
+          "tag": "hellocharlotte"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805510215921811458",
+          "start": 3,
+          "username": "love52000123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9JoguRhdf",
+          "end": 60,
+          "expanded_url": "https://x.com/love52000123/status/1942636490347143426/video/1",
+          "media_key": "13_1942636190546681856",
+          "start": 37,
+          "url": "https://t.co/c9JoguRhdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943553111408414768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942636490347143426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love52000123: 预告\n#hellocharlotte https://t.co/c9JoguRhdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18733,
+        "height": 720,
+        "media_key": "13_1942636190546681856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942636190546681856/img/vJif3PjAqvZ-NTdK.jpg",
+        "public_metrics": {
+          "view_count": 918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942636190546681856/vid/avc1/480x270/6qNXnMC-htFc-6ad.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942636190546681856/vid/avc1/640x360/ftr2vANVyDRQobIa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942636190546681856/vid/avc1/1280x720/PdRoOBlLo4NwBL8B.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942636190546681856/pl/_t7robSLTD6lpo6N.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942636190546681856"
+          ],
+          "media_source_tweet_id": [
+            "1942636490347143426"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1943553111408414768",
+        "created_at": "2025-07-11T06:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T07:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943553111408414768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 21,
+              "tag": "hellocharlotte"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805510215921811458",
+              "start": 3,
+              "username": "love52000123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9JoguRhdf",
+              "end": 60,
+              "expanded_url": "https://x.com/love52000123/status/1942636490347143426/video/1",
+              "media_key": "13_1942636190546681856",
+              "start": 37,
+              "url": "https://t.co/c9JoguRhdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943553111408414768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942636490347143426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love52000123: 预告\n#hellocharlotte https://t.co/c9JoguRhdf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942636190546681856"
+          ]
+        },
+        "author_id": "1805510215921811458",
+        "conversation_id": "1942636490347143426",
+        "created_at": "2025-07-08T17:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942636490347143426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 3,
+              "tag": "hellocharlotte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9JoguRhdf",
+              "end": 42,
+              "expanded_url": "https://x.com/love52000123/status/1942636490347143426/video/1",
+              "media_key": "13_1942636190546681856",
+              "start": 19,
+              "url": "https://t.co/c9JoguRhdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942636490347143426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 2659,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "预告\n#hellocharlotte https://t.co/c9JoguRhdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 59,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 810
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T07:56:06.000Z",
+        "description": "oc女 搞点同人创作 only冷坑/pjeg🔥🔥🔥",
+        "id": "1805510215921811458",
+        "name": "♰理理殺人女魔頭♰",
+        "pinned_tweet_id": "1892226713477685526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927035318240215040/6OuwKrl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "love52000123",
+        "verified": false
+      }
+    ]
+  }
+}

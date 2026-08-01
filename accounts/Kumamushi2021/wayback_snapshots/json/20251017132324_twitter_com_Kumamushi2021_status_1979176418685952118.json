@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979099409175445504"
+      ],
+      "media_source_tweet_id": [
+        "1979099485382021528"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1979176418685952118",
+    "created_at": "2025-10-17T13:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979176418685952118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2297628805",
+          "start": 3,
+          "username": "K_u___R_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LZkkQs0UlK",
+          "end": 38,
+          "expanded_url": "https://x.com/K_u___R_o/status/1979099485382021528/photo/1",
+          "media_key": "3_1979099409175445504",
+          "start": 15,
+          "url": "https://t.co/LZkkQs0UlK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979176418685952118",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979099485382021528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K_u___R_o: https://t.co/LZkkQs0UlK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_1979099409175445504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3csbUsWgAA5aAa.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979099409175445504"
+          ],
+          "media_source_tweet_id": [
+            "1979099485382021528"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1979176418685952118",
+        "created_at": "2025-10-17T13:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979176418685952118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2297628805",
+              "start": 3,
+              "username": "K_u___R_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZkkQs0UlK",
+              "end": 38,
+              "expanded_url": "https://x.com/K_u___R_o/status/1979099485382021528/photo/1",
+              "media_key": "3_1979099409175445504",
+              "start": 15,
+              "url": "https://t.co/LZkkQs0UlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979176418685952118",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979099485382021528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K_u___R_o: https://t.co/LZkkQs0UlK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979099409175445504"
+          ]
+        },
+        "author_id": "2297628805",
+        "conversation_id": "1979099485382021528",
+        "created_at": "2025-10-17T08:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979099485382021528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZkkQs0UlK",
+              "end": 23,
+              "expanded_url": "https://x.com/K_u___R_o/status/1979099485382021528/photo/1",
+              "media_key": "3_1979099409175445504",
+              "start": 0,
+              "url": "https://t.co/LZkkQs0UlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979099485382021528",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 9882,
+          "like_count": 542,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LZkkQs0UlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 65,
+          "like_count": 2178,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-18T09:53:11.000Z",
+        "description": "🔸作画のみのご依頼停止中🔺AIへの利用、転載禁止 🔺my picture is not a free material🔺 Please do not reprint without my permission.\n◆2025年12月までお仕事うまってしまいました🙇🙇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kkuurroo",
+                "end": 23,
+                "expanded_url": "https://lit.link/kkuurroo",
+                "start": 0,
+                "url": "https://t.co/VpLpb9OuN0"
+              }
+            ]
+          }
+        },
+        "id": "2297628805",
+        "location": "Animator／Illustrator",
+        "name": "K U R O🐢",
+        "pinned_tweet_id": "1926918122243567933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956895471789867008/5UKAXfsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99672,
+          "following_count": 1987,
+          "like_count": 17971,
+          "listed_count": 778,
+          "media_count": 167,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/VpLpb9OuN0",
+        "username": "K_u___R_o",
+        "verified": true
+      }
+    ]
+  }
+}

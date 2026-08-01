@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965424518559940608"
+      ],
+      "media_source_tweet_id": [
+        "1965424526331969775"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1965632844459569201",
+    "created_at": "2025-09-10T04:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965632844459569201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1931181854075588608",
+          "start": 3,
+          "username": "ritaritatter96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/25XZ5M9le4",
+          "end": 72,
+          "expanded_url": "https://x.com/ritaritatter96/status/1965424526331969775/photo/1",
+          "media_key": "3_1965424518559940608",
+          "start": 49,
+          "url": "https://t.co/25XZ5M9le4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965632844459569201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965424526331969775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ritaritatter96: 割といい感じが故に色塗りしたら台無しになる気がする……🫠 https://t.co/25XZ5M9le4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_1965424518559940608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aXL7WbwAAGV9R.jpg",
+        "width": 1427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965424518559940608"
+          ],
+          "media_source_tweet_id": [
+            "1965424526331969775"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1965632844459569201",
+        "created_at": "2025-09-10T04:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965632844459569201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1931181854075588608",
+              "start": 3,
+              "username": "ritaritatter96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/25XZ5M9le4",
+              "end": 72,
+              "expanded_url": "https://x.com/ritaritatter96/status/1965424526331969775/photo/1",
+              "media_key": "3_1965424518559940608",
+              "start": 49,
+              "url": "https://t.co/25XZ5M9le4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965632844459569201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965424526331969775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ritaritatter96: 割といい感じが故に色塗りしたら台無しになる気がする……🫠 https://t.co/25XZ5M9le4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965424518559940608"
+          ]
+        },
+        "author_id": "1931181854075588608",
+        "conversation_id": "1965424526331969775",
+        "created_at": "2025-09-09T14:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965424526331969775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25XZ5M9le4",
+              "end": 52,
+              "expanded_url": "https://x.com/ritaritatter96/status/1965424526331969775/photo/1",
+              "media_key": "3_1965424518559940608",
+              "start": 29,
+              "url": "https://t.co/25XZ5M9le4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965424526331969775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 11658,
+          "like_count": 1022,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "割といい感じが故に色塗りしたら台無しになる気がする……🫠 https://t.co/25XZ5M9le4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 68,
+          "like_count": 1944,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T02:50:18.000Z",
+        "description": "初心者管理人 / Limbusメイン / 🎠",
+        "id": "1931181854075588608",
+        "name": "リタ",
+        "pinned_tweet_id": "1963895100833939534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950052766757330944/TJn-lean_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 136,
+          "like_count": 4387,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 322
+        },
+        "username": "ritaritatter96",
+        "verified": false
+      }
+    ]
+  }
+}

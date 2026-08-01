@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1917648690413724068",
+    "created_at": "2025-04-30T18:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917648690413724068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917648690413724068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看个视频给我弹到短视频界面去了不说还给我推弱智脑残精神病院段子，我是真不觉得污名化一个群体去获取流量是什么很有父母的行为，想出这种脑残剧本的人就应该拉去那种剧本里的精神病院叫天天不应叫地地不灵在那里住一辈子，我去他妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1917648690413724068",
+        "created_at": "2025-04-30T18:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917648690413724068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917648690413724068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看个视频给我弹到短视频界面去了不说还给我推弱智脑残精神病院段子，我是真不觉得污名化一个群体去获取流量是什么很有父母的行为，想出这种脑残剧本的人就应该拉去那种剧本里的精神病院叫天天不应叫地地不灵在那里住一辈子，我去他妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 56,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 751
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

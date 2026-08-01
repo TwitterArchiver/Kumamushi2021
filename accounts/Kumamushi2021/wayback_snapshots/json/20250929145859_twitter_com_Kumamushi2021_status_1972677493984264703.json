@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972677484979408896",
+        "3_1972677488498339840",
+        "3_1972677490964578305",
+        "3_1972677491111460864"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1972677493984264703",
+    "created_at": "2025-09-29T14:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T15:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972677493984264703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vpqs0SIFKj",
+          "end": 29,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+          "media_key": "3_1972677484979408896",
+          "start": 6,
+          "url": "https://t.co/vpqs0SIFKj"
+        },
+        {
+          "display_url": "pic.x.com/vpqs0SIFKj",
+          "end": 29,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+          "media_key": "3_1972677488498339840",
+          "start": 6,
+          "url": "https://t.co/vpqs0SIFKj"
+        },
+        {
+          "display_url": "pic.x.com/vpqs0SIFKj",
+          "end": 29,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+          "media_key": "3_1972677490964578305",
+          "start": 6,
+          "url": "https://t.co/vpqs0SIFKj"
+        },
+        {
+          "display_url": "pic.x.com/vpqs0SIFKj",
+          "end": 29,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+          "media_key": "3_1972677491111460864",
+          "start": 6,
+          "url": "https://t.co/vpqs0SIFKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972677493984264703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "绝对伏特加 https://t.co/vpqs0SIFKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972677484979408896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BbuIyb0AAl9VV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972677488498339840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BbuV5acAAyoAP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972677490964578305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BbufFaQAEesCC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972677491111460864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BbufobgAAajDz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972677484979408896",
+            "3_1972677488498339840",
+            "3_1972677490964578305",
+            "3_1972677491111460864"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1972677493984264703",
+        "created_at": "2025-09-29T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972677493984264703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpqs0SIFKj",
+              "end": 29,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+              "media_key": "3_1972677484979408896",
+              "start": 6,
+              "url": "https://t.co/vpqs0SIFKj"
+            },
+            {
+              "display_url": "pic.x.com/vpqs0SIFKj",
+              "end": 29,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+              "media_key": "3_1972677488498339840",
+              "start": 6,
+              "url": "https://t.co/vpqs0SIFKj"
+            },
+            {
+              "display_url": "pic.x.com/vpqs0SIFKj",
+              "end": 29,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+              "media_key": "3_1972677490964578305",
+              "start": 6,
+              "url": "https://t.co/vpqs0SIFKj"
+            },
+            {
+              "display_url": "pic.x.com/vpqs0SIFKj",
+              "end": 29,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1972677493984264703/photo/1",
+              "media_key": "3_1972677491111460864",
+              "start": 6,
+              "url": "https://t.co/vpqs0SIFKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972677493984264703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝对伏特加 https://t.co/vpqs0SIFKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 64,
+          "like_count": 2045,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

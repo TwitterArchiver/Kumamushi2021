@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1974045782052598192",
+    "created_at": "2025-10-03T09:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974045782052598192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690931822719606784",
+          "start": 3,
+          "username": "honxine8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974045782052598192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974019860758728947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honxine8964: 自願死去的人既不瘋狂也不愚蠢。他的死亡都是他最本己的事情，旁人無權評判，在所有自願死亡者那裏都是如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1974045782052598192",
+        "created_at": "2025-10-03T09:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974045782052598192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690931822719606784",
+              "start": 3,
+              "username": "honxine8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974045782052598192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974019860758728947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honxine8964: 自願死去的人既不瘋狂也不愚蠢。他的死亡都是他最本己的事情，旁人無權評判，在所有自願死亡者那裏都是如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690931822719606784",
+        "conversation_id": "1974019860758728947",
+        "created_at": "2025-10-03T07:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974019860758728947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974019860758728947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自願死去的人既不瘋狂也不愚蠢。他的死亡都是他最本己的事情，旁人無權評判，在所有自願死亡者那裏都是如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 66,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T03:42:59.000Z",
+        "description": "樢㰴枂\n涑暮渘葵\n喵派\n小殤\noder\n自殺預備中",
+        "id": "1690931822719606784",
+        "location": "Kitadaito-son, Okinawa",
+        "name": "汐馜栯(欠債相似中)",
+        "pinned_tweet_id": "1972207973188751633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917157239468793856/s-NHcCmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 2768,
+          "like_count": 267941,
+          "listed_count": 15,
+          "media_count": 1778,
+          "tweet_count": 65082
+        },
+        "username": "honxine8964",
+        "verified": false
+      }
+    ]
+  }
+}

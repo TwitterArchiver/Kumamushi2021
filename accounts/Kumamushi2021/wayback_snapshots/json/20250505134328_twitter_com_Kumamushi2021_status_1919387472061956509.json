@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1919078763184427233",
+    "created_at": "2025-05-05T13:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T14:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919387472061956509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632439131577126912",
+          "start": 0,
+          "username": "StreetCattttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919387472061956509",
+    "in_reply_to_user_id": "1632439131577126912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919385769799569892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StreetCattttt (灬´ω`灬)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1919078763184427233",
+        "created_at": "2025-05-05T13:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T14:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919387472061956509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632439131577126912",
+              "start": 0,
+              "username": "StreetCattttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919387472061956509",
+        "in_reply_to_user_id": "1632439131577126912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919385769799569892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StreetCattttt (灬´ω`灬)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632439131577126912",
+        "conversation_id": "1919078763184427233",
+        "created_at": "2025-05-05T13:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T14:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919385769799569892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919385769799569892",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919078763184427233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 🫴🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 775
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T17:53:56.000Z",
+        "description": "曾經確實有一些美好的事發生在我身上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aaqLQN_udOo2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aaqLQN_udOo2Yjhl",
+                "start": 0,
+                "url": "https://t.co/EdJBEJ6gIK"
+              }
+            ]
+          }
+        },
+        "id": "1632439131577126912",
+        "location": "你背后",
+        "name": "I doubt.",
+        "pinned_tweet_id": "1813954773504385258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909869639171289088/gO8NvWBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 152,
+          "like_count": 11318,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 3353
+        },
+        "url": "https://t.co/EdJBEJ6gIK",
+        "username": "StreetCattttt",
+        "verified": false
+      }
+    ]
+  }
+}

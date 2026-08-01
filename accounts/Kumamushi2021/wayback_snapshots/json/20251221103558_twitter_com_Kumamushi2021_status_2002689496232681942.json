@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2002689496232681942",
+    "created_at": "2025-12-21T10:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002689496232681942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kumamushi2021/…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/Kumamushi2021/status/1989253616713228765",
+          "start": 80,
+          "url": "https://t.co/MSdy9iA8L3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002689496232681942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989253616713228765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来了  这就是曾经繁华疯狂充满理想与美好而后衰败的东西  注视着夕阳把那份炽热当做不会再升起的余晖  把太阳的西沉当做最后的礼赞  内心就会感到这样的感动 https://t.co/MSdy9iA8L3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2002689496232681942",
+        "created_at": "2025-12-21T10:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002689496232681942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kumamushi2021/…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Kumamushi2021/status/1989253616713228765",
+              "start": 80,
+              "url": "https://t.co/MSdy9iA8L3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002689496232681942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989253616713228765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来了  这就是曾经繁华疯狂充满理想与美好而后衰败的东西  注视着夕阳把那份炽热当做不会再升起的余晖  把太阳的西沉当做最后的礼赞  内心就会感到这样的感动 https://t.co/MSdy9iA8L3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1989253616713228765",
+        "created_at": "2025-11-14T08:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989253616713228765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989253616713228765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾经很喜欢夕阳，但是如今已经忘记当时喜欢夕阳的理由了，只是依旧十分喜欢黄昏时分的天空。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997689615113986048/TOzE4Ln8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 90,
+          "like_count": 2951,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1368
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

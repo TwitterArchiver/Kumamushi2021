@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1977952280046719446",
+    "created_at": "2025-10-14T04:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T05:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977954174295031869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933606476951789568",
+          "start": 0,
+          "username": "sakaki2839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977954174295031869",
+    "in_reply_to_user_id": "1933606476951789568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977953986490909019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakaki2839 啊？？啊？？？？？？\n对学生好的原因其实是对家长下手了吧。。。感觉是那种家长不给钱就给学生穿小鞋的类型"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1977953986490909019].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977953986490909019",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1977953986490909019"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1977952280046719446",
+        "created_at": "2025-10-14T04:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977954174295031869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933606476951789568",
+              "start": 0,
+              "username": "sakaki2839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977954174295031869",
+        "in_reply_to_user_id": "1933606476951789568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977953986490909019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakaki2839 啊？？啊？？？？？？\n对学生好的原因其实是对家长下手了吧。。。感觉是那种家长不给钱就给学生穿小鞋的类型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 66,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T19:25:11.000Z",
+        "description": "全是自我偶尔掉落很吓人的r18/r18g。。。。。还会有别的奇奇怪怪的oc之类的。。。而且真的全是我作为人的黑暗面……我会很严格地审查申请者。\n嗯我这个人一旦开始暴露自我了就真的很可怕如果接受不了请随时取关……\n大号→@Auras_beichny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Auras_beichny"
+              }
+            ]
+          }
+        },
+        "id": "1933606476951789568",
+        "location": "什么时候去死",
+        "name": "好吧我真的服了",
+        "pinned_tweet_id": "1973386629503914419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966102946799824899/mqChHuN2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 6,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 692
+        },
+        "username": "sakaki2839",
+        "verified": false
+      }
+    ]
+  }
+}

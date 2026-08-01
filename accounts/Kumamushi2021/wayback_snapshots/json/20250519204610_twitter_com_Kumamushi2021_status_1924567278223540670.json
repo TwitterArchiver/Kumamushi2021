@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1924567278223540670",
+    "created_at": "2025-05-19T20:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T21:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924567278223540670"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1924567278223540670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想去死。\n比起五月一号那天的死意已经弱很多了，但还是时不时在脑袋里盘旋。\n而且我的精神也比之前要脆弱许多，也总感觉不太清楚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1924567278223540670",
+        "created_at": "2025-05-19T20:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T21:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924567278223540670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924567278223540670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想去死。\n比起五月一号那天的死意已经弱很多了，但还是时不时在脑袋里盘旋。\n而且我的精神也比之前要脆弱许多，也总感觉不太清楚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 55,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 813
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974732393971113984"
+      ],
+      "media_source_tweet_id": [
+        "1974732398534496414"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1974764594225926359",
+    "created_at": "2025-10-05T09:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T10:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974764594225926359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 13,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1638441014645104641",
+          "start": 3,
+          "username": "GED0CH1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SOOKeZM97s",
+          "end": 45,
+          "expanded_url": "https://x.com/GED0CH1/status/1974732398534496414/photo/1",
+          "media_key": "3_1974732393971113984",
+          "start": 22,
+          "url": "https://t.co/SOOKeZM97s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974764594225926359",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974732398534496414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GED0CH1: #素晴らしき日々 https://t.co/SOOKeZM97s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974732393971113984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eoplUa4AA9GEX.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974732393971113984"
+          ],
+          "media_source_tweet_id": [
+            "1974732398534496414"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1974764594225926359",
+        "created_at": "2025-10-05T09:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T10:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974764594225926359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1638441014645104641",
+              "start": 3,
+              "username": "GED0CH1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOOKeZM97s",
+              "end": 45,
+              "expanded_url": "https://x.com/GED0CH1/status/1974732398534496414/photo/1",
+              "media_key": "3_1974732393971113984",
+              "start": 22,
+              "url": "https://t.co/SOOKeZM97s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974764594225926359",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974732398534496414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GED0CH1: #素晴らしき日々 https://t.co/SOOKeZM97s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974732393971113984"
+          ]
+        },
+        "author_id": "1638441014645104641",
+        "conversation_id": "1974732398534496414",
+        "created_at": "2025-10-05T07:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974732398534496414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOOKeZM97s",
+              "end": 32,
+              "expanded_url": "https://x.com/GED0CH1/status/1974732398534496414/photo/1",
+              "media_key": "3_1974732393971113984",
+              "start": 9,
+              "url": "https://t.co/SOOKeZM97s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974732398534496414",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 14036,
+          "like_count": 1064,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 https://t.co/SOOKeZM97s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2093,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T07:22:40.000Z",
+        "description": "",
+        "id": "1638441014645104641",
+        "name": "DOCHI",
+        "pinned_tweet_id": "1969435028175081627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974110012026056704/mSyEUEPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 23,
+          "like_count": 2705,
+          "listed_count": 34,
+          "media_count": 6,
+          "tweet_count": 86
+        },
+        "username": "GED0CH1",
+        "verified": false
+      }
+    ]
+  }
+}

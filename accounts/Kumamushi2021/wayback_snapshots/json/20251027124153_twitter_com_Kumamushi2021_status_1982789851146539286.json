@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982469301064839168"
+      ],
+      "media_source_tweet_id": [
+        "1982469304789475578"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1982789851146539286",
+    "created_at": "2025-10-27T12:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982789851146539286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664291984901648384",
+          "start": 3,
+          "username": "r3trose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/knSJebHbOg",
+          "end": 61,
+          "expanded_url": "https://x.com/r3trose/status/1982469304789475578/photo/1",
+          "media_key": "3_1982469301064839168",
+          "start": 38,
+          "url": "https://t.co/knSJebHbOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982789851146539286",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10536
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982469304789475578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @r3trose: smokin on that kirk pack https://t.co/knSJebHbOg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982789851146539286].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982789851146539286",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982789851146539286"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982469301064839168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MlU2QWMAAuKfN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982469301064839168"
+          ]
+        },
+        "author_id": "1664291984901648384",
+        "conversation_id": "1982469304789475578",
+        "created_at": "2025-10-26T15:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982469304789475578"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "kirk",
+              "probability": 0.3933,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/knSJebHbOg",
+              "end": 48,
+              "expanded_url": "https://x.com/r3trose/status/1982469304789475578/photo/1",
+              "media_key": "3_1982469301064839168",
+              "start": 25,
+              "url": "https://t.co/knSJebHbOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982469304789475578",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7182,
+          "impression_count": 7869795,
+          "like_count": 195090,
+          "quote_count": 1553,
+          "reply_count": 2983,
+          "retweet_count": 10536
+        },
+        "reply_settings": "following",
+        "text": "smokin on that kirk pack https://t.co/knSJebHbOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 2279,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T15:25:13.000Z",
+        "description": "my name is Bibi Netanyahu I am from Philadelphia and I am the prime minister of Israel",
+        "id": "1664291984901648384",
+        "name": "Kurt Vonneslut",
+        "pinned_tweet_id": "1847131204522246281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981118281244127232/IS928SbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 83,
+          "like_count": 2219,
+          "listed_count": 79,
+          "media_count": 16,
+          "tweet_count": 120
+        },
+        "username": "r3trose",
+        "verified": false
+      }
+    ]
+  }
+}

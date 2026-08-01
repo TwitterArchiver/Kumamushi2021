@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1988482652866040152",
+    "created_at": "2025-11-12T05:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988483248738234825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593149117844393984",
+          "start": 0,
+          "username": "Auras_beichny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988483248738234825",
+    "in_reply_to_user_id": "1593149117844393984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988482652866040152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auras_beichny 请留下来…完全出自我自己的私心  对不起  可是我想说世界上有太多给别人带来麻烦的人  太多太多了  那些人都还活着  所以我不想看到原神老师这样一个又会写文又会画画的优秀的人离开😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1988482652866040152",
+        "created_at": "2025-11-12T05:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988483248738234825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593149117844393984",
+              "start": 0,
+              "username": "Auras_beichny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988483248738234825",
+        "in_reply_to_user_id": "1593149117844393984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988482652866040152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auras_beichny 请留下来…完全出自我自己的私心  对不起  可是我想说世界上有太多给别人带来麻烦的人  太多太多了  那些人都还活着  所以我不想看到原神老师这样一个又会写文又会画画的优秀的人离开😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593149117844393984",
+        "conversation_id": "1988482652866040152",
+        "created_at": "2025-11-12T05:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988482652866040152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988482652866040152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把余下想做的事情做完就离开吧。\n我这个只会给别人带来麻烦的人是时候离开了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 74,
+          "like_count": 2463,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1279
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T07:48:51.000Z",
+        "description": "♀️/冬眠中/ヒロエマ相手固定左右固定过激洁癖，但是会溺爱无差亲友/中國人、日本語勉強中/English ok/無言フォロー失礼します\n全是自我的小号→ @sakaki2839",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "sakaki2839"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5eta3trpyk598j…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5eta3trpyk598jn?t=ZwTO9v&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/T0zy0obbna"
+              }
+            ]
+          }
+        },
+        "id": "1593149117844393984",
+        "location": "神经",
+        "name": "サカキ",
+        "pinned_tweet_id": "1987767159800614986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971984841651658752/v2mfE5y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 97,
+          "like_count": 4068,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/T0zy0obbna",
+        "username": "Auras_beichny",
+        "verified": false
+      }
+    ]
+  }
+}

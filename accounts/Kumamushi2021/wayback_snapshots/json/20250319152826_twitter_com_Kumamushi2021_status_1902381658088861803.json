@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      }
+    ],
+    "conversation_id": "1902381658088861803",
+    "created_at": "2025-03-19T15:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T16:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902381658088861803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "964005355087831040",
+          "start": 3,
+          "username": "HimeTanaka_HH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902381658088861803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901578693463654596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HimeTanaka_HH: ビンタ…感謝…もっとビンタください🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1902381658088861803",
+        "created_at": "2025-03-19T15:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T16:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902381658088861803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "964005355087831040",
+              "start": 3,
+              "username": "HimeTanaka_HH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902381658088861803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901578693463654596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HimeTanaka_HH: ビンタ…感謝…もっとビンタください🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964005355087831040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1901578693463654596",
+        "created_at": "2025-03-17T10:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T11:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901578693463654596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manga_m/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/manga_m/status/1901563315555627124",
+              "start": 19,
+              "url": "https://t.co/1mm9FNXHYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901578693463654596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 103647,
+          "like_count": 2396,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901563315555627124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ビンタ…感謝…もっとビンタください🤤 https://t.co/1mm9FNXHYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 1594,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 699
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-15T05:16:01.000Z",
+        "description": "はおー！田中ヒメです！ ヒナ(@HinaSuzuki_HH)と一緒に歌とかダンスとか音楽活動してるよ！ 目標は5年以内に武道館✨ 最新情報はハイライトに！YouTube👉https://t.co/Zor1uRuou4 TikTok👉https://t.co/BfJLKB087t #ヒメヒナ #ヒメヒナアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 140,
+                "tag": "ヒメヒナ"
+              },
+              {
+                "end": 154,
+                "start": 146,
+                "tag": "ヒメヒナアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "HinaSuzuki_HH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/8jh8yB",
+                "end": 108,
+                "expanded_url": "http://goo.gl/8jh8yB",
+                "start": 85,
+                "url": "https://t.co/Zor1uRuou4"
+              },
+              {
+                "display_url": "tiktok.com/@himehina.80",
+                "end": 139,
+                "expanded_url": "http://tiktok.com/@himehina.80",
+                "start": 116,
+                "url": "https://t.co/BfJLKB087t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "himehina.jp",
+                "end": 23,
+                "expanded_url": "http://himehina.jp",
+                "start": 0,
+                "url": "https://t.co/RbnuZ7jPJl"
+              }
+            ]
+          }
+        },
+        "id": "964005355087831040",
+        "location": "Studio LaRa",
+        "name": "田中ヒメ(HIMEHINA)🥕",
+        "pinned_tweet_id": "1896201889940951145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331624747432435712/x3nYICJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224019,
+          "following_count": 164,
+          "like_count": 3659,
+          "listed_count": 2848,
+          "media_count": 1603,
+          "tweet_count": 9265
+        },
+        "url": "https://t.co/RbnuZ7jPJl",
+        "username": "HimeTanaka_HH",
+        "verified": true
+      }
+    ]
+  }
+}

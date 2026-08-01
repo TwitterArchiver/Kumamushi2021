@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1970535451464474963",
+    "created_at": "2025-09-23T17:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T18:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970535451464474963"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970535451464474963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想看到绚丽夺目的虹彩、如水面上的油膜、如蛋白石的反光，想因为美丽的音乐和画面而感到深切的感动，想获得哭泣的能力，想看着星空与扑打礁石的海浪、将身体投入海浪将精神融入夜空，想躺进积雪，随着雪化入土地成为春日的蓬勃，想再次进入幻觉看到房间里乳白色的纱帘和雨丝\n让我进入永恒的梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1970535451464474963",
+        "created_at": "2025-09-23T17:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970535451464474963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970535451464474963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看到绚丽夺目的虹彩、如水面上的油膜、如蛋白石的反光，想因为美丽的音乐和画面而感到深切的感动，想获得哭泣的能力，想看着星空与扑打礁石的海浪、将身体投入海浪将精神融入夜空，想躺进积雪，随着雪化入土地成为春日的蓬勃，想再次进入幻觉看到房间里乳白色的纱帘和雨丝\n让我进入永恒的梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 70,
+          "like_count": 2028,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

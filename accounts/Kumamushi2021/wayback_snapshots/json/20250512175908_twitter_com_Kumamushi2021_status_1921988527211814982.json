@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921210477419388929"
+      ],
+      "media_source_tweet_id": [
+        "1921210486088925217"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1921988527211814982",
+    "created_at": "2025-05-12T17:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T18:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921988527211814982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837456158761930755",
+          "start": 3,
+          "username": "korosuzo444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dm6oeblgSx",
+          "end": 40,
+          "expanded_url": "https://x.com/korosuzo444/status/1921210486088925217/photo/1",
+          "media_key": "3_1921210477419388929",
+          "start": 17,
+          "url": "https://t.co/Dm6oeblgSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921988527211814982",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921210486088925217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @korosuzo444: https://t.co/Dm6oeblgSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921210477419388929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmCwA1XYAE_LQP.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921210477419388929"
+          ],
+          "media_source_tweet_id": [
+            "1921210486088925217"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1921988527211814982",
+        "created_at": "2025-05-12T17:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921988527211814982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837456158761930755",
+              "start": 3,
+              "username": "korosuzo444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dm6oeblgSx",
+              "end": 40,
+              "expanded_url": "https://x.com/korosuzo444/status/1921210486088925217/photo/1",
+              "media_key": "3_1921210477419388929",
+              "start": 17,
+              "url": "https://t.co/Dm6oeblgSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921988527211814982",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921210486088925217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @korosuzo444: https://t.co/Dm6oeblgSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921210477419388929"
+          ]
+        },
+        "author_id": "1837456158761930755",
+        "conversation_id": "1921210486088925217",
+        "created_at": "2025-05-10T14:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921210486088925217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dm6oeblgSx",
+              "end": 23,
+              "expanded_url": "https://x.com/korosuzo444/status/1921210486088925217/photo/1",
+              "media_key": "3_1921210477419388929",
+              "start": 0,
+              "url": "https://t.co/Dm6oeblgSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921210486088925217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2093,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dm6oeblgSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 58,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 802
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T11:37:55.000Z",
+        "description": "絵を描きたいので描きたい絵をよく描いてます @sinekorosu4446 さぶ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "sinekorosu4446"
+              }
+            ]
+          }
+        },
+        "id": "1837456158761930755",
+        "location": "眠れない夜 君のせいだよ",
+        "name": "努力が嫌いなコメダ",
+        "pinned_tweet_id": "1904860823199068358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894374601817530368/8wHq3HW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 85,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 628
+        },
+        "username": "korosuzo444",
+        "verified": false
+      }
+    ]
+  }
+}

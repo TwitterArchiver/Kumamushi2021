@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993706862731264001"
+      ],
+      "media_source_tweet_id": [
+        "1993706873011503388"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1993882346685386836",
+    "created_at": "2025-11-27T03:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993882346685386836"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "エマ",
+          "probability": 0.5336,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971882572184801281",
+          "start": 3,
+          "username": "yoshi_mnsb09"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nohlwgBCQY",
+          "end": 77,
+          "expanded_url": "https://x.com/yoshi_mnsb09/status/1993706873011503388/photo/1",
+          "media_key": "3_1993706862731264001",
+          "start": 54,
+          "url": "https://t.co/nohlwgBCQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993882346685386836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993706873011503388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshi_mnsb09: ⚠️ネタバレ\nアナログです 練習で描いた魔女化エマ\nムズすぎるだろ〜〜 https://t.co/nohlwgBCQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993706862731264001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sR1BtbAAEzd4G.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993706862731264001"
+          ],
+          "media_source_tweet_id": [
+            "1993706873011503388"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1993882346685386836",
+        "created_at": "2025-11-27T03:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993882346685386836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "エマ",
+              "probability": 0.5336,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971882572184801281",
+              "start": 3,
+              "username": "yoshi_mnsb09"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nohlwgBCQY",
+              "end": 77,
+              "expanded_url": "https://x.com/yoshi_mnsb09/status/1993706873011503388/photo/1",
+              "media_key": "3_1993706862731264001",
+              "start": 54,
+              "url": "https://t.co/nohlwgBCQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993882346685386836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993706873011503388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshi_mnsb09: ⚠️ネタバレ\nアナログです 練習で描いた魔女化エマ\nムズすぎるだろ〜〜 https://t.co/nohlwgBCQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993706862731264001"
+          ]
+        },
+        "author_id": "1971882572184801281",
+        "conversation_id": "1993706873011503388",
+        "created_at": "2025-11-26T15:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993706873011503388"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "エマ",
+              "probability": 0.55,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nohlwgBCQY",
+              "end": 59,
+              "expanded_url": "https://x.com/yoshi_mnsb09/status/1993706873011503388/photo/1",
+              "media_key": "3_1993706862731264001",
+              "start": 36,
+              "url": "https://t.co/nohlwgBCQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993706873011503388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 8780,
+          "like_count": 709,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ネタバレ\nアナログです 練習で描いた魔女化エマ\nムズすぎるだろ〜〜 https://t.co/nohlwgBCQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 83,
+          "like_count": 2638,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1219
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T10:20:37.000Z",
+        "description": "Acacia大好きアカウント🌸/箱推し/特にヒロとレイアとミリアﾁｬﾝが好き/落描き投げます/ネタバレ 🈶/CP表現 百合 🈶/仲良くして下さると嬉しいです！🍀✨",
+        "id": "1971882572184801281",
+        "name": "よちぴ",
+        "pinned_tweet_id": "1973720873015341213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971883836213772288/FeAd6qNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 52,
+          "like_count": 1893,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 664
+        },
+        "username": "yoshi_mnsb09",
+        "verified": false
+      }
+    ]
+  }
+}

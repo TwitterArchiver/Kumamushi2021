@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1983056365368291490",
+    "created_at": "2025-10-28T07:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T08:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983072937977754096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1541881940352958465",
+          "start": 0,
+          "username": "heihuamu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983072937977754096",
+    "in_reply_to_user_id": "1541881940352958465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983061706688606624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heihuamu1 非要喝的话一定要吃点食物垫一垫哦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1983056365368291490",
+        "created_at": "2025-10-28T07:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983072937977754096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1541881940352958465",
+              "start": 0,
+              "username": "heihuamu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983072937977754096",
+        "in_reply_to_user_id": "1541881940352958465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983061706688606624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heihuamu1 非要喝的话一定要吃点食物垫一垫哦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541881940352958465",
+        "conversation_id": "1983056365368291490",
+        "created_at": "2025-10-28T06:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983061706688606624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983061706688606624",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983060281459913109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 这破胃病完全一口都不能喝..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 70,
+          "like_count": 2293,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T20:35:00.000Z",
+        "description": "♀/@yuqizhongdian\nヒロエマヒロ\nアイコンは白鷺さん",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "yuqizhongdian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/heihuamu1",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/heihuamu1",
+                "start": 0,
+                "url": "https://t.co/bf58l1ay21"
+              }
+            ]
+          }
+        },
+        "id": "1541881940352958465",
+        "location": "🌸🌸🌸",
+        "name": "虫",
+        "pinned_tweet_id": "1962117082608480380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957293139410186240/2XupGInu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13062,
+          "following_count": 198,
+          "like_count": 1985,
+          "listed_count": 37,
+          "media_count": 78,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/bf58l1ay21",
+        "username": "heihuamu1",
+        "verified": false
+      }
+    ]
+  }
+}

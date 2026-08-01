@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2014515468296675476",
+    "created_at": "2026-01-25T22:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T23:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015545846545408437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804134957117509638",
+          "start": 0,
+          "username": "Seraphina_Ignis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015545846545408437",
+    "in_reply_to_user_id": "1804134957117509638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015432766440263986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seraphina_Ignis 我现在在吃拉莫三嗪+阿立哌唑+碳酸锂+艾司西酞普兰+佐匹克隆，我吃佐匹克隆倒是没有致幻欸，人跟人体质不太一样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2014515468296675476",
+        "created_at": "2026-01-25T22:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T23:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015545846545408437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804134957117509638",
+              "start": 0,
+              "username": "Seraphina_Ignis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015545846545408437",
+        "in_reply_to_user_id": "1804134957117509638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015432766440263986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seraphina_Ignis 我现在在吃拉莫三嗪+阿立哌唑+碳酸锂+艾司西酞普兰+佐匹克隆，我吃佐匹克隆倒是没有致幻欸，人跟人体质不太一样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804134957117509638",
+        "conversation_id": "2014515468296675476",
+        "created_at": "2026-01-25T14:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015432766440263986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015432766440263986",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014574850913009812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 你比我严重的多啊，我吃的拉莫三嗪和佐匹克隆，佐匹克隆致幻，现在没在吃了，换喹硫平了，本来想换艾司唑仑，医生说，致幻你还吃，你吸毒啊哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 96,
+          "like_count": 3416,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1738
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T12:51:26.000Z",
+        "description": "好吃爱吃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gofile.io/d/nQo7yo",
+                "end": 23,
+                "expanded_url": "https://gofile.io/d/nQo7yo",
+                "start": 0,
+                "url": "https://t.co/icdqtouTOr"
+              }
+            ]
+          }
+        },
+        "id": "1804134957117509638",
+        "location": "杜王町",
+        "name": "流萤(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015427656913928192/U5s27pHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 207,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/icdqtouTOr",
+        "username": "Seraphina_Ignis",
+        "verified": false
+      }
+    ]
+  }
+}

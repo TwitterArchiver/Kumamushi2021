@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1974502821904162900",
+    "created_at": "2025-10-05T12:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974820822268494291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725745051987509248",
+          "start": 0,
+          "username": "myq3543077363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974820822268494291",
+    "in_reply_to_user_id": "1725745051987509248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974502821904162900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myq3543077363 行为好恶…真以为激素水平突然升高是好事吗…月经失调  乳房胀痛  情绪失调  体重增加  单独拎一条出来放在女生身上都不好受  更别提擅自给他人注射药物是严重违反道德的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1974502821904162900",
+        "created_at": "2025-10-05T12:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974820822268494291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725745051987509248",
+              "start": 0,
+              "username": "myq3543077363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974820822268494291",
+        "in_reply_to_user_id": "1725745051987509248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974502821904162900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myq3543077363 行为好恶…真以为激素水平突然升高是好事吗…月经失调  乳房胀痛  情绪失调  体重增加  单独拎一条出来放在女生身上都不好受  更别提擅自给他人注射药物是严重违反道德的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725745051987509248",
+        "conversation_id": "1974502821904162900",
+        "created_at": "2025-10-04T15:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974502821904162900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974502821904162900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16762,
+          "like_count": 75,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "各位xyn ,我在想\n给女生扎一针日雌，她会发情吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2095,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T05:18:27.000Z",
+        "description": "07年的xyn喵～🏳️‍⚧️梦想是成为可爱的女孩子（战斗系xyn）\n不od不自残/hrt2025.3月\n和大家交朋友喵",
+        "id": "1725745051987509248",
+        "location": "药娘天堂",
+        "name": "ミズ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938915525184122880/rs3_I2OE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 64,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "username": "myq3543077363",
+        "verified": false
+      }
+    ]
+  }
+}

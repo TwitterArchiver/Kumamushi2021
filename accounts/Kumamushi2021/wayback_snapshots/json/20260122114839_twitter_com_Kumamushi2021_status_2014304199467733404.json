@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2014301518737047665",
+    "created_at": "2026-01-22T11:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T12:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014304199467733404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014304199467733404",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014303243984339016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今早又吐了一次，我的咽炎变严重了，现在即使什么都不干都感觉喉咙深处有粘液和异物。骨头疼痛，我的身体还是很差。整日整日地躺在床上仅是因为一运动就会感到死意，吃药，电休克，如果药无效的话，我会去做电休克。仅仅是因为不能让自己死去，所以即使失去记忆也无所谓吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2014301518737047665",
+        "created_at": "2026-01-22T11:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014304199467733404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014304199467733404",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014303243984339016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今早又吐了一次，我的咽炎变严重了，现在即使什么都不干都感觉喉咙深处有粘液和异物。骨头疼痛，我的身体还是很差。整日整日地躺在床上仅是因为一运动就会感到死意，吃药，电休克，如果药无效的话，我会去做电休克。仅仅是因为不能让自己死去，所以即使失去记忆也无所谓吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2014301518737047665",
+        "created_at": "2026-01-22T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014303243984339016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014303243984339016",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014302784624210102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "持续地思念着朋友，然而得不到回应。别的朋友劝我“专注于当下吧，一直这样只会深陷于情绪的深渊”，可是我除了渴求着他人的回应以外没有别的欲望。失忆也好，副作用也好，其实都无所谓，只不过我还得装作正常人，所以得做出在意的状态。说到底我也不可能被治好吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 95,
+          "like_count": 3363,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1714
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1847804833451164042",
+    "created_at": "2024-10-20T00:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T01:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847804833451164042"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1847804833451164042",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想買純白睡衣或藍色格紋睡衣穿在身上，套一件寬鬆的針織開衫在夜裡出門，在老家的街道上無目的地散步。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1847804833451164042",
+        "created_at": "2024-10-20T00:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T01:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847804833451164042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847804833451164042",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想買純白睡衣或藍色格紋睡衣穿在身上，套一件寬鬆的針織開衫在夜裡出門，在老家的街道上無目的地散步。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 44,
+          "like_count": 1412,
+          "listed_count": 0,
+          "tweet_count": 732
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

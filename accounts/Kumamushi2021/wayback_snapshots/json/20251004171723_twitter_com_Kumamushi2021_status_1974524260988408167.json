@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1974519469461635405",
+    "created_at": "2025-10-04T17:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974524260988408167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960779749242105856",
+          "start": 0,
+          "username": "Not_ti729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974524260988408167",
+    "in_reply_to_user_id": "1960779749242105856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974521292788535463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Not_ti729 我还是想学更多的知识…各种各样的知识在我眼里都很神奇  闪耀着光芒让人想要得到  就算学了之后还是文盲但是拥有了这些知识心态肯定也会不太一样吧…遗憾  唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1974519469461635405",
+        "created_at": "2025-10-04T17:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974524260988408167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960779749242105856",
+              "start": 0,
+              "username": "Not_ti729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974524260988408167",
+        "in_reply_to_user_id": "1960779749242105856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974521292788535463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Not_ti729 我还是想学更多的知识…各种各样的知识在我眼里都很神奇  闪耀着光芒让人想要得到  就算学了之后还是文盲但是拥有了这些知识心态肯定也会不太一样吧…遗憾  唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960779749242105856",
+        "conversation_id": "1974519469461635405",
+        "created_at": "2025-10-04T17:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974521292788535463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974521292788535463",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974519469461635405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 這裏是接受了普高教育的文盲（舉手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2086,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T19:01:46.000Z",
+        "description": "正在使用Korg的EM-1和EMX-1創作獨立音樂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@notti-tk7xi?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@notti-tk7xi?si=v5XdmMWkaRdbwZOO",
+                "start": 0,
+                "url": "https://t.co/z5MmgJC9mG"
+              }
+            ]
+          }
+        },
+        "id": "1960779749242105856",
+        "name": "Not-ti729",
+        "pinned_tweet_id": "1965742339970011292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960779982512513031/r_uIs9Zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 44,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/z5MmgJC9mG",
+        "username": "Not_ti729",
+        "verified": false
+      }
+    ]
+  }
+}

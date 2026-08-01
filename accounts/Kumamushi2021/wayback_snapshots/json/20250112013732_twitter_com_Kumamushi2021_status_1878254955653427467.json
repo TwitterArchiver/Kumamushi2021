@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1878254955653427467",
+    "created_at": "2025-01-12T01:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T02:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878254955653427467"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1878254955653427467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼時間線要在我生日這天給我推別人生日的照片，為什麼要告訴我有別人跟我在同一天生日  為什麼那個人有很多人給他生日祝福  我卻只有幾個軟件發來的生日推送\n我QQ空間0點準時發了往年生日都會說的一大堆話，但只有一個人評論了，我連點讚都沒收到\n明明17歲的生日過得是多麼完美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1878254955653427467",
+        "created_at": "2025-01-12T01:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T02:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878254955653427467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878254955653427467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼時間線要在我生日這天給我推別人生日的照片，為什麼要告訴我有別人跟我在同一天生日  為什麼那個人有很多人給他生日祝福  我卻只有幾個軟件發來的生日推送\n我QQ空間0點準時發了往年生日都會說的一大堆話，但只有一個人評論了，我連點讚都沒收到\n明明17歲的生日過得是多麼完美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 47,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 684
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983231596405895169"
+      ],
+      "media_source_tweet_id": [
+        "1983231603133550797"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1983907271320232184",
+    "created_at": "2025-10-30T14:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983907271320232184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKgCRNTHGt",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/1983231603133550797/photo/1",
+          "media_key": "3_1983231596405895169",
+          "start": 11,
+          "url": "https://t.co/kKgCRNTHGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983907271320232184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 427
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983231603133550797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/kKgCRNTHGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1983231596405895169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XaoRsasAEQBxa.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983231596405895169"
+          ],
+          "media_source_tweet_id": [
+            "1983231603133550797"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1983907271320232184",
+        "created_at": "2025-10-30T14:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983907271320232184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKgCRNTHGt",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1983231603133550797/photo/1",
+              "media_key": "3_1983231596405895169",
+              "start": 11,
+              "url": "https://t.co/kKgCRNTHGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983907271320232184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 427
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983231603133550797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/kKgCRNTHGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983231596405895169"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1983231603133550797",
+        "created_at": "2025-10-28T17:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983231603133550797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKgCRNTHGt",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1983231603133550797/photo/1",
+              "media_key": "3_1983231596405895169",
+              "start": 0,
+              "url": "https://t.co/kKgCRNTHGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983231603133550797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 237626,
+          "like_count": 3819,
+          "quote_count": 31,
+          "reply_count": 40,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kKgCRNTHGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw5Ceo"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 71,
+          "like_count": 2336,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/TcLkEw5Ceo",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1983516311541207401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93068,
+          "following_count": 2779,
+          "like_count": 43126,
+          "listed_count": 126,
+          "media_count": 2931,
+          "tweet_count": 7241
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

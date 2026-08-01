@@ -1,0 +1,167 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1610646009444728833",
+    "created_at": "2023-01-04T14:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-04T15:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1610646009444728833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "842278046748966912",
+          "start": 3,
+          "username": "rnatataki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1610646009444728833",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1610641238574915584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnatataki: 死ねずなにもできず酒とゲロだけの生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1610646009444728833",
+        "created_at": "2023-01-04T14:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-04T15:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1610646009444728833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "842278046748966912",
+              "start": 3,
+              "username": "rnatataki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1610646009444728833",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1610641238574915584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnatataki: 死ねずなにもできず酒とゲロだけの生活"
+      },
+      {
+        "attachments": {},
+        "author_id": "842278046748966912",
+        "conversation_id": "1610641238574915584",
+        "created_at": "2023-01-04T14:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-04T14:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1610641238574915584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1610641238574915584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死ねずなにもできず酒とゲロだけの生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "躁鬱電波。廢棄電車、雨霧、安定藥和貓的亡靈。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "幽霊と猫",
+        "pinned_tweet_id": "1608061971274031107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573948115912114176/LHhNEYLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 41,
+          "listed_count": 0,
+          "tweet_count": 392
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-16T07:35:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rnatataki.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://rnatataki.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/BX3TfZOi8L"
+              }
+            ]
+          }
+        },
+        "id": "842278046748966912",
+        "name": "のろヰ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137491982404603906/iRcXCVNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26922,
+          "following_count": 66,
+          "listed_count": 250,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/BX3TfZOi8L",
+        "username": "rnatataki",
+        "verified": false
+      }
+    ]
+  }
+}

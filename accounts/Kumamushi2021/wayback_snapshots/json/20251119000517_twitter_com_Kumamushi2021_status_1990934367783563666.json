@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1990885109910700305",
+    "created_at": "2025-11-19T00:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T01:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990934367783563666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654908701772496896",
+          "start": 0,
+          "username": "Arpeggio514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990934367783563666",
+    "in_reply_to_user_id": "1654908701772496896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990885109910700305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arpeggio514 怎么知道我也会这样😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1990885109910700305",
+        "created_at": "2025-11-19T00:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990934367783563666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654908701772496896",
+              "start": 0,
+              "username": "Arpeggio514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990934367783563666",
+        "in_reply_to_user_id": "1654908701772496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990885109910700305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arpeggio514 怎么知道我也会这样😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "1990885109910700305",
+        "created_at": "2025-11-18T20:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990885109910700305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990885109910700305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我推文点赞的陌生人都将获得我短至三十秒长至十余分钟的无差别视奸\n观察他人生活的冰山一角也饶有趣味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 79,
+          "like_count": 2538,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1358
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "飘飘忽忽",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "Arpeggio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990155074752950272/gRVAL6Do_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4898,
+          "following_count": 1147,
+          "like_count": 19482,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 3619
+        },
+        "username": "Arpeggio514",
+        "verified": false
+      }
+    ]
+  }
+}

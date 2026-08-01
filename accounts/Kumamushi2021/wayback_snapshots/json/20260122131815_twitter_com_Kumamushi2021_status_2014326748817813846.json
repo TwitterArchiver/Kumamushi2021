@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2014325869947556064",
+    "created_at": "2026-01-22T13:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014326748817813846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014326748817813846",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014325869947556064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 熟悉感\n有疏离感意味着那些事在某种程度上不再属于我了  而熟悉感意味着我曾有过但现在不能再次获得  后者会多一份类似“失去”的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2014325869947556064",
+        "created_at": "2026-01-22T13:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014326748817813846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014326748817813846",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014325869947556064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 熟悉感\n有疏离感意味着那些事在某种程度上不再属于我了  而熟悉感意味着我曾有过但现在不能再次获得  后者会多一份类似“失去”的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2014325869947556064",
+        "created_at": "2026-01-22T13:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014325869947556064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014325869947556064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与过去的疏离感和熟悉感，哪个更能让你感到抑郁？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 95,
+          "like_count": 3365,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1719
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "现实戒断中 / email: u@uhio.uk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk/void",
+                "end": 23,
+                "expanded_url": "http://uhio.uk/void",
+                "start": 0,
+                "url": "https://t.co/WMoIHNe5nD"
+              }
+            ]
+          }
+        },
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "泛地面主义",
+        "pinned_tweet_id": "2005557494320660954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007723316203954176/pXpK4CTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 27,
+          "like_count": 4012,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/WMoIHNe5nD",
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

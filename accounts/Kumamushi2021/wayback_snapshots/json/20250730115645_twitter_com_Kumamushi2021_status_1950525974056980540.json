@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950497356392333312"
+      ],
+      "media_source_tweet_id": [
+        "1950508101263888688"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1950525974056980540",
+    "created_at": "2025-07-30T11:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T12:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950525974056980540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553031019338809344",
+          "start": 3,
+          "username": "notti729"
+        }
+      ],
+      "urls": [
+        {
+          "description": "星通る月の丘　底なし海の中そして僕らは消えてしまうんだ製作：notti729instagram & X：@notti729",
+          "display_url": "youtube.com/watch?v=MFba37…",
+          "end": 115,
+          "expanded_url": "https://www.youtube.com/watch?v=MFba37qt1cg",
+          "start": 92,
+          "status": 200,
+          "title": "底なし海の唄 / 無底海歌",
+          "unwound_url": "https://www.youtube.com/watch?v=MFba37qt1cg",
+          "url": "https://t.co/uzSB5jhtJW"
+        },
+        {
+          "display_url": "pic.x.com/RJ76XIb4fI",
+          "end": 139,
+          "expanded_url": "https://x.com/notti729/status/1950508101263888688/video/1",
+          "media_key": "13_1950497356392333312",
+          "start": 116,
+          "url": "https://t.co/RJ76XIb4fI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950525974056980540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950508101263888688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @notti729: 嘗試作了一首自己唱的曲，因為不太會唱歌，可能唱得不太好，如果有空的話希望大家可以來聽聽，這是一首關於我所感受到的孤獨的歌。\n \n底なし海の唄 / 無底海歌\nhttps://t.co/uzSB5jhtJW https://t.co/RJ76XIb4fI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44160,
+        "height": 1080,
+        "media_key": "13_1950497356392333312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950497356392333312/img/8FnDH3EUmODqvGxk.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950497356392333312/vid/avc1/480x270/3JQASxw946-1G1US.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950497356392333312/vid/avc1/640x360/PC1DkKntVy65qGBw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950497356392333312/vid/avc1/1280x720/etzV56DtYuP2OccF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950497356392333312/pl/oyfDgJRJe3JKuYKJ.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950497356392333312"
+          ],
+          "media_source_tweet_id": [
+            "1950508101263888688"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950525974056980540",
+        "created_at": "2025-07-30T11:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950525974056980540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553031019338809344",
+              "start": 3,
+              "username": "notti729"
+            }
+          ],
+          "urls": [
+            {
+              "description": "星通る月の丘　底なし海の中そして僕らは消えてしまうんだ製作：notti729instagram & X：@notti729",
+              "display_url": "youtube.com/watch?v=MFba37…",
+              "end": 115,
+              "expanded_url": "https://www.youtube.com/watch?v=MFba37qt1cg",
+              "start": 92,
+              "status": 200,
+              "title": "底なし海の唄 / 無底海歌",
+              "unwound_url": "https://www.youtube.com/watch?v=MFba37qt1cg",
+              "url": "https://t.co/uzSB5jhtJW"
+            },
+            {
+              "display_url": "pic.x.com/RJ76XIb4fI",
+              "end": 139,
+              "expanded_url": "https://x.com/notti729/status/1950508101263888688/video/1",
+              "media_key": "13_1950497356392333312",
+              "start": 116,
+              "url": "https://t.co/RJ76XIb4fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950525974056980540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950508101263888688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @notti729: 嘗試作了一首自己唱的曲，因為不太會唱歌，可能唱得不太好，如果有空的話希望大家可以來聽聽，這是一首關於我所感受到的孤獨的歌。\n \n底なし海の唄 / 無底海歌\nhttps://t.co/uzSB5jhtJW https://t.co/RJ76XIb4fI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950497356392333312"
+          ]
+        },
+        "author_id": "1553031019338809344",
+        "conversation_id": "1950508101263888688",
+        "created_at": "2025-07-30T10:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T11:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950508101263888688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "星通る月の丘　底なし海の中そして僕らは消えてしまうんだ製作：notti729instagram & X：@notti729",
+              "display_url": "youtube.com/watch?v=MFba37…",
+              "end": 101,
+              "expanded_url": "https://www.youtube.com/watch?v=MFba37qt1cg",
+              "start": 78,
+              "status": 200,
+              "title": "底なし海の唄 / 無底海歌",
+              "unwound_url": "https://www.youtube.com/watch?v=MFba37qt1cg",
+              "url": "https://t.co/uzSB5jhtJW"
+            },
+            {
+              "display_url": "pic.x.com/RJ76XIb4fI",
+              "end": 125,
+              "expanded_url": "https://x.com/notti729/status/1950508101263888688/video/1",
+              "media_key": "13_1950497356392333312",
+              "start": 102,
+              "url": "https://t.co/RJ76XIb4fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950508101263888688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嘗試作了一首自己唱的曲，因為不太會唱歌，可能唱得不太好，如果有空的話希望大家可以來聽聽，這是一首關於我所感受到的孤獨的歌。\n \n底なし海の唄 / 無底海歌\nhttps://t.co/uzSB5jhtJW https://t.co/RJ76XIb4fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 62,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 849
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T14:54:02.000Z",
+        "description": "會不定期發佈關於作曲和一些無聊的推文",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@notti-tk7xi",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@notti-tk7xi",
+                "start": 0,
+                "url": "https://t.co/xFABbGVC8r"
+              }
+            ]
+          }
+        },
+        "id": "1553031019338809344",
+        "location": "@lck39911",
+        "name": "notti729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595057253937471488/feqEtNk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 452,
+          "like_count": 16944,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/xFABbGVC8r",
+        "username": "notti729",
+        "verified": false
+      }
+    ]
+  }
+}

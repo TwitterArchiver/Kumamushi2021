@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1846570388979175651",
+    "created_at": "2024-10-18T03:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T04:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847123226767643076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725683921763905536",
+          "start": 0,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847123226767643076",
+    "in_reply_to_user_id": "1725683921763905536",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847075319217639619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luonbe69 現在還不會選擇這條道路  我沒有錢  也還沒到時間\n到了那個時候我會有選擇的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1846570388979175651",
+        "created_at": "2024-10-18T03:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T04:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847123226767643076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725683921763905536",
+              "start": 0,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847123226767643076",
+        "in_reply_to_user_id": "1725683921763905536",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847075319217639619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luonbe69 現在還不會選擇這條道路  我沒有錢  也還沒到時間\n到了那個時候我會有選擇的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1846570388979175651",
+        "created_at": "2024-10-18T00:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T01:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847075319217639619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847075319217639619",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846900694697365541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 戊巴比妥要一千多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 44,
+          "like_count": 1403,
+          "listed_count": 0,
+          "tweet_count": 726
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 夕阳 世界 命运 死亡 流浪 旅者 列车 白日梦 闪烁 以太 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "罗伦贝尔🐦‍⬛",
+        "pinned_tweet_id": "1752560514201469253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804516699149889536/QLdZUkpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 5600,
+          "like_count": 37936,
+          "listed_count": 2,
+          "tweet_count": 14566
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

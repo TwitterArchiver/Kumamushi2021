@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974469266650083328"
+      ],
+      "media_source_tweet_id": [
+        "1974469281242120537"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1974667365385441490",
+    "created_at": "2025-10-05T02:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974667365385441490"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637626782118727680",
+          "start": 3,
+          "username": "theratssnest"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HqppDC95Jt",
+          "end": 50,
+          "expanded_url": "https://x.com/theratssnest/status/1974469281242120537/photo/1",
+          "media_key": "3_1974469266650083328",
+          "start": 27,
+          "url": "https://t.co/HqppDC95Jt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974667365385441490",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 646
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974469281242120537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theratssnest: #素晴らしき日々 https://t.co/HqppDC95Jt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_1974469266650083328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2a5VjqasAAZphb.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974469266650083328"
+          ],
+          "media_source_tweet_id": [
+            "1974469281242120537"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1974667365385441490",
+        "created_at": "2025-10-05T02:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974667365385441490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637626782118727680",
+              "start": 3,
+              "username": "theratssnest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqppDC95Jt",
+              "end": 50,
+              "expanded_url": "https://x.com/theratssnest/status/1974469281242120537/photo/1",
+              "media_key": "3_1974469266650083328",
+              "start": 27,
+              "url": "https://t.co/HqppDC95Jt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974667365385441490",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 646
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974469281242120537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theratssnest: #素晴らしき日々 https://t.co/HqppDC95Jt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974469266650083328"
+          ]
+        },
+        "author_id": "1637626782118727680",
+        "conversation_id": "1974469281242120537",
+        "created_at": "2025-10-04T13:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974469281242120537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqppDC95Jt",
+              "end": 32,
+              "expanded_url": "https://x.com/theratssnest/status/1974469281242120537/photo/1",
+              "media_key": "3_1974469266650083328",
+              "start": 9,
+              "url": "https://t.co/HqppDC95Jt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974469281242120537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 387,
+          "impression_count": 42773,
+          "like_count": 3426,
+          "quote_count": 24,
+          "reply_count": 6,
+          "retweet_count": 646
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 https://t.co/HqppDC95Jt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2089,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T01:27:12.000Z",
+        "description": "記録用",
+        "id": "1637626782118727680",
+        "location": "Unauthorized repost prohibited",
+        "name": "4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946225566169829376/3pE6n15I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 34,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 470
+        },
+        "username": "theratssnest",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2010381232794927376",
+    "created_at": "2026-01-12T08:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010635877719081025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547554329766203393",
+          "start": 0,
+          "username": "ingingaeri0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010635877719081025",
+    "in_reply_to_user_id": "1547554329766203393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010622695223022009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ingingaeri0101 谢谢你！🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2010381232794927376",
+        "created_at": "2026-01-12T08:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010635877719081025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547554329766203393",
+              "start": 0,
+              "username": "ingingaeri0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010635877719081025",
+        "in_reply_to_user_id": "1547554329766203393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010622695223022009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ingingaeri0101 谢谢你！🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547554329766203393",
+        "conversation_id": "2010381232794927376",
+        "created_at": "2026-01-12T07:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010622695223022009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010622695223022009",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010381232794927376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 92,
+          "like_count": 3155,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1567
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T12:14:10.000Z",
+        "description": "I don't need a man just accessories",
+        "id": "1547554329766203393",
+        "name": "王老吉吉吉吉喆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009484897703088131/1JnVeDTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 61,
+          "like_count": 2676,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 442
+        },
+        "username": "ingingaeri0101",
+        "verified": false
+      }
+    ]
+  }
+}

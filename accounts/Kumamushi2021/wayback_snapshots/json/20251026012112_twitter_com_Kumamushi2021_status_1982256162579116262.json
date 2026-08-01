@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982044373635174400"
+      ],
+      "media_source_tweet_id": [
+        "1982044382451949713"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1982256162579116262",
+    "created_at": "2025-10-26T01:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T02:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982256162579116262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1216701459007279111",
+          "start": 3,
+          "username": "42Nse1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0eHE4o8ai",
+          "end": 38,
+          "expanded_url": "https://x.com/42Nse1/status/1982044382451949713/photo/1",
+          "media_key": "3_1982044373635174400",
+          "start": 15,
+          "url": "https://t.co/P0eHE4o8ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982256162579116262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982044382451949713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @42Nse1: 再掲 https://t.co/P0eHE4o8ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_1982044373635174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Gi20OWEAAaRFQ.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982044373635174400"
+          ],
+          "media_source_tweet_id": [
+            "1982044382451949713"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1982256162579116262",
+        "created_at": "2025-10-26T01:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982256162579116262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1216701459007279111",
+              "start": 3,
+              "username": "42Nse1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0eHE4o8ai",
+              "end": 38,
+              "expanded_url": "https://x.com/42Nse1/status/1982044382451949713/photo/1",
+              "media_key": "3_1982044373635174400",
+              "start": 15,
+              "url": "https://t.co/P0eHE4o8ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982256162579116262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982044382451949713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @42Nse1: 再掲 https://t.co/P0eHE4o8ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982044373635174400"
+          ]
+        },
+        "author_id": "1216701459007279111",
+        "conversation_id": "1982044382451949713",
+        "created_at": "2025-10-25T11:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982044382451949713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0eHE4o8ai",
+              "end": 26,
+              "expanded_url": "https://x.com/42Nse1/status/1982044382451949713/photo/1",
+              "media_key": "3_1982044373635174400",
+              "start": 3,
+              "url": "https://t.co/P0eHE4o8ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982044382451949713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 8494,
+          "like_count": 1077,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/P0eHE4o8ai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 2256,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-13T12:40:19.000Z",
+        "description": "殺してね▼転載禁止▼✉utsu.4kiso@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/fb86e8a3-81d2-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/fb86e8a3-81d2-4a9c-b252-b9496575875a",
+                "start": 0,
+                "url": "https://t.co/eHRo8EAdhG"
+              }
+            ]
+          }
+        },
+        "id": "1216701459007279111",
+        "location": "依頼についてはこちら▶︎",
+        "name": "うつの葬色",
+        "pinned_tweet_id": "1912430688747548703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973157404281118720/_evgdjLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11960,
+          "following_count": 41,
+          "like_count": 2634,
+          "listed_count": 87,
+          "media_count": 329,
+          "tweet_count": 3289
+        },
+        "url": "https://t.co/eHRo8EAdhG",
+        "username": "42Nse1",
+        "verified": false
+      }
+    ]
+  }
+}

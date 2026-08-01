@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1969073870561845674",
+    "created_at": "2025-09-19T16:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T17:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969074655106355487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969074655106355487",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969073870561845674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 恭喜ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1969073870561845674",
+        "created_at": "2025-09-19T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969074655106355487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969074655106355487",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969073870561845674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 恭喜ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486755570694729729",
+        "conversation_id": "1969073870561845674",
+        "created_at": "2025-09-19T16:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T17:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969073870561845674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969073870561845674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30fo了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 69,
+          "like_count": 2016,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "本体很丑陋 请不要讨厌我 请不要对我抱有希望 我是肮脏的臭虫 只是喜欢贴贴抱抱。。。不，请不要这样，我害怕。日常活动区域：重庆/四川/（以后可能有广东和上海） 。会互fo的 本体@Chain_Inks 可能。。。能算个男妈妈（？）请需要帮助的时候来找我，我会尽力帮助你，我希望所有人跟我交友前先明确我的性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "location": "Rose·Tick",
+        "name": "ヰ世界优泠",
+        "pinned_tweet_id": "1968690281898799293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862501939952361472/CaCamy2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 214,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 438
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

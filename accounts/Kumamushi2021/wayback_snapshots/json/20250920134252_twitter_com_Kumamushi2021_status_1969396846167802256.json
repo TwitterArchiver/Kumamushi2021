@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1969396846167802256",
+    "created_at": "2025-09-20T13:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969396846167802256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754579021923319808",
+          "start": 3,
+          "username": "TvTxiaoJx77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969396846167802256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968594832126861793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TvTxiaoJx77: 我终于明白我留不住任何人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1969396846167802256",
+        "created_at": "2025-09-20T13:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969396846167802256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754579021923319808",
+              "start": 3,
+              "username": "TvTxiaoJx77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969396846167802256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968594832126861793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TvTxiaoJx77: 我终于明白我留不住任何人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754579021923319808",
+        "conversation_id": "1968594832126861793",
+        "created_at": "2025-09-18T08:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T09:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968594832126861793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968594832126861793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我终于明白我留不住任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 69,
+          "like_count": 2021,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T18:53:46.000Z",
+        "description": "精神病小女孩 記錄碎碎念",
+        "id": "1754579021923319808",
+        "name": "創可貼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754579460907503619/lQlFGDvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 5,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "TvTxiaoJx77",
+        "verified": false
+      }
+    ]
+  }
+}

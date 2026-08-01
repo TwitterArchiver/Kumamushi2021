@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944086971208347648"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1944086975302316512",
+    "created_at": "2025-07-12T17:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T18:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944086975302316512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PN6RF3A0Az",
+          "end": 54,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1944086975302316512/photo/1",
+          "media_key": "3_1944086971208347648",
+          "start": 31,
+          "url": "https://t.co/PN6RF3A0Az"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944086975302316512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗了龙娘朋友还帮我拍了铭牌喜得我到处发\n有钱了我邀请朋友吃饭 https://t.co/PN6RF3A0Az"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_1944086971208347648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvrIzNNWsAANuao.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944086971208347648"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944086975302316512",
+        "created_at": "2025-07-12T17:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T18:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944086975302316512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PN6RF3A0Az",
+              "end": 54,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1944086975302316512/photo/1",
+              "media_key": "3_1944086971208347648",
+              "start": 31,
+              "url": "https://t.co/PN6RF3A0Az"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944086975302316512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗了龙娘朋友还帮我拍了铭牌喜得我到处发\n有钱了我邀请朋友吃饭 https://t.co/PN6RF3A0Az"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 59,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 814
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1805620826114605060"
+      ],
+      "media_source_tweet_id": [
+        "1805620860553937230"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1805839806884364714",
+    "created_at": "2024-06-26T05:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T06:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805839806884364714"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "GUMI",
+          "probability": 0.3272,
+          "start": 61,
+          "type": "Other"
+        },
+        {
+          "end": 79,
+          "normalized_text": "GUMI15",
+          "probability": 0.4378,
+          "start": 74,
+          "type": "Other"
+        },
+        {
+          "end": 87,
+          "normalized_text": "GUMI",
+          "probability": 0.4259,
+          "start": 84,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 60,
+          "tag": "GUMI誕生祭2024"
+        },
+        {
+          "end": 82,
+          "start": 73,
+          "tag": "GUMI15周年"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "GUMI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "191032579",
+          "start": 3,
+          "username": "pierrotsdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4eT2GfR54p",
+          "end": 112,
+          "expanded_url": "https://twitter.com/pierrotsdoll/status/1805620860553937230/photo/1",
+          "media_key": "16_1805620826114605060",
+          "start": 89,
+          "url": "https://t.co/4eT2GfR54p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805839806884364714",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2226
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805620860553937230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pierrotsdoll: HAPPY 15TH ANNIVERSARY LET’S GOOOOO!!!🥕💚 \n#GUMI誕生祭2024 #GUMI15周年 #GUMI https://t.co/4eT2GfR54p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "16_1805620826114605060",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GQ7akyObwAQ72Ul.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GQ7akyObwAQ72Ul.mp4"
+          }
+        ],
+        "width": 1994
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1805620826114605060"
+          ],
+          "media_source_tweet_id": [
+            "1805620860553937230"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1805839806884364714",
+        "created_at": "2024-06-26T05:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T06:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805839806884364714"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "GUMI",
+              "probability": 0.3272,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "GUMI15",
+              "probability": 0.4378,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "GUMI",
+              "probability": 0.4259,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 60,
+              "tag": "GUMI誕生祭2024"
+            },
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "GUMI15周年"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "GUMI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "191032579",
+              "start": 3,
+              "username": "pierrotsdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4eT2GfR54p",
+              "end": 112,
+              "expanded_url": "https://twitter.com/pierrotsdoll/status/1805620860553937230/photo/1",
+              "media_key": "16_1805620826114605060",
+              "start": 89,
+              "url": "https://t.co/4eT2GfR54p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805839806884364714",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2226
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805620860553937230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pierrotsdoll: HAPPY 15TH ANNIVERSARY LET’S GOOOOO!!!🥕💚 \n#GUMI誕生祭2024 #GUMI15周年 #GUMI https://t.co/4eT2GfR54p"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1805620826114605060"
+          ]
+        },
+        "author_id": "191032579",
+        "conversation_id": "1805620860553937230",
+        "created_at": "2024-06-25T15:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T16:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805620860553937230"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "GUMI15",
+              "probability": 0.358,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "GUMI",
+              "probability": 0.3786,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "GUMI誕生祭2024"
+            },
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "GUMI15周年"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "GUMI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4eT2GfR54p",
+              "end": 94,
+              "expanded_url": "https://twitter.com/pierrotsdoll/status/1805620860553937230/photo/1",
+              "media_key": "16_1805620826114605060",
+              "start": 71,
+              "url": "https://t.co/4eT2GfR54p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805620860553937230",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 64818,
+          "like_count": 7147,
+          "quote_count": 14,
+          "reply_count": 15,
+          "retweet_count": 2226
+        },
+        "reply_settings": "everyone",
+        "text": "HAPPY 15TH ANNIVERSARY LET’S GOOOOO!!!🥕💚 \n#GUMI誕生祭2024 #GUMI15周年 #GUMI https://t.co/4eT2GfR54p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 34,
+          "like_count": 1105,
+          "listed_count": 0,
+          "tweet_count": 513
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-15T13:08:37.000Z",
+        "description": "Digital Stars デジスタ MIKU & GUMI MV, Digital Stars Online 2023 Maubox set, Just for Tonight, rachie's Vampire & Odo etc. 💚 ENG/粵語/日本語👌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pierrotsdoll.carrd.co",
+                "end": 23,
+                "expanded_url": "https://pierrotsdoll.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/da3B3E3kyu"
+              }
+            ]
+          }
+        },
+        "id": "191032579",
+        "location": "Comm info/email on carrd ",
+        "name": "peedee(ピディ)",
+        "pinned_tweet_id": "1285966583332892674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720495451680731136/A8ds7KJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9789,
+          "following_count": 658,
+          "like_count": 27554,
+          "listed_count": 78,
+          "tweet_count": 34514
+        },
+        "url": "https://t.co/da3B3E3kyu",
+        "username": "pierrotsdoll",
+        "verified": false
+      }
+    ]
+  }
+}

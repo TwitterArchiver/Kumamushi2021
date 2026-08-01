@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1982791320268607957",
+    "created_at": "2025-10-27T12:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982791320268607957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855257528730636288",
+          "start": 3,
+          "username": "shio0lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982791320268607957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982429016746590589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shio0lemon: 「献血お願いしまーす！！」\n「(精神系の薬飲んでるから出来ないんや…ごめんやで……献血ですら社会の役に立たないワイ………何で生きてるんだろ…)」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1982791320268607957",
+        "created_at": "2025-10-27T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982791320268607957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1855257528730636288",
+              "start": 3,
+              "username": "shio0lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982791320268607957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982429016746590589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shio0lemon: 「献血お願いしまーす！！」\n「(精神系の薬飲んでるから出来ないんや…ごめんやで……献血ですら社会の役に立たないワイ………何で生きてるんだろ…)」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855257528730636288",
+        "conversation_id": "1982429016746590589",
+        "created_at": "2025-10-26T12:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982429016746590589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982429016746590589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 72666,
+          "like_count": 2746,
+          "quote_count": 102,
+          "reply_count": 24,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "「献血お願いしまーす！！」\n「(精神系の薬飲んでるから出来ないんや…ごめんやで……献血ですら社会の役に立たないワイ………何で生きてるんだろ…)」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T14:34:11.000Z",
+        "description": "うつ病でニートで肥満で甘ったれでプライド高くて夢見がち‼️いいとこ無しの30代の人生‼️今後どうなるか乞うご期待😄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/shio0lemon",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/shio0lemon",
+                "start": 0,
+                "url": "https://t.co/YaNdpqRxnW"
+              }
+            ]
+          }
+        },
+        "id": "1855257528730636288",
+        "name": "れもね",
+        "pinned_tweet_id": "1978643044581916963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972506803541078016/GBJsDl0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 159,
+          "like_count": 1092,
+          "listed_count": 13,
+          "media_count": 13,
+          "tweet_count": 780
+        },
+        "url": "https://t.co/YaNdpqRxnW",
+        "username": "shio0lemon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1805583367049793536"
+      ],
+      "media_source_tweet_id": [
+        "1805583459794174232"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1806028356917547237",
+    "created_at": "2024-06-26T18:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T19:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806028356917547237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1041214578074431488",
+          "start": 3,
+          "username": "Nitsuke_Plague"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Isl47hir75",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1805583459794174232/video/1",
+          "media_key": "13_1805583367049793536",
+          "start": 38,
+          "url": "https://t.co/Isl47hir75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806028356917547237",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8665
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805583459794174232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nitsuke_Plague: ハイタッチ→手繋ぎ→手繋ぎ(手錠) https://t.co/Isl47hir75"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26883,
+        "height": 1920,
+        "media_key": "13_1805583367049793536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1805583367049793536/img/RjCBiQYIwa5E3kgC.jpg",
+        "public_metrics": {
+          "view_count": 1839542
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805583367049793536/vid/avc1/320x568/pVfIBpWdX69JBuKU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805583367049793536/vid/avc1/480x852/3ujZALnq4VswQSGy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805583367049793536/vid/avc1/720x1280/AS0_tXhDPO6naW52.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1805583367049793536/pl/heNOmoYx66tD_IZ2.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1805583367049793536"
+          ],
+          "media_source_tweet_id": [
+            "1805583459794174232"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1806028356917547237",
+        "created_at": "2024-06-26T18:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T19:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806028356917547237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1041214578074431488",
+              "start": 3,
+              "username": "Nitsuke_Plague"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Isl47hir75",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1805583459794174232/video/1",
+              "media_key": "13_1805583367049793536",
+              "start": 38,
+              "url": "https://t.co/Isl47hir75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806028356917547237",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805583459794174232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nitsuke_Plague: ハイタッチ→手繋ぎ→手繋ぎ(手錠) https://t.co/Isl47hir75"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1805583367049793536"
+          ]
+        },
+        "author_id": "1041214578074431488",
+        "conversation_id": "1805583459794174232",
+        "created_at": "2024-06-25T12:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T13:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805583459794174232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Isl47hir75",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1805583459794174232/video/1",
+              "media_key": "13_1805583367049793536",
+              "start": 18,
+              "url": "https://t.co/Isl47hir75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805583459794174232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11728,
+          "impression_count": 4536415,
+          "like_count": 74269,
+          "quote_count": 1719,
+          "reply_count": 218,
+          "retweet_count": 8665
+        },
+        "reply_settings": "everyone",
+        "text": "ハイタッチ→手繋ぎ→手繋ぎ(手錠) https://t.co/Isl47hir75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 34,
+          "like_count": 1108,
+          "listed_count": 0,
+          "tweet_count": 517
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-16T06:37:55.000Z",
+        "description": "Fan Art : #NitsukeArt\nSecond Account : @Nitsuke_Sub\n\nRegarding the use of Nitsuke's images : \nhttps://t.co/pgB2I7CM5q",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 10,
+                "tag": "NitsukeArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Nitsuke_Sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/Nitsuke_Plague…",
+                "end": 117,
+                "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1354012074775441408",
+                "start": 94,
+                "url": "https://t.co/pgB2I7CM5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/nitsuke",
+                "end": 23,
+                "expanded_url": "http://patreon.com/nitsuke",
+                "start": 0,
+                "url": "https://t.co/PzSUoLYiKP"
+              }
+            ]
+          }
+        },
+        "id": "1041214578074431488",
+        "name": "煮付 Nitsuke / ペストマスクとスーツ",
+        "pinned_tweet_id": "1785311949573779695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050783900375572486/n_MRywDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57294,
+          "following_count": 5038,
+          "like_count": 6012,
+          "listed_count": 268,
+          "tweet_count": 7118
+        },
+        "url": "https://t.co/PzSUoLYiKP",
+        "username": "Nitsuke_Plague",
+        "verified": true
+      }
+    ]
+  }
+}

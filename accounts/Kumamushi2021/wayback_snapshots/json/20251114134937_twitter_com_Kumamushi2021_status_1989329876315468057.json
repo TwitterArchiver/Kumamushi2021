@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989267961157427200"
+      ],
+      "media_source_tweet_id": [
+        "1989273902695256147"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1989329876315468057",
+    "created_at": "2025-11-14T13:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989329876315468057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1566130413071847425",
+          "start": 3,
+          "username": "kotorino_mabuta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yvw5kJf64y",
+          "end": 44,
+          "expanded_url": "https://x.com/kotorino_mabuta/status/1989273902695256147/photo/1",
+          "media_key": "3_1989267961157427200",
+          "start": 21,
+          "url": "https://t.co/Yvw5kJf64y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989329876315468057",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989273902695256147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotorino_mabuta: https://t.co/Yvw5kJf64y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_1989267961157427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tMq8vaoAA-aaV.jpg",
+        "width": 2859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989267961157427200"
+          ],
+          "media_source_tweet_id": [
+            "1989273902695256147"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1989329876315468057",
+        "created_at": "2025-11-14T13:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989329876315468057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1566130413071847425",
+              "start": 3,
+              "username": "kotorino_mabuta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yvw5kJf64y",
+              "end": 44,
+              "expanded_url": "https://x.com/kotorino_mabuta/status/1989273902695256147/photo/1",
+              "media_key": "3_1989267961157427200",
+              "start": 21,
+              "url": "https://t.co/Yvw5kJf64y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989329876315468057",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989273902695256147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotorino_mabuta: https://t.co/Yvw5kJf64y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989267961157427200"
+          ]
+        },
+        "author_id": "1566130413071847425",
+        "conversation_id": "1989273902695256147",
+        "created_at": "2025-11-14T10:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989273902695256147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yvw5kJf64y",
+              "end": 23,
+              "expanded_url": "https://x.com/kotorino_mabuta/status/1989273902695256147/photo/1",
+              "media_key": "3_1989267961157427200",
+              "start": 0,
+              "url": "https://t.co/Yvw5kJf64y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989273902695256147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 6600,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Yvw5kJf64y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 78,
+          "like_count": 2487,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1321
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T18:26:19.000Z",
+        "description": "Illustrator｜ご依頼について（2026年1月以降着手）▶︎ https://t.co/p31wJCAvyQ ｜contact ▶︎ ✉️ kotorinomabuta@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/kotorinomabuta",
+                "end": 58,
+                "expanded_url": "https://lit.link/kotorinomabuta",
+                "start": 35,
+                "url": "https://t.co/p31wJCAvyQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/kotorino-mabuta",
+                "end": 23,
+                "expanded_url": "https://fori.io/kotorino-mabuta",
+                "start": 0,
+                "url": "https://t.co/hNiB1tu8Xe"
+              }
+            ]
+          }
+        },
+        "id": "1566130413071847425",
+        "location": "🚫制作物の無断転載/使用とAI学習を禁止しています",
+        "name": "湖畔⟡COMITIA154【あ50b】",
+        "pinned_tweet_id": "1989273902695256147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970093637087510528/_cUgYNMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7367,
+          "following_count": 443,
+          "like_count": 13484,
+          "listed_count": 58,
+          "media_count": 114,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/hNiB1tu8Xe",
+        "username": "kotorino_mabuta",
+        "verified": false
+      }
+    ]
+  }
+}

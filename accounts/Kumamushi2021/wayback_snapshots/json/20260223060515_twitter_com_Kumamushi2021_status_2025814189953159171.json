@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2025814189953159171",
+    "created_at": "2026-02-23T06:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025814189953159171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945157928010604544",
+          "start": 3,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025814189953159171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025287252033896759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiTvTing: 可以不凶我吗。我小时候总是被人吼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2025814189953159171",
+        "created_at": "2026-02-23T06:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025814189953159171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945157928010604544",
+              "start": 3,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025814189953159171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025287252033896759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiTvTing: 可以不凶我吗。我小时候总是被人吼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2025287252033896759",
+        "created_at": "2026-02-21T19:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T20:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025287252033896759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025287252033896759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 35292,
+          "like_count": 846,
+          "quote_count": 20,
+          "reply_count": 24,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "可以不凶我吗。我小时候总是被人吼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 105,
+          "like_count": 3862,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2018
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们找我互fo",
+        "id": "1945157928010604544",
+        "name": "小地球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023214653971767296/neKcTyBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 173,
+          "like_count": 522,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 439
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

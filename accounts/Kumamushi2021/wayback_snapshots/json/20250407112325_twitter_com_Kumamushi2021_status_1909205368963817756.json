@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908849330695589888"
+      ],
+      "media_source_tweet_id": [
+        "1908849512204136794"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1909205368963817756",
+    "created_at": "2025-04-07T11:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T12:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909205368963817756"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1127247324680343552",
+          "start": 3,
+          "username": "icsgmr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JlOVmPXQoF",
+          "end": 55,
+          "expanded_url": "https://x.com/icsgmr/status/1908849512204136794/photo/1",
+          "media_key": "3_1908849330695589888",
+          "start": 32,
+          "url": "https://t.co/JlOVmPXQoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909205368963817756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908849512204136794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icsgmr: 死にたいひまわり🌻🌻🌻\n#SKC美術部 https://t.co/JlOVmPXQoF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_1908849330695589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2YWk3aUAAQQzK.png",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908849330695589888"
+          ],
+          "media_source_tweet_id": [
+            "1908849512204136794"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1909205368963817756",
+        "created_at": "2025-04-07T11:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T12:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909205368963817756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1127247324680343552",
+              "start": 3,
+              "username": "icsgmr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlOVmPXQoF",
+              "end": 55,
+              "expanded_url": "https://x.com/icsgmr/status/1908849512204136794/photo/1",
+              "media_key": "3_1908849330695589888",
+              "start": 32,
+              "url": "https://t.co/JlOVmPXQoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909205368963817756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908849512204136794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @icsgmr: 死にたいひまわり🌻🌻🌻\n#SKC美術部 https://t.co/JlOVmPXQoF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908849330695589888"
+          ]
+        },
+        "author_id": "1127247324680343552",
+        "conversation_id": "1908849512204136794",
+        "created_at": "2025-04-06T11:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T12:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908849512204136794"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlOVmPXQoF",
+              "end": 43,
+              "expanded_url": "https://x.com/icsgmr/status/1908849512204136794/photo/1",
+              "media_key": "3_1908849330695589888",
+              "start": 20,
+              "url": "https://t.co/JlOVmPXQoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908849512204136794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4108,
+          "like_count": 221,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "死にたいひまわり🌻🌻🌻\n#SKC美術部 https://t.co/JlOVmPXQoF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 53,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 717
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-11T16:21:20.000Z",
+        "description": "ーΣ○(いも)と申します。🖍絵→https://t.co/rStfNRoItu。お絵描きと大友克洋作品全般(気分はもう戦争•AKIRA等)が好き。※諸事情のため低浮上気味です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/icsgmr/status/…",
+                "end": 39,
+                "expanded_url": "https://twitter.com/icsgmr/status/1161289574859120642?s=210EcjQT6hec95pZ3UU1scSfaotW",
+                "start": 16,
+                "url": "https://t.co/rStfNRoItu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imomcism.wixsite.com/643mgmg",
+                "end": 23,
+                "expanded_url": "http://imomcism.wixsite.com/643mgmg",
+                "start": 0,
+                "url": "https://t.co/NqfXRAnaw9"
+              }
+            ]
+          }
+        },
+        "id": "1127247324680343552",
+        "location": "フォローお気軽に🎶💊🎶",
+        "name": "ーΣ○🍟",
+        "pinned_tweet_id": "1161289574859120642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619731843187896321/Naof_bIA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 43,
+          "like_count": 255,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/NqfXRAnaw9",
+        "username": "icsgmr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1999131594712666488",
+    "created_at": "2025-12-11T14:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999131594712666488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "170414522",
+          "start": 3,
+          "username": "lcayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999131594712666488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998971642631065880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lcayu: 讲一下关于弱势群体的话题吧。\n\n可能有人听过，人类的文明始于一根愈合的大腿骨的故事。\n\n愈合的大腿骨是人类从纯粹的生物竞争走向有组织、有同理心社会的关键转折点的象征。\n\n优待&amp;关心老弱病残孕等，同样也是一个社会文明的象征。\n\n比如无障碍设施的建设，可能一些…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1999131594712666488",
+        "created_at": "2025-12-11T14:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999131594712666488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "170414522",
+              "start": 3,
+              "username": "lcayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999131594712666488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998971642631065880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lcayu: 讲一下关于弱势群体的话题吧。\n\n可能有人听过，人类的文明始于一根愈合的大腿骨的故事。\n\n愈合的大腿骨是人类从纯粹的生物竞争走向有组织、有同理心社会的关键转折点的象征。\n\n优待&amp;关心老弱病残孕等，同样也是一个社会文明的象征。\n\n比如无障碍设施的建设，可能一些…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "170414522",
+        "conversation_id": "1998971642631065880",
+        "created_at": "2025-12-11T04:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998971642631065880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998971642631065880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "讲一下关于弱势群体的话题吧。\n\n可能有人听过，人类的文明始于一根愈合的大腿骨的故事。\n\n愈合的大腿骨是人类从纯粹的生物竞争走向有组织、有同理心社会的关键转折点的象征。\n\n优待&关心老弱病残孕等，同样也是一个社会文明的象征。\n\n比如无障碍设施的建设，可能一些人觉得关我屁事，我又用不上。\n\n是的，现在是用不上，但是不代表以后用不上；目前自己用不上，不代表亲人、朋友、路人用不上。\n\n总有一天会用上的。因为每个人总有一天会变成老弱病残孕中的一种状态。所以，优待老弱病残孕实际上就是在优待自己。\n\n衡量一个社会发不发达，也是看这些无论是硬件设施，还是政策照顾等层面的东西。\n\n只有发达的社会才会愿意且有能力把资源投入到这些方面来。而不是社会达尔文式，适者生存，不是健康的壮年就直接无视抛弃吧，那跟野生动物没什么区别了。\n\n弱势永远是相对的。你在泰森面前，再强壮也是赢弱，你再有钱，在马斯克面前也是穷逼。\n\n但是无论如何，泰森在3岁和100岁时，他肯定打不过你。马斯克再有钱，他也照样需要无障碍设施。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3609,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "讲一下关于弱势群体的话题吧。\n\n可能有人听过，人类的文明始于一根愈合的大腿骨的故事。\n\n愈合的大腿骨是人类从纯粹的生物竞争走向有组织、有同理心社会的关键转折点的象征。\n\n优待&amp;关心老弱病残孕等，同样也是一个社会文明的象征。\n\n比如无障碍设施的建设，可能一些人觉得关我屁事，我又用不上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997689615113986048/TOzE4Ln8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 87,
+          "like_count": 2870,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1329
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-24T19:32:34.000Z",
+        "description": "Hourensou Engineer👨‍💻.\nToo young too simple,sometimes naive.\n俺中国語本当上手。\n想躺平而不得中🐮🐴。\n锁推follower会被B哦\n\n📷 🎸 🎶 🚴‍♂️ 👨‍🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lanpice/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lanpice/",
+                "start": 0,
+                "url": "https://t.co/QRLOYhp91J"
+              }
+            ]
+          }
+        },
+        "id": "170414522",
+        "location": "日本",
+        "name": "Lanpice",
+        "pinned_tweet_id": "1925512190305739048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2206242728/104_15274625_76408dadc67079c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10472,
+          "following_count": 932,
+          "like_count": 6947,
+          "listed_count": 68,
+          "media_count": 2270,
+          "tweet_count": 28081
+        },
+        "url": "https://t.co/QRLOYhp91J",
+        "username": "lcayu",
+        "verified": false
+      }
+    ]
+  }
+}

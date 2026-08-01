@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982007052059672576"
+      ],
+      "media_source_tweet_id": [
+        "1982007061006385495"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1982031452343763022",
+    "created_at": "2025-10-25T10:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T11:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982031452343763022"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "きたない君",
+          "probability": 0.4774,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "721014901926273024",
+          "start": 3,
+          "username": "y_atenaba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alqMY2kG3B",
+          "end": 53,
+          "expanded_url": "https://x.com/y_atenaba/status/1982007061006385495/photo/1",
+          "media_key": "3_1982007052059672576",
+          "start": 30,
+          "url": "https://t.co/alqMY2kG3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982031452343763022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982007061006385495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y_atenaba: きたない君がいちばんかわいい https://t.co/alqMY2kG3B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3166,
+        "media_key": "3_1982007052059672576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GA6ahWAAAJTwN.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982007052059672576"
+          ],
+          "media_source_tweet_id": [
+            "1982007061006385495"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1982031452343763022",
+        "created_at": "2025-10-25T10:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982031452343763022"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "きたない君",
+              "probability": 0.4774,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "721014901926273024",
+              "start": 3,
+              "username": "y_atenaba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alqMY2kG3B",
+              "end": 53,
+              "expanded_url": "https://x.com/y_atenaba/status/1982007061006385495/photo/1",
+              "media_key": "3_1982007052059672576",
+              "start": 30,
+              "url": "https://t.co/alqMY2kG3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982031452343763022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982007061006385495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y_atenaba: きたない君がいちばんかわいい https://t.co/alqMY2kG3B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982007052059672576"
+          ]
+        },
+        "author_id": "721014901926273024",
+        "conversation_id": "1982007061006385495",
+        "created_at": "2025-10-25T08:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T09:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982007061006385495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "きたない君",
+              "probability": 0.5444,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alqMY2kG3B",
+              "end": 38,
+              "expanded_url": "https://x.com/y_atenaba/status/1982007061006385495/photo/1",
+              "media_key": "3_1982007052059672576",
+              "start": 15,
+              "url": "https://t.co/alqMY2kG3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982007061006385495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 36410,
+          "like_count": 3501,
+          "quote_count": 18,
+          "reply_count": 3,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "きたない君がいちばんかわいい https://t.co/alqMY2kG3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 2250,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-15T16:38:43.000Z",
+        "description": "絵と百合が好きです。\nﾏｼｭﾏﾛ：https://t.co/MkpfO34SuS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y_atenaba",
+                "end": 40,
+                "expanded_url": "http://marshmallow-qa.com/y_atenaba",
+                "start": 17,
+                "url": "https://t.co/MkpfO34SuS"
+              }
+            ]
+          }
+        },
+        "id": "721014901926273024",
+        "name": "あてなば侑",
+        "pinned_tweet_id": "1873610047537967174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376094113024540672/cJpqA6Ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117494,
+          "following_count": 14,
+          "like_count": 30448,
+          "listed_count": 944,
+          "media_count": 280,
+          "tweet_count": 332
+        },
+        "username": "y_atenaba",
+        "verified": true
+      }
+    ]
+  }
+}

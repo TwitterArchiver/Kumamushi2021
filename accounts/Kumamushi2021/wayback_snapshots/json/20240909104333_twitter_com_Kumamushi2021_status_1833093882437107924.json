@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1833093882437107924",
+    "created_at": "2024-09-09T10:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T11:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833093882437107924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1833093882437107924",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中途转了次学\n什么都听不懂，做不出题，答不上问题，跟同学四目相对的时候变得很讨厌自己。想变得透明，想要变得透明。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1833093882437107924",
+        "created_at": "2024-09-09T10:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T11:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833093882437107924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833093882437107924",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中途转了次学\n什么都听不懂，做不出题，答不上问题，跟同学四目相对的时候变得很讨厌自己。想变得透明，想要变得透明。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1829446039394460026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 38,
+          "like_count": 1230,
+          "listed_count": 0,
+          "tweet_count": 602
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

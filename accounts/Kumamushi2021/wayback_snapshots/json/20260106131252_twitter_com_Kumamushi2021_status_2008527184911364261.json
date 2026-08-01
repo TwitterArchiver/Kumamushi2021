@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2008159821409951943",
+    "created_at": "2026-01-06T13:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T14:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008527184911364261"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008527184911364261",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008159821409951943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我在班里就是心理委员  很好笑的是心理委员其实是个精神病\n我并不像画里的这个孩子那样可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2045,
+        "media_key": "3_2008159818570469376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95qtx4bEAABeym.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2008159821409951943",
+        "created_at": "2026-01-06T13:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008527184911364261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008527184911364261",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008159821409951943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我在班里就是心理委员  很好笑的是心理委员其实是个精神病\n我并不像画里的这个孩子那样可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008159818570469376"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "2008159821409951943",
+        "created_at": "2026-01-05T12:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T13:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008159821409951943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arvHBbxeh4",
+              "end": 38,
+              "expanded_url": "https://x.com/Kumamushi2021/status/2008159821409951943/photo/1",
+              "media_key": "3_2008159818570469376",
+              "start": 15,
+              "url": "https://t.co/arvHBbxeh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008159821409951943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理委员乞求着神明大人的仁慈 https://t.co/arvHBbxeh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004502982227054592/tsjcfrWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 96,
+          "like_count": 3037,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1465
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

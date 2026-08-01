@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2012439600313344096",
+    "created_at": "2026-01-17T08:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T09:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012440529808544148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012440529808544148",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012439600313344096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打怪猎  aibo们都是追着怪打甚至喊着“快来打我”  只有我是躲着怪打还哀嚎“不要打我了”\n玩求生之路2也是被丧尸追得怪叫乱跑\nPVP更是没玩过；；玩不了一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2012439600313344096",
+        "created_at": "2026-01-17T08:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012440529808544148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012440529808544148",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012439600313344096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打怪猎  aibo们都是追着怪打甚至喊着“快来打我”  只有我是躲着怪打还哀嚎“不要打我了”\n玩求生之路2也是被丧尸追得怪叫乱跑\nPVP更是没玩过；；玩不了一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2012439600313344096",
+        "created_at": "2026-01-17T08:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012439600313344096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012439600313344096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我打不了PVP甚至动作PVE：\n因为我被打了只会跑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 93,
+          "like_count": 3258,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1649
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

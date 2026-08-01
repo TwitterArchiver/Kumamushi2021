@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2018835823249289551",
+    "created_at": "2026-02-04T22:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T23:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019176172035440919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1899891460046204928",
+          "start": 0,
+          "username": "yydsypz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019176172035440919",
+    "in_reply_to_user_id": "1899891460046204928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019099052433174670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydsypz 希望有定向打击人类的小行星病毒让人类灭绝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2018835823249289551",
+        "created_at": "2026-02-04T22:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019176172035440919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1899891460046204928",
+              "start": 0,
+              "username": "yydsypz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019176172035440919",
+        "in_reply_to_user_id": "1899891460046204928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019099052433174670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydsypz 希望有定向打击人类的小行星病毒让人类灭绝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899891460046204928",
+        "conversation_id": "2018835823249289551",
+        "created_at": "2026-02-04T17:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019099052433174670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019099052433174670",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018835823249289551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 我讨厌人类以及关于人类的一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 100,
+          "like_count": 3617,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1824
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T18:33:30.000Z",
+        "description": "Like:maths,cs,rap,gym,Naruto,Boruto,masturbate｜\nState:severe depression,anxiety&schizophrenia｜INTP｜alcoholic｜smoker",
+        "id": "1899891460046204928",
+        "name": "yydsypz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018700360056193024/TlyImUqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 103,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 146
+        },
+        "username": "yydsypz",
+        "verified": false
+      }
+    ]
+  }
+}

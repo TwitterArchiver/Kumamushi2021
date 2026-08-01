@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973988332402323466",
+        "3_1973988333840969730",
+        "3_1973988334994403328"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1973988338035237264",
+    "created_at": "2025-10-03T05:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T06:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973988338035237264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FUHPjHOOZR",
+          "end": 31,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1973988338035237264/photo/1",
+          "media_key": "3_1973988332402323466",
+          "start": 8,
+          "url": "https://t.co/FUHPjHOOZR"
+        },
+        {
+          "display_url": "pic.x.com/FUHPjHOOZR",
+          "end": 31,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1973988338035237264/photo/1",
+          "media_key": "3_1973988333840969730",
+          "start": 8,
+          "url": "https://t.co/FUHPjHOOZR"
+        },
+        {
+          "display_url": "pic.x.com/FUHPjHOOZR",
+          "end": 31,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1973988338035237264/photo/1",
+          "media_key": "3_1973988334994403328",
+          "start": 8,
+          "url": "https://t.co/FUHPjHOOZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973988338035237264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来点可爱家猫吧 https://t.co/FUHPjHOOZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1973988332402323466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UD7f-bMAouQXe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1973988333840969730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UD7lVbMAIeBqr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973988334994403328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UD7pobMAA5kTC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973988332402323466",
+            "3_1973988333840969730",
+            "3_1973988334994403328"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1973988338035237264",
+        "created_at": "2025-10-03T05:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973988338035237264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FUHPjHOOZR",
+              "end": 31,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1973988338035237264/photo/1",
+              "media_key": "3_1973988332402323466",
+              "start": 8,
+              "url": "https://t.co/FUHPjHOOZR"
+            },
+            {
+              "display_url": "pic.x.com/FUHPjHOOZR",
+              "end": 31,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1973988338035237264/photo/1",
+              "media_key": "3_1973988333840969730",
+              "start": 8,
+              "url": "https://t.co/FUHPjHOOZR"
+            },
+            {
+              "display_url": "pic.x.com/FUHPjHOOZR",
+              "end": 31,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1973988338035237264/photo/1",
+              "media_key": "3_1973988334994403328",
+              "start": 8,
+              "url": "https://t.co/FUHPjHOOZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973988338035237264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点可爱家猫吧 https://t.co/FUHPjHOOZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2065,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968725500118827008"
+      ],
+      "media_source_tweet_id": [
+        "1968725503340061062"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1968901460218765581",
+    "created_at": "2025-09-19T04:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T05:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968901460218765581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1240496257799294976",
+          "start": 3,
+          "username": "amequote"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8jA4BHxJq",
+          "end": 37,
+          "expanded_url": "https://x.com/amequote/status/1968725503340061062/photo/1",
+          "media_key": "3_1968725500118827008",
+          "start": 14,
+          "url": "https://t.co/i8jA4BHxJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968901460218765581",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968725503340061062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amequote: https://t.co/i8jA4BHxJq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_1968725500118827008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JRaV7WAAAGli4.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968725500118827008"
+          ],
+          "media_source_tweet_id": [
+            "1968725503340061062"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1968901460218765581",
+        "created_at": "2025-09-19T04:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968901460218765581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1240496257799294976",
+              "start": 3,
+              "username": "amequote"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8jA4BHxJq",
+              "end": 37,
+              "expanded_url": "https://x.com/amequote/status/1968725503340061062/photo/1",
+              "media_key": "3_1968725500118827008",
+              "start": 14,
+              "url": "https://t.co/i8jA4BHxJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968901460218765581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968725503340061062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amequote: https://t.co/i8jA4BHxJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968725500118827008"
+          ]
+        },
+        "author_id": "1240496257799294976",
+        "conversation_id": "1968725503340061062",
+        "created_at": "2025-09-18T17:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968725503340061062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8jA4BHxJq",
+              "end": 23,
+              "expanded_url": "https://x.com/amequote/status/1968725503340061062/photo/1",
+              "media_key": "3_1968725500118827008",
+              "start": 0,
+              "url": "https://t.co/i8jA4BHxJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968725503340061062",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 5433,
+          "like_count": 647,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i8jA4BHxJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 69,
+          "like_count": 2015,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T04:32:18.000Z",
+        "description": "#AME : oh my god are you for real this is so fucking funny. im looking at a mirror rn kek // posts every 3 hours , credit to @GimmickBots for coding",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "AME"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 137,
+                "start": 125,
+                "username": "GimmickBots"
+              }
+            ]
+          }
+        },
+        "id": "1240496257799294976",
+        "name": "ame bot ⚢",
+        "pinned_tweet_id": "1611206448612282369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794375721282162688/4Nv-msB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16877,
+          "following_count": 3,
+          "like_count": 587,
+          "listed_count": 14,
+          "media_count": 405,
+          "tweet_count": 12659
+        },
+        "username": "amequote",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1801197351521943671",
+    "created_at": "2024-06-13T10:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T11:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801197351521943671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645416050555781120",
+          "start": 3,
+          "username": "wobucunzai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801197351521943671",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800925862197592228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wobucunzai: 我不想死啊！我也想體驗人生的美好。\n我曾經體驗過人生的美妙啊！無論是剛出爐的美食、剛看到的小動物、被逗笑的小樂趣、讓人翩翩起舞的歌曲，都是那麼美好。\n我不想死啊，為什麼會變成這樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1801197351521943671",
+        "created_at": "2024-06-13T10:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T11:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801197351521943671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645416050555781120",
+              "start": 3,
+              "username": "wobucunzai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801197351521943671",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800925862197592228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wobucunzai: 我不想死啊！我也想體驗人生的美好。\n我曾經體驗過人生的美妙啊！無論是剛出爐的美食、剛看到的小動物、被逗笑的小樂趣、讓人翩翩起舞的歌曲，都是那麼美好。\n我不想死啊，為什麼會變成這樣"
+      },
+      {
+        "attachments": {},
+        "author_id": "1645416050555781120",
+        "conversation_id": "1800925862197592228",
+        "created_at": "2024-06-12T16:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T17:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800925862197592228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800925862197592228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不想死啊！我也想體驗人生的美好。\n我曾經體驗過人生的美妙啊！無論是剛出爐的美食、剛看到的小動物、被逗笑的小樂趣、讓人翩翩起舞的歌曲，都是那麼美好。\n我不想死啊，為什麼會變成這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1776293991069499496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 46,
+          "like_count": 1098,
+          "listed_count": 0,
+          "tweet_count": 505
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T13:19:05.000Z",
+        "description": "女/18/香港//互fol大感謝(*´╰╯`)♡（沒回請私信有時候看不到）//手機上癮程度百份百///今天也在逃避生活//有自殘自殺史//分身 @wozhanghaone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "wozhanghaone"
+              }
+            ]
+          }
+        },
+        "id": "1645416050555781120",
+        "location": "Hong Kong",
+        "name": "小陳",
+        "pinned_tweet_id": "1789325563704086706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788992959012302850/PCO4hbyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 364,
+          "like_count": 11393,
+          "listed_count": 1,
+          "tweet_count": 1338
+        },
+        "username": "wobucunzai",
+        "verified": false
+      }
+    ]
+  }
+}

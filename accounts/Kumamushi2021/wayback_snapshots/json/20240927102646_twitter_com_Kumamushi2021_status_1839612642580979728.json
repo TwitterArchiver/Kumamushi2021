@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1839612642580979728",
+    "created_at": "2024-09-27T10:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T11:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839612642580979728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1794710108452073472",
+          "start": 3,
+          "username": "dailyrobinmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839612642580979728",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 327
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839288785542197548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dailyrobinmiya: grades are important\ngrades are importan\ngrades are importa\ngrades are import\ngrades are impor\ngrades are impo\ngrades a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1839612642580979728",
+        "created_at": "2024-09-27T10:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T11:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839612642580979728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1794710108452073472",
+              "start": 3,
+              "username": "dailyrobinmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839612642580979728",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 327
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839288785542197548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dailyrobinmiya: grades are important\ngrades are importan\ngrades are importa\ngrades are import\ngrades are impor\ngrades are impo\ngrades a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794710108452073472",
+        "conversation_id": "1839288785542197548",
+        "created_at": "2024-09-26T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839288785542197548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839288785542197548",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 7666,
+          "like_count": 836,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "grades are important\ngrades are importan\ngrades are importa\ngrades are import\ngrades are impor\ngrades are impo\ngrades are imp\ngrades are im\ngrades are i\ngrades are\ngrades ar\ngrades a\ngrades\ngrade\ngrad\ngra\ngr\ng\ngi\ngir\ngirl\ngirls\ngirls k\ngirls ki\ngirls kis\ngirls kiss\ngirls kissing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 1311,
+          "listed_count": 0,
+          "tweet_count": 646
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T12:40:28.000Z",
+        "description": "account dedicated to the cross ship between #robin & #yoimiya \n| not spoiler/leak free | ifb!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "robin"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "yoimiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "timelyrobinmiya.straw.page",
+                "end": 23,
+                "expanded_url": "http://timelyrobinmiya.straw.page",
+                "start": 0,
+                "url": "https://t.co/Ybj6qifieg"
+              }
+            ]
+          }
+        },
+        "id": "1794710108452073472",
+        "location": "1 admin (⭐️) she/her 16",
+        "name": "|🍉|timely robinmiya/yoibin 🕊🎇",
+        "pinned_tweet_id": "1821078640630628485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820851598035148800/9Uo9Yda-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 203,
+          "like_count": 262,
+          "listed_count": 1,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/Ybj6qifieg",
+        "username": "dailyrobinmiya",
+        "verified": false
+      }
+    ]
+  }
+}

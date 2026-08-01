@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2003393609228517722",
+    "created_at": "2025-12-23T09:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003393609228517722"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003393609228517722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱着大家，爱着人类，爱我所有的朋友，爱我所有感受到的一切。爱世界，爱星空，爱这颗星球，爱这片宇宙。爱意太汹涌了，身体仿佛承受不住。\n我爱你们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2003393609228517722",
+        "created_at": "2025-12-23T09:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003393609228517722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003393609228517722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱着大家，爱着人类，爱我所有的朋友，爱我所有感受到的一切。爱世界，爱星空，爱这颗星球，爱这片宇宙。爱意太汹涌了，身体仿佛承受不住。\n我爱你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997689615113986048/TOzE4Ln8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 92,
+          "like_count": 2974,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1374
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

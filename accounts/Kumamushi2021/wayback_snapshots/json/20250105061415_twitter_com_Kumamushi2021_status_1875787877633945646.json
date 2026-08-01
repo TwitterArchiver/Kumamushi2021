@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875778527850852356"
+      ],
+      "media_source_tweet_id": [
+        "1875778540790313403"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1875787877633945646",
+    "created_at": "2025-01-05T06:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T07:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875787877633945646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1839013853839110144",
+          "start": 3,
+          "username": "Fenientisc29753"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N5JYzbV7iA",
+          "end": 54,
+          "expanded_url": "https://x.com/Fenientisc29753/status/1875778540790313403/photo/1",
+          "media_key": "3_1875778527850852356",
+          "start": 31,
+          "url": "https://t.co/N5JYzbV7iA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875787877633945646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875778540790313403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fenientisc29753: 言える言葉など無い https://t.co/N5JYzbV7iA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1875778527850852356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gggaof3a8AQSVFN.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875778527850852356"
+          ],
+          "media_source_tweet_id": [
+            "1875778540790313403"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1875787877633945646",
+        "created_at": "2025-01-05T06:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T07:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875787877633945646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1839013853839110144",
+              "start": 3,
+              "username": "Fenientisc29753"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5JYzbV7iA",
+              "end": 54,
+              "expanded_url": "https://x.com/Fenientisc29753/status/1875778540790313403/photo/1",
+              "media_key": "3_1875778527850852356",
+              "start": 31,
+              "url": "https://t.co/N5JYzbV7iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875787877633945646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875778540790313403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fenientisc29753: 言える言葉など無い https://t.co/N5JYzbV7iA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875778527850852356"
+          ]
+        },
+        "author_id": "1839013853839110144",
+        "conversation_id": "1875778540790313403",
+        "created_at": "2025-01-05T05:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T06:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875778540790313403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5JYzbV7iA",
+              "end": 33,
+              "expanded_url": "https://x.com/Fenientisc29753/status/1875778540790313403/photo/1",
+              "media_key": "3_1875778527850852356",
+              "start": 10,
+              "url": "https://t.co/N5JYzbV7iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875778540790313403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 258,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "言える言葉など無い https://t.co/N5JYzbV7iA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 47,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 670
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T18:47:33.000Z",
+        "description": "#",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/frb2uqe970dotf…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/frb2uqe970dotf0?t=OUwth8&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/IvZnIc2RQv"
+              }
+            ]
+          }
+        },
+        "id": "1839013853839110144",
+        "location": "すきなもの描く/ai学習 · 無断転載禁止",
+        "name": "🥝",
+        "pinned_tweet_id": "1860166081173946642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851012422653358080/BayUKaaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 5,
+          "like_count": 53,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/IvZnIc2RQv",
+        "username": "Fenientisc29753",
+        "verified": false
+      }
+    ]
+  }
+}

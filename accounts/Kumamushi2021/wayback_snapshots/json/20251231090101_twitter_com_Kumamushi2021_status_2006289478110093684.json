@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2005655020465946832",
+    "created_at": "2025-12-31T09:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T10:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006289478110093684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538923015932522496",
+          "start": 0,
+          "username": "sunyixian8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006289478110093684",
+    "in_reply_to_user_id": "1538923015932522496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006279046557294991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyixian8 我不知道  如果在呼吸抑制或者呕吐前就昏迷的话应该不会太痛苦的  但凡事都会有意外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2005655020465946832",
+        "created_at": "2025-12-31T09:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006289478110093684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538923015932522496",
+              "start": 0,
+              "username": "sunyixian8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006289478110093684",
+        "in_reply_to_user_id": "1538923015932522496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006279046557294991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyixian8 我不知道  如果在呼吸抑制或者呕吐前就昏迷的话应该不会太痛苦的  但凡事都会有意外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538923015932522496",
+        "conversation_id": "2005655020465946832",
+        "created_at": "2025-12-31T08:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006279046557294991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006279046557294991",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005655020465946832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 这种方法痛苦程度如何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004502982227054592/tsjcfrWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 95,
+          "like_count": 3005,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1422
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T16:33:44.000Z",
+        "description": "学中做，做中学，反复回忆｜\n不是我所给予你的超出你所理解的能力，而是超出了你所看到的本身——马里翁｜自己选择的路可以跑｜没什么比发现无法掌控自己的命运更让人沮丧的｜极端Antinatalism｜以死亡为自由｜生活的很多不确定性我没办法保证｜与最卑微的人为伍｜我急于退还入场券，并非我不接受上帝，只是恭而敬之把入场券还给他",
+        "id": "1538923015932522496",
+        "location": "只有无休止吐槽的小号，请不要follow",
+        "name": "从地下室走上天台",
+        "pinned_tweet_id": "1968903401988661639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996978898249433088/DEfa0K7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 186,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 186
+        },
+        "username": "sunyixian8",
+        "verified": false
+      }
+    ]
+  }
+}

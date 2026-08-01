@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2010973691811926274",
+    "created_at": "2026-01-14T03:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T04:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011275138223034805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637972200371224577",
+          "start": 0,
+          "username": "P0larstern"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011275138223034805",
+    "in_reply_to_user_id": "1637972200371224577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011251209366356477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P0larstern 我不是很理解名为“爱”的情感……或许是不完美的、宽容的、有冲突的，但依旧能够在冲突之后重归于好的？我无法理解名为“爱”的感情，我不知道我是否爱着谁，我甚至不知道谁到底爱着我……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2010973691811926274",
+        "created_at": "2026-01-14T03:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T04:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011275138223034805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637972200371224577",
+              "start": 0,
+              "username": "P0larstern"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011275138223034805",
+        "in_reply_to_user_id": "1637972200371224577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011251209366356477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P0larstern 我不是很理解名为“爱”的情感……或许是不完美的、宽容的、有冲突的，但依旧能够在冲突之后重归于好的？我无法理解名为“爱”的感情，我不知道我是否爱着谁，我甚至不知道谁到底爱着我……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637972200371224577",
+        "conversation_id": "2010973691811926274",
+        "created_at": "2026-01-14T01:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011251209366356477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011251209366356477",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010973691811926274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 93,
+          "like_count": 3197,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1613
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T00:19:55.000Z",
+        "description": "前世@nenamais1 | 男的 | 可以叫我小天 | 互关寻回大挑战",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "nenamais1"
+              }
+            ]
+          }
+        },
+        "id": "1637972200371224577",
+        "name": "P0larstern 2.0",
+        "pinned_tweet_id": "1988210032106971468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001634489181831169/MqIp8WK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 59,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 678
+        },
+        "username": "P0larstern",
+        "verified": false
+      }
+    ]
+  }
+}

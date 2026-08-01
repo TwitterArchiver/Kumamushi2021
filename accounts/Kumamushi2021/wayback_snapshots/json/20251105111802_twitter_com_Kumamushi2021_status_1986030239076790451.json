@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985794227926654976"
+      ],
+      "media_source_tweet_id": [
+        "1985794233349865741"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1986030239076790451",
+    "created_at": "2025-11-05T11:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986030239076790451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1025546987578556417",
+          "start": 3,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uM7jgEpYJz",
+          "end": 36,
+          "expanded_url": "https://x.com/FTMiaoX/status/1985794233349865741/photo/1",
+          "media_key": "3_1985794227926654976",
+          "start": 13,
+          "url": "https://t.co/uM7jgEpYJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986030239076790451",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985794233349865741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FTMiaoX: https://t.co/uM7jgEpYJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1985794227926654976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G471VECW4AAwtU7.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985794227926654976"
+          ],
+          "media_source_tweet_id": [
+            "1985794233349865741"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1986030239076790451",
+        "created_at": "2025-11-05T11:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986030239076790451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1025546987578556417",
+              "start": 3,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uM7jgEpYJz",
+              "end": 36,
+              "expanded_url": "https://x.com/FTMiaoX/status/1985794233349865741/photo/1",
+              "media_key": "3_1985794227926654976",
+              "start": 13,
+              "url": "https://t.co/uM7jgEpYJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986030239076790451",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985794233349865741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FTMiaoX: https://t.co/uM7jgEpYJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985794227926654976"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1985794233349865741",
+        "created_at": "2025-11-04T19:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985794233349865741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uM7jgEpYJz",
+              "end": 23,
+              "expanded_url": "https://x.com/FTMiaoX/status/1985794233349865741/photo/1",
+              "media_key": "3_1985794227926654976",
+              "start": 0,
+              "url": "https://t.co/uM7jgEpYJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985794233349865741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8051,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uM7jgEpYJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw5Ceo"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 2416,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/TcLkEw5Ceo",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "BakaHDT"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1978871306620948810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7717,
+          "following_count": 3377,
+          "like_count": 170651,
+          "listed_count": 25,
+          "media_count": 3434,
+          "tweet_count": 28004
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

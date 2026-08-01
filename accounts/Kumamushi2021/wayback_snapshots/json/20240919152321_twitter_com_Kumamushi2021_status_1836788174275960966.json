@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1836788174275960966",
+    "created_at": "2024-09-19T15:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T16:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836788174275960966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836788174275960966",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836547994155450718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: i should have died in 2012"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1836788174275960966",
+        "created_at": "2024-09-19T15:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T16:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836788174275960966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836788174275960966",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836547994155450718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: i should have died in 2012"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "1836547994155450718",
+        "created_at": "2024-09-18T23:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T00:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836547994155450718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836547994155450718",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 16414,
+          "like_count": 841,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "i should have died in 2012"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1829446039394460026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 44,
+          "like_count": 1267,
+          "listed_count": 0,
+          "tweet_count": 623
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "i do not exist",
+        "id": "1472022007797719048",
+        "location": "deleted",
+        "name": "‏ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826123420771237888/NJlFj7nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67530,
+          "following_count": 184,
+          "like_count": 5762,
+          "listed_count": 78,
+          "tweet_count": 5407
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

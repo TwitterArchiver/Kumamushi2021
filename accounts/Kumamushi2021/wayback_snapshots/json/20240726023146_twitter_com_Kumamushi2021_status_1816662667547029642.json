@@ -1,0 +1,281 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1816099843179438082"
+      ],
+      "media_source_tweet_id": [
+        "1816099904269476027"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1816662667547029642",
+    "created_at": "2024-07-26T02:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T03:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816662667547029642"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "SKC上海"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "かまって上海"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1070313304281751552",
+          "start": 3,
+          "username": "ikuro041"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/kUm4Hp0Y3r",
+          "end": 68,
+          "expanded_url": "https://twitter.com/ikuro041/status/1816099904269476027/video/1",
+          "media_key": "7_1816099843179438082",
+          "start": 45,
+          "url": "https://t.co/kUm4Hp0Y3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816662667547029642",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816099904269476027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuro041: また来るから、お前ら死ぬなよ\n#SKC上海 \n#かまって上海 https://t.co/kUm4Hp0Y3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22533,
+        "height": 720,
+        "media_key": "7_1816099843179438082",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1816099843179438082/pu/img/87aO0q5Lmq8Ef2EB.jpg",
+        "public_metrics": {
+          "view_count": 2328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816099843179438082/pu/vid/avc1/480x270/l_wHFFf40u5NG56e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816099843179438082/pu/vid/avc1/640x360/OA4ldirs-Do-mwBl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1816099843179438082/pu/vid/avc1/1280x720/QcEupeda8bglnHn_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1816099843179438082/pu/pl/oZV0eybgDSy0ddIo.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1816099843179438082"
+          ],
+          "media_source_tweet_id": [
+            "1816099904269476027"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1816662667547029642",
+        "created_at": "2024-07-26T02:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T03:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816662667547029642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "SKC上海"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "かまって上海"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1070313304281751552",
+              "start": 3,
+              "username": "ikuro041"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kUm4Hp0Y3r",
+              "end": 68,
+              "expanded_url": "https://twitter.com/ikuro041/status/1816099904269476027/video/1",
+              "media_key": "7_1816099843179438082",
+              "start": 45,
+              "url": "https://t.co/kUm4Hp0Y3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816662667547029642",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816099904269476027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikuro041: また来るから、お前ら死ぬなよ\n#SKC上海 \n#かまって上海 https://t.co/kUm4Hp0Y3r"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1816099843179438082"
+          ]
+        },
+        "author_id": "1070313304281751552",
+        "conversation_id": "1816099904269476027",
+        "created_at": "2024-07-24T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816099904269476027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "SKC上海"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "かまって上海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kUm4Hp0Y3r",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ikuro041/status/1816099904269476027/video/1",
+              "media_key": "7_1816099843179438082",
+              "start": 31,
+              "url": "https://t.co/kUm4Hp0Y3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816099904269476027",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5951,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "また来るから、お前ら死ぬなよ\n#SKC上海 \n#かまって上海 https://t.co/kUm4Hp0Y3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 33,
+          "like_count": 1144,
+          "listed_count": 0,
+          "tweet_count": 535
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-05T13:45:51.000Z",
+        "description": "=郁朗｜スプラ垢🦑🧯ハイドラとイグザミ使い ｜中国人♀｜日本語学習中｜SW-5657-1347-9786｜神聖かまってちゃん大好き",
+        "id": "1070313304281751552",
+        "name": "いくろ",
+        "pinned_tweet_id": "1784274734949220559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812154136827252736/7cBQEUgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 583,
+          "like_count": 377,
+          "listed_count": 0,
+          "tweet_count": 446
+        },
+        "username": "ikuro041",
+        "verified": false
+      }
+    ]
+  }
+}

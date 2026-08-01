@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2018628761114251696",
+    "created_at": "2026-02-03T10:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018630850481721854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493601466346610712",
+          "start": 0,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018630850481721854",
+    "in_reply_to_user_id": "1493601466346610712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018628761114251696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilbakery1127 5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2018628755481403392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOcKG_boAA9MtI.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2018628761114251696",
+        "created_at": "2026-02-03T10:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018630850481721854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493601466346610712",
+              "start": 0,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018630850481721854",
+        "in_reply_to_user_id": "1493601466346610712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018628761114251696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilbakery1127 5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018628755481403392"
+          ]
+        },
+        "author_id": "1493601466346610712",
+        "conversation_id": "2018628761114251696",
+        "created_at": "2026-02-03T10:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018628761114251696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfMDFvUosl",
+              "end": 28,
+              "expanded_url": "https://x.com/basilbakery1127/status/2018628761114251696/photo/1",
+              "media_key": "3_2018628755481403392",
+              "start": 5,
+              "url": "https://t.co/qfMDFvUosl"
+            },
+            {
+              "display_url": "x.com/beetiisdog/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/beetiisdog/status/2018335694616482144",
+              "start": 29,
+              "url": "https://t.co/Hbc8uMkt4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018628761114251696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018335694616482144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想玩 https://t.co/qfMDFvUosl https://t.co/Hbc8uMkt4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 99,
+          "like_count": 3574,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1800
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。",
+        "id": "1493601466346610712",
+        "name": "lime basil bakery",
+        "pinned_tweet_id": "2007152148266791304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991606256994533376/0cP3M5ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 208,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 625
+        },
+        "username": "basilbakery1127",
+        "verified": false
+      }
+    ]
+  }
+}

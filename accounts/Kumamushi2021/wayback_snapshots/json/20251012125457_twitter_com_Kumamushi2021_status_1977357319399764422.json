@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977313308781985792"
+      ],
+      "media_source_tweet_id": [
+        "1977313319913660416"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1977357319399764422",
+    "created_at": "2025-10-12T12:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T13:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977357319399764422"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "古明地こいし",
+          "probability": 0.5409,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1381178244498513921",
+          "start": 3,
+          "username": "sawararado"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qVrOvcMoA",
+          "end": 46,
+          "expanded_url": "https://x.com/sawararado/status/1977313319913660416/photo/1",
+          "media_key": "3_1977313308781985792",
+          "start": 23,
+          "url": "https://t.co/5qVrOvcMoA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977357319399764422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977313319913660416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sawararado: 古明地こいし https://t.co/5qVrOvcMoA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1977313308781985792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DT-mOaQAAc6kL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977313308781985792"
+          ],
+          "media_source_tweet_id": [
+            "1977313319913660416"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1977357319399764422",
+        "created_at": "2025-10-12T12:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977357319399764422"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "古明地こいし",
+              "probability": 0.5409,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1381178244498513921",
+              "start": 3,
+              "username": "sawararado"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qVrOvcMoA",
+              "end": 46,
+              "expanded_url": "https://x.com/sawararado/status/1977313319913660416/photo/1",
+              "media_key": "3_1977313308781985792",
+              "start": 23,
+              "url": "https://t.co/5qVrOvcMoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977357319399764422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977313319913660416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sawararado: 古明地こいし https://t.co/5qVrOvcMoA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977313308781985792"
+          ]
+        },
+        "author_id": "1381178244498513921",
+        "conversation_id": "1977313319913660416",
+        "created_at": "2025-10-12T10:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977313319913660416"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "古明地こいし",
+              "probability": 0.5967,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qVrOvcMoA",
+              "end": 30,
+              "expanded_url": "https://x.com/sawararado/status/1977313319913660416/photo/1",
+              "media_key": "3_1977313308781985792",
+              "start": 7,
+              "url": "https://t.co/5qVrOvcMoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977313319913660416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 37233,
+          "like_count": 2935,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "古明地こいし https://t.co/5qVrOvcMoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 66,
+          "like_count": 2139,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T09:32:43.000Z",
+        "description": "イラスト練習してます 東方やポケモン、創作キャラを主に描きます ⚠️無断転載、AI学習等禁止skeb→ https://t.co/zlOQXOd3zJ ✉️→sawararado@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sawararado",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@sawararado",
+                "start": 52,
+                "url": "https://t.co/zlOQXOd3zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sawararado",
+                "end": 23,
+                "expanded_url": "https://lit.link/sawararado",
+                "start": 0,
+                "url": "https://t.co/KsREihirTy"
+              }
+            ]
+          }
+        },
+        "id": "1381178244498513921",
+        "location": "コーギー",
+        "name": "さわららど",
+        "pinned_tweet_id": "1928028495327727946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810869996027006979/8x3h28Ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27981,
+          "following_count": 223,
+          "like_count": 387054,
+          "listed_count": 211,
+          "media_count": 74,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/KsREihirTy",
+        "username": "sawararado",
+        "verified": false
+      }
+    ]
+  }
+}

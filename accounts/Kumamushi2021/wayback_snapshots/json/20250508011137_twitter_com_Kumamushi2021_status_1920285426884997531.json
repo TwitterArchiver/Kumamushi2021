@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1920285426884997531",
+    "created_at": "2025-05-08T01:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T02:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920285426884997531"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 98,
+          "normalized_text": "神聖かまってちゃん 2025 TOUR extra live the First China",
+          "probability": 0.2786,
+          "start": 53,
+          "type": "Other"
+        },
+        {
+          "end": 133,
+          "normalized_text": "広州",
+          "probability": 0.8583,
+          "start": 132,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "textur3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804873098493411328",
+          "start": 3,
+          "username": "txtr3_label"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920285426884997531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920085787590463580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @txtr3_label: #textur3 Upcoming shows !!!\n\n┈┈┈┈┈┈\n神聖かまってちゃん\n2025 TOUR extra live\nthe First China Oneman Tour\n┈┈┈┈┈┈\n06.01 SUN  @ 広州・Repu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920085780032348160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWD2AkbYAAOP0q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1920285426884997531",
+        "created_at": "2025-05-08T01:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920285426884997531"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 98,
+              "normalized_text": "神聖かまってちゃん 2025 TOUR extra live the First China",
+              "probability": 0.2786,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 133,
+              "normalized_text": "広州",
+              "probability": 0.8583,
+              "start": 132,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "textur3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804873098493411328",
+              "start": 3,
+              "username": "txtr3_label"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920285426884997531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920085787590463580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @txtr3_label: #textur3 Upcoming shows !!!\n\n┈┈┈┈┈┈\n神聖かまってちゃん\n2025 TOUR extra live\nthe First China Oneman Tour\n┈┈┈┈┈┈\n06.01 SUN  @ 広州・Repu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920085780032348160"
+          ]
+        },
+        "author_id": "1804873098493411328",
+        "conversation_id": "1920085787590463580",
+        "created_at": "2025-05-07T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920085787590463580"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "神聖かまってちゃん 2025 TOUR extra live the First China",
+              "probability": 0.3569,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 116,
+              "normalized_text": "広州",
+              "probability": 0.7262,
+              "start": 115,
+              "type": "Place"
+            },
+            {
+              "end": 134,
+              "normalized_text": "Republic of Sound",
+              "probability": 0.3007,
+              "start": 118,
+              "type": "Organization"
+            },
+            {
+              "end": 149,
+              "normalized_text": "上海",
+              "probability": 0.7474,
+              "start": 148,
+              "type": "Place"
+            },
+            {
+              "end": 176,
+              "normalized_text": "Bandai Namco Shanghai Base",
+              "probability": 0.4611,
+              "start": 151,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "textur3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKvoOCDwFb",
+              "end": 249,
+              "expanded_url": "https://x.com/txtr3_label/status/1920085787590463580/photo/1",
+              "media_key": "3_1920085780032348160",
+              "start": 226,
+              "url": "https://t.co/nKvoOCDwFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920085787590463580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13499,
+          "like_count": 138,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "#textur3 Upcoming shows !!!\n\n┈┈┈┈┈┈\n神聖かまってちゃん\n2025 TOUR extra live\nthe First China Oneman Tour\n┈┈┈┈┈┈\n06.01 SUN  @ 広州・Republic of Sound\n06.03 TUE @ 上海・Bandai Namco Shanghai Base\n\n主催・企画・制作：textur3\nお問い合わせ textur3@startsh.com.cn https://t.co/nKvoOCDwFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 776
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:44:23.000Z",
+        "description": "ライブイベントレーベル textur3   (読み:テクスチャー)  中国上海で、お逢いしましょう。",
+        "id": "1804873098493411328",
+        "location": "ちゃいな",
+        "name": "textur3",
+        "pinned_tweet_id": "1920085787590463580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805452068377051136/DZT5Y3Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 31,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 49
+        },
+        "username": "txtr3_label",
+        "verified": true
+      }
+    ]
+  }
+}

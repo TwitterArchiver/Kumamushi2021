@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2022330322202075262",
+    "created_at": "2026-02-13T15:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022330322202075262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1813566048769277952",
+          "start": 3,
+          "username": "miaomiaoalice11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022330322202075262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022144657011183734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaoalice11: 我说不了很能安慰人心的话，我也不能真的帮助到你自己。\n我曾以为我最排斥的就是被人靠近，可后来我才知道，原来我最需要的就是直接的肢体接触，看见我的内心底色，什么都不用说了，紧紧抱住我吧。原来啊，我想为ta做的，就是想你对我做的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2022330322202075262",
+        "created_at": "2026-02-13T15:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330322202075262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1813566048769277952",
+              "start": 3,
+              "username": "miaomiaoalice11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330322202075262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022144657011183734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiaoalice11: 我说不了很能安慰人心的话，我也不能真的帮助到你自己。\n我曾以为我最排斥的就是被人靠近，可后来我才知道，原来我最需要的就是直接的肢体接触，看见我的内心底色，什么都不用说了，紧紧抱住我吧。原来啊，我想为ta做的，就是想你对我做的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813566048769277952",
+        "conversation_id": "2022143447478776090",
+        "created_at": "2026-02-13T03:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144657011183734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022144657011183734",
+        "in_reply_to_user_id": "1813566048769277952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022143447478776090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说不了很能安慰人心的话，我也不能真的帮助到你自己。\n我曾以为我最排斥的就是被人靠近，可后来我才知道，原来我最需要的就是直接的肢体接触，看见我的内心底色，什么都不用说了，紧紧抱住我吧。原来啊，我想为ta做的，就是想你对我做的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 106,
+          "like_count": 3752,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1951
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:27:22.000Z",
+        "description": "不需要通关也能享受生活\n我活在网络现实里不存在",
+        "id": "1813566048769277952",
+        "location": "我没有目的不讨好任何",
+        "name": "喵᳐喵᳐੭",
+        "pinned_tweet_id": "2004355078728352159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017514717053689856/DKpBgm7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 285,
+          "like_count": 84428,
+          "listed_count": 6,
+          "media_count": 346,
+          "tweet_count": 10383
+        },
+        "username": "miaomiaoalice11",
+        "verified": false
+      }
+    ]
+  }
+}

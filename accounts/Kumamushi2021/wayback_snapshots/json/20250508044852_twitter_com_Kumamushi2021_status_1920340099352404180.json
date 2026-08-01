@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1907812538752053250"
+      ],
+      "media_source_tweet_id": [
+        "1907931121272369585"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      }
+    ],
+    "conversation_id": "1920340099352404180",
+    "created_at": "2025-05-08T04:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T05:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920340099352404180"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 29,
+          "tag": "タコピーの原罪"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "タコピー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1864871366241193984",
+          "start": 3,
+          "username": "takopi_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/koZQqPFGl9",
+          "end": 67,
+          "expanded_url": "https://x.com/takopi_pr/status/1907931121272369585/video/1",
+          "media_key": "7_1907812538752053250",
+          "start": 44,
+          "url": "https://t.co/koZQqPFGl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920340099352404180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907931121272369585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takopi_pr: タコピーと旅きぶん 4/4\n#タコピーの原罪 #タコピー https://t.co/koZQqPFGl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4916,
+        "height": 1080,
+        "media_key": "7_1907812538752053250",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907812538752053250/pu/img/9aQ5bGIOdqLeGbV0.jpg",
+        "public_metrics": {
+          "view_count": 12540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907812538752053250/pu/vid/avc1/480x270/hVt-0zVqDTYjIuRD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907812538752053250/pu/vid/avc1/640x360/L3cJ_unaP-y_WvcB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907812538752053250/pu/vid/avc1/1280x720/KQjaRKM-DY6X4Ntm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907812538752053250/pu/pl/xrLs-1yiZWM3M5rr.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907812538752053250"
+          ],
+          "media_source_tweet_id": [
+            "1907931121272369585"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1920340099352404180",
+        "created_at": "2025-05-08T04:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T05:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920340099352404180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "タコピーの原罪"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "タコピー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1864871366241193984",
+              "start": 3,
+              "username": "takopi_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/koZQqPFGl9",
+              "end": 67,
+              "expanded_url": "https://x.com/takopi_pr/status/1907931121272369585/video/1",
+              "media_key": "7_1907812538752053250",
+              "start": 44,
+              "url": "https://t.co/koZQqPFGl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920340099352404180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907931121272369585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takopi_pr: タコピーと旅きぶん 4/4\n#タコピーの原罪 #タコピー https://t.co/koZQqPFGl9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907812538752053250"
+          ]
+        },
+        "author_id": "1864871366241193984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "1907931121272369585",
+        "created_at": "2025-04-03T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907931121272369585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "タコピーの原罪"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "タコピー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/koZQqPFGl9",
+              "end": 52,
+              "expanded_url": "https://x.com/takopi_pr/status/1907931121272369585/video/1",
+              "media_key": "7_1907812538752053250",
+              "start": 29,
+              "url": "https://t.co/koZQqPFGl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907931121272369585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 47240,
+          "like_count": 947,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "タコピーと旅きぶん 4/4\n#タコピーの原罪 #タコピー https://t.co/koZQqPFGl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 788
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T03:16:38.000Z",
+        "description": "アニメ『タコピーの原罪』公式アカウント🐙原作・タイザン5による話題作が2025年アニメ化決定！\n監督・シリーズ構成：飯野慎也｜キャラクターデザイン：長原圭太｜アニメーション制作：ENISHIYA　タコピー：間宮くるみ｜しずか：上田麗奈\n推奨ハッシュタグ：#タコピー #タコピーの原罪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "タコピー"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "タコピーの原罪"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tbs.co.jp/anime/takopi_p…",
+                "end": 23,
+                "expanded_url": "https://www.tbs.co.jp/anime/takopi_project/",
+                "start": 0,
+                "url": "https://t.co/LJ4IFGDMR2"
+              }
+            ]
+          }
+        },
+        "id": "1864871366241193984",
+        "location": "ハッピー星",
+        "name": "『タコピーの原罪』アニメ公式",
+        "pinned_tweet_id": "1870720928633770427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866131947384389632/CZJwqD2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24821,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 89,
+          "media_count": 86,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/LJ4IFGDMR2",
+        "username": "takopi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

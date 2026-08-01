@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976873505015971844"
+      ],
+      "media_source_tweet_id": [
+        "1976873511395471845"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1976964062711103878",
+    "created_at": "2025-10-11T10:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T11:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976964062711103878"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "橘希実香",
+          "probability": 0.7285,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1917576560254799873",
+          "start": 3,
+          "username": "tatsumi_kotetsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7iaIQQu39",
+          "end": 58,
+          "expanded_url": "https://x.com/tatsumi_kotetsu/status/1976873511395471845/photo/1",
+          "media_key": "3_1976873505015971844",
+          "start": 35,
+          "url": "https://t.co/I7iaIQQu39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976964062711103878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976873511395471845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatsumi_kotetsu: #素晴らしき日々\n橘希実香 https://t.co/I7iaIQQu39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976873505015971844",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29D-phbwAQ6RX6.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976873505015971844"
+          ],
+          "media_source_tweet_id": [
+            "1976873511395471845"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1976964062711103878",
+        "created_at": "2025-10-11T10:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976964062711103878"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "橘希実香",
+              "probability": 0.7285,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1917576560254799873",
+              "start": 3,
+              "username": "tatsumi_kotetsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7iaIQQu39",
+              "end": 58,
+              "expanded_url": "https://x.com/tatsumi_kotetsu/status/1976873511395471845/photo/1",
+              "media_key": "3_1976873505015971844",
+              "start": 35,
+              "url": "https://t.co/I7iaIQQu39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976964062711103878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976873511395471845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatsumi_kotetsu: #素晴らしき日々\n橘希実香 https://t.co/I7iaIQQu39"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976873505015971844"
+          ]
+        },
+        "author_id": "1917576560254799873",
+        "conversation_id": "1976873511395471845",
+        "created_at": "2025-10-11T04:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976873511395471845"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "橘希実香",
+              "probability": 0.7079,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7iaIQQu39",
+              "end": 37,
+              "expanded_url": "https://x.com/tatsumi_kotetsu/status/1976873511395471845/photo/1",
+              "media_key": "3_1976873505015971844",
+              "start": 14,
+              "url": "https://t.co/I7iaIQQu39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976873511395471845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 7431,
+          "like_count": 617,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々\n橘希実香 https://t.co/I7iaIQQu39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2133,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T13:47:53.000Z",
+        "description": "主にノベルゲームのイラストを描きます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19193812",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19193812",
+                "start": 0,
+                "url": "https://t.co/WmW20zdlsq"
+              }
+            ]
+          }
+        },
+        "id": "1917576560254799873",
+        "name": "たつみこてつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963535746570358784/Ywc3mVel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 29,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/WmW20zdlsq",
+        "username": "tatsumi_kotetsu",
+        "verified": false
+      }
+    ]
+  }
+}

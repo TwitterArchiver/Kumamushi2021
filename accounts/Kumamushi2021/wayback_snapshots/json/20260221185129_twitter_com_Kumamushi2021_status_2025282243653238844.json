@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2005536940742086682",
+    "created_at": "2026-02-21T18:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025282243653238844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803711973215092736",
+          "start": 0,
+          "username": "LemeryL30062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025282243653238844",
+    "in_reply_to_user_id": "1803711973215092736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025275122433593618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemeryL30062 我是遗传疾病会剧烈骨痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2005536940742086682",
+        "created_at": "2026-02-21T18:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025282243653238844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803711973215092736",
+              "start": 0,
+              "username": "LemeryL30062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025282243653238844",
+        "in_reply_to_user_id": "1803711973215092736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025275122433593618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemeryL30062 我是遗传疾病会剧烈骨痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803711973215092736",
+        "conversation_id": "2005536940742086682",
+        "created_at": "2026-02-21T18:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025275122433593618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025275122433593618",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025259094282830171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 问一下您是怎么描述病症开的药啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 105,
+          "like_count": 3849,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2007
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T08:50:29.000Z",
+        "description": "",
+        "id": "1803711973215092736",
+        "name": "lemery_lllllllllllll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803712197178380288/-ik0ZgWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 108,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "LemeryL30062",
+        "verified": false
+      }
+    ]
+  }
+}

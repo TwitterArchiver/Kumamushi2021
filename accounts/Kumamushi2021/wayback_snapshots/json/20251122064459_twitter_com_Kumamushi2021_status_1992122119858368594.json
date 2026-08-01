@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1992122119858368594",
+    "created_at": "2025-11-22T06:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T07:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992122119858368594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1492132792192413707",
+          "start": 3,
+          "username": "AikCuddle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/YaWj",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/YaWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992122119858368594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860720741362339909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AikCuddle: 摸鱼 小小的独木桥\n一步，两步。。。触觉是盲人感知世界的重要感官，即便只是路边凸起的沿石在她的感受中也如同横于悬崖之间的独木桥。\n放下导盲杖，在导盲鸟的引导下，她感受着从脚边传来的触感，脑海中的世界开始重构。。。 https://t.co/YaWj…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3037,
+        "media_key": "3_1860720586366070784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKbg8ibMAAelpT.jpg",
+        "width": 2028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1992122119858368594",
+        "created_at": "2025-11-22T06:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992122119858368594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1492132792192413707",
+              "start": 3,
+              "username": "AikCuddle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/YaWj",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/YaWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992122119858368594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860720741362339909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AikCuddle: 摸鱼 小小的独木桥\n一步，两步。。。触觉是盲人感知世界的重要感官，即便只是路边凸起的沿石在她的感受中也如同横于悬崖之间的独木桥。\n放下导盲杖，在导盲鸟的引导下，她感受着从脚边传来的触感，脑海中的世界开始重构。。。 https://t.co/YaWj…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860720586366070784"
+          ]
+        },
+        "author_id": "1492132792192413707",
+        "conversation_id": "1860720741362339909",
+        "created_at": "2024-11-24T16:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860720741362339909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaWjq2RVXi",
+              "end": 130,
+              "expanded_url": "https://x.com/AikCuddle/status/1860720741362339909/photo/1",
+              "media_key": "3_1860720586366070784",
+              "start": 107,
+              "url": "https://t.co/YaWjq2RVXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860720741362339909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 11881,
+          "like_count": 466,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "摸鱼 小小的独木桥\n一步，两步。。。触觉是盲人感知世界的重要感官，即便只是路边凸起的沿石在她的感受中也如同横于悬崖之间的独木桥。\n放下导盲杖，在导盲鸟的引导下，她感受着从脚边传来的触感，脑海中的世界开始重构。。。 https://t.co/YaWjq2RVXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 80,
+          "like_count": 2576,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1380
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T13:46:05.000Z",
+        "description": "没有绘画基础的摸鱼达人！\n最喜欢圆圆脸的画风~\n头像委托自@KAERU_NYU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "KAERU_NYU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25903639",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/25903639",
+                "start": 0,
+                "url": "https://t.co/9Fs0dlOGcy"
+              }
+            ]
+          }
+        },
+        "id": "1492132792192413707",
+        "location": "DUNWALL",
+        "name": "AikCuddle",
+        "pinned_tweet_id": "1850567386744987988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660627903305117698/EbzGCWyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 58,
+          "like_count": 37411,
+          "listed_count": 4,
+          "media_count": 475,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/9Fs0dlOGcy",
+        "username": "AikCuddle",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974568588619960320"
+      ],
+      "media_source_tweet_id": [
+        "1974568601752387773"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1975370010479796720",
+    "created_at": "2025-10-07T01:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T02:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975370010479796720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1495218211914199048",
+          "start": 3,
+          "username": "lajevardistudio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CaoCaraiVw",
+          "end": 75,
+          "expanded_url": "https://x.com/lajevardistudio/status/1974568601752387773/photo/1",
+          "media_key": "3_1974568588619960320",
+          "start": 52,
+          "url": "https://t.co/CaoCaraiVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975370010479796720",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 380
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974568601752387773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lajevardistudio: 404: ordinary light not found. https://t.co/CaoCaraiVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_1974568588619960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cTq21WUAAe8Im.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974568588619960320"
+          ],
+          "media_source_tweet_id": [
+            "1974568601752387773"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1975370010479796720",
+        "created_at": "2025-10-07T01:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T02:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975370010479796720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1495218211914199048",
+              "start": 3,
+              "username": "lajevardistudio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaoCaraiVw",
+              "end": 75,
+              "expanded_url": "https://x.com/lajevardistudio/status/1974568601752387773/photo/1",
+              "media_key": "3_1974568588619960320",
+              "start": 52,
+              "url": "https://t.co/CaoCaraiVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975370010479796720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974568601752387773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lajevardistudio: 404: ordinary light not found. https://t.co/CaoCaraiVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974568588619960320"
+          ]
+        },
+        "author_id": "1495218211914199048",
+        "conversation_id": "1974568601752387773",
+        "created_at": "2025-10-04T20:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T21:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974568601752387773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaoCaraiVw",
+              "end": 54,
+              "expanded_url": "https://x.com/lajevardistudio/status/1974568601752387773/photo/1",
+              "media_key": "3_1974568588619960320",
+              "start": 31,
+              "url": "https://t.co/CaoCaraiVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974568601752387773",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "404: ordinary light not found."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 71630,
+          "like_count": 3113,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 380
+        },
+        "reply_settings": "everyone",
+        "text": "404: ordinary light not found. https://t.co/CaoCaraiVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 65,
+          "like_count": 2101,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T02:06:27.000Z",
+        "description": "𝘾𝙝𝙖𝙨𝙞𝙣𝙜 𝙙𝙧𝙚𝙖𝙢𝙨 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙘𝙤𝙡𝙤𝙧𝙨 𝙖𝙣𝙙 𝙘𝙤𝙙𝙚.",
+        "id": "1495218211914199048",
+        "name": "🅻 sᴛᴜᴅɪᴏ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910391343882346496/cnxQ2_yy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 732,
+          "like_count": 36249,
+          "listed_count": 31,
+          "media_count": 884,
+          "tweet_count": 12426
+        },
+        "username": "lajevardistudio",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1828846373783163103",
+    "created_at": "2024-08-28T17:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T18:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828846373783163103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1827382818118541312",
+          "start": 3,
+          "username": "GOW46iCdz665789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828846373783163103",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828741921310994719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GOW46iCdz665789: 不想上学不想社交不想被孤立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1828846373783163103",
+        "created_at": "2024-08-28T17:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T18:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828846373783163103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1827382818118541312",
+              "start": 3,
+              "username": "GOW46iCdz665789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828846373783163103",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828741921310994719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GOW46iCdz665789: 不想上学不想社交不想被孤立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827382818118541312",
+        "conversation_id": "1828741921310994719",
+        "created_at": "2024-08-28T10:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T11:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828741921310994719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828741921310994719",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不想上学不想社交不想被孤立"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 1204,
+          "listed_count": 0,
+          "tweet_count": 579
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T16:30:01.000Z",
+        "description": "早幸||🚪50/100/300 这么便宜要什么自行车 私聊除过🚪/互fo不回 问坐标一次20||走读女高||请对我好一点",
+        "id": "1827382818118541312",
+        "location": "Japan",
+        "name": "冬冬猫",
+        "pinned_tweet_id": "1827389366769217926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828787364547760129/AktFYOg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 117,
+          "like_count": 66,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "GOW46iCdz665789",
+        "verified": false
+      }
+    ]
+  }
+}

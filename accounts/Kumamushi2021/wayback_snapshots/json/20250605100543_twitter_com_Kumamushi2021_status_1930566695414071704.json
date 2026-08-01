@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "1930447007258202542",
+    "created_at": "2025-06-05T10:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T11:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930566695414071704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856438132809371648",
+          "start": 0,
+          "username": "duzia_32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930566695414071704",
+    "in_reply_to_user_id": "1856438132809371648",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930447007258202542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duzia_32 Are u ok? This painting is very good But I hope you didn't get hurt because of it.(´･ω･`)Wish you a happy day!（My English is bad:( so I used a translator. Please forgive me if there are any mistakes＜33）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_1930446999481925632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspTUW3WwAA1Rya.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "1930447007258202542",
+        "created_at": "2025-06-05T10:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930566695414071704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856438132809371648",
+              "start": 0,
+              "username": "duzia_32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930566695414071704",
+        "in_reply_to_user_id": "1856438132809371648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930447007258202542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duzia_32 Are u ok? This painting is very good But I hope you didn't get hurt because of it.(´･ω･`)Wish you a happy day!（My English is bad:( so I used a translator. Please forgive me if there are any mistakes＜33）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930446999481925632"
+          ]
+        },
+        "author_id": "1856438132809371648",
+        "conversation_id": "1930447007258202542",
+        "created_at": "2025-06-05T02:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930447007258202542"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Charlotte",
+              "probability": 0.4913,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/palUpxUacg",
+              "end": 110,
+              "expanded_url": "https://x.com/duzia_32/status/1930447007258202542/photo/1",
+              "media_key": "3_1930446999481925632",
+              "start": 87,
+              "url": "https://t.co/palUpxUacg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930447007258202542",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 236,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Cw blood !!\nCharlotte drawing from months ago I think? Very messy but I like her smile https://t.co/palUpxUacg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 58,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 872
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T20:45:43.000Z",
+        "description": "| BLM| Take care :) | alt acc for doodles |pt-br/esp/eng OK! |学习中文 | main(real) account: @Doze_6412 | 🏳️‍⚧️ it/its | 17yo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "Doze_6412"
+              }
+            ]
+          }
+        },
+        "id": "1856438132809371648",
+        "name": "dúzia",
+        "pinned_tweet_id": "1908996793255199118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925358203916713984/jEYw1ykw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 151,
+          "like_count": 34730,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 2858
+        },
+        "username": "duzia_32",
+        "verified": false
+      }
+    ]
+  }
+}

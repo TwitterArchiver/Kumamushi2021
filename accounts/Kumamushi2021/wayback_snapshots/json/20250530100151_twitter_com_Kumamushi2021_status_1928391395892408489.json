@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1928257964625817769",
+    "created_at": "2025-05-30T10:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928391395892408489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632439131577126912",
+          "start": 0,
+          "username": "StreetCattttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928391395892408489",
+    "in_reply_to_user_id": "1632439131577126912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928257964625817769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StreetCattttt 我觉得这一段在一定程度上没错但实际上一定要在这基础上给予对方相对的正面支持…个人觉得爱是相互的  对方如果给了支持那肯定也要投入自己的爱  但如果对方没给支持只带来了折磨那确实得离开  我觉得回避型跟这个不太一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1928257964625817769",
+        "created_at": "2025-05-30T10:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928391395892408489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632439131577126912",
+              "start": 0,
+              "username": "StreetCattttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928391395892408489",
+        "in_reply_to_user_id": "1632439131577126912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928257964625817769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StreetCattttt 我觉得这一段在一定程度上没错但实际上一定要在这基础上给予对方相对的正面支持…个人觉得爱是相互的  对方如果给了支持那肯定也要投入自己的爱  但如果对方没给支持只带来了折磨那确实得离开  我觉得回避型跟这个不太一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632439131577126912",
+        "conversation_id": "1928257964625817769",
+        "created_at": "2025-05-30T01:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T02:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928257964625817769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanLan93083241…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/LanLan93083241/status/1928006986206949766",
+              "start": 46,
+              "url": "https://t.co/q2fV4mUXIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928257964625817769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928006986206949766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哟感觉就是这种东西培养出这么多回避型啊 你爱的原因是你想去爱啊，讲那么多条件，谈生意伐？ https://t.co/q2fV4mUXIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 857
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T17:53:56.000Z",
+        "description": "曾經確實有一些美好的事發生在我身上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aaqLQN_udOo2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aaqLQN_udOo2Yjhl",
+                "start": 0,
+                "url": "https://t.co/EdJBEJ6gIK"
+              }
+            ]
+          }
+        },
+        "id": "1632439131577126912",
+        "location": "你背后",
+        "name": "I doubt.",
+        "pinned_tweet_id": "1922685020663136638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909869639171289088/gO8NvWBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 154,
+          "like_count": 11905,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 3511
+        },
+        "url": "https://t.co/EdJBEJ6gIK",
+        "username": "StreetCattttt",
+        "verified": false
+      }
+    ]
+  }
+}

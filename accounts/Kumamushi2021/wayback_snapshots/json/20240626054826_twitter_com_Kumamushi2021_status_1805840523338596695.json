@@ -1,0 +1,258 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805617985081720833"
+      ],
+      "media_source_tweet_id": [
+        "1805617991171895391"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1805840523338596695",
+    "created_at": "2024-06-26T05:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T06:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805840523338596695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "GUMI誕生祭2024"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "GUMI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786743124058116096",
+          "start": 3,
+          "username": "fumeyu6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/JlGl0mpocH",
+          "end": 84,
+          "expanded_url": "https://twitter.com/fumeyu6/status/1805617991171895391/photo/1",
+          "media_key": "3_1805617985081720833",
+          "start": 61,
+          "url": "https://t.co/JlGl0mpocH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805840523338596695",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 866
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805617991171895391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fumeyu6: 可愛くてかっこいいあなたが大好き！\nお誕生日おめでとう！\n#GUMI誕生祭2024 #GUMI https://t.co/JlGl0mpocH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_1805617985081720833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ7X_ajaQAEDZd_.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805617985081720833"
+          ],
+          "media_source_tweet_id": [
+            "1805617991171895391"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1805840523338596695",
+        "created_at": "2024-06-26T05:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T06:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805840523338596695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "GUMI誕生祭2024"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "GUMI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786743124058116096",
+              "start": 3,
+              "username": "fumeyu6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JlGl0mpocH",
+              "end": 84,
+              "expanded_url": "https://twitter.com/fumeyu6/status/1805617991171895391/photo/1",
+              "media_key": "3_1805617985081720833",
+              "start": 61,
+              "url": "https://t.co/JlGl0mpocH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805840523338596695",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 866
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805617991171895391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fumeyu6: 可愛くてかっこいいあなたが大好き！\nお誕生日おめでとう！\n#GUMI誕生祭2024 #GUMI https://t.co/JlGl0mpocH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805617985081720833"
+          ]
+        },
+        "author_id": "1786743124058116096",
+        "conversation_id": "1805617991171895391",
+        "created_at": "2024-06-25T15:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T16:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805617991171895391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 29,
+              "tag": "GUMI誕生祭2024"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "GUMI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JlGl0mpocH",
+              "end": 71,
+              "expanded_url": "https://twitter.com/fumeyu6/status/1805617991171895391/photo/1",
+              "media_key": "3_1805617985081720833",
+              "start": 48,
+              "url": "https://t.co/JlGl0mpocH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805617991171895391",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 34836,
+          "like_count": 2929,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 866
+        },
+        "reply_settings": "everyone",
+        "text": "可愛くてかっこいいあなたが大好き！\nお誕生日おめでとう！\n#GUMI誕生祭2024 #GUMI https://t.co/JlGl0mpocH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 34,
+          "like_count": 1106,
+          "listed_count": 0,
+          "tweet_count": 514
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T13:02:23.000Z",
+        "description": "好きなものを描く",
+        "id": "1786743124058116096",
+        "location": "練習中　二次利用×",
+        "name": "ふと",
+        "pinned_tweet_id": "1805617991171895391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805773691504279552/S-NGv53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 1,
+          "like_count": 575,
+          "listed_count": 1,
+          "tweet_count": 21
+        },
+        "username": "fumeyu6",
+        "verified": false
+      }
+    ]
+  }
+}

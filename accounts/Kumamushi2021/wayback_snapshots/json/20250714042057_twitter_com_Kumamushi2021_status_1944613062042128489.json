@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1944613062042128489",
+    "created_at": "2025-07-14T04:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T05:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944613062042128489"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 138,
+          "normalized_text": "HeyG",
+          "probability": 0.548,
+          "start": 135,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645583064729518080",
+          "start": 3,
+          "username": "HeyGenLabs"
+        },
+        {
+          "end": 32,
+          "id": "1128661417312210945",
+          "start": 16,
+          "username": "aAMtF1c2kjh8NM1"
+        },
+        {
+          "end": 46,
+          "id": "1822951722060238849",
+          "start": 33,
+          "username": "LCBSINNERNO4"
+        },
+        {
+          "end": 58,
+          "id": "1595550442334961665",
+          "start": 47,
+          "username": "ezdubs_bot"
+        },
+        {
+          "end": 75,
+          "id": "1128661417312210945",
+          "start": 59,
+          "username": "aAMtF1c2kjh8NM1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Make videos as simply as making PowerPoints. HeyGen is an online video tool with AI talking avatar that unleash people's creativity by removing the costly barriers of traditional video shooting and editing process.",
+          "display_url": "app.heygen.com/video-translat…",
+          "end": 129,
+          "expanded_url": "https://app.heygen.com/video-translate/share/b6fb2165b65a4c3fbee6cc7db04b0e8b?sid=twitter-bot",
+          "images": [
+            {
+              "height": 480,
+              "url": "https://pbs.twimg.com/news_img/1903800598887309312/ZC8XUmLW?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1903800598887309312/ZC8XUmLW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "Video Translated into Korean",
+          "unwound_url": "https://app.heygen.com/share/b6fb2165b65a4c3fbee6cc7db04b0e8b?sid=twitter-bot",
+          "url": "https://t.co/U9lGLgjPRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944613062042128489",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903800555434324222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeyGenLabs: @aAMtF1c2kjh8NM1 @LCBSINNERNO4 @ezdubs_bot @aAMtF1c2kjh8NM1 Here's your translated video: https://t.co/U9lGLgjPRt\n\nTry HeyG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51501,
+        "height": 480,
+        "media_key": "7_1903800522857119744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903800522857119744/pu/img/_NNVPCzfoCNqKB7o.jpg",
+        "public_metrics": {
+          "view_count": 75
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903800522857119744/pu/vid/avc1/320x320/JspQNMUQSqW4FiCj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903800522857119744/pu/vid/avc1/480x480/ZPnZKq2bPD3u07NQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903800522857119744/pu/pl/37SBjCUarJuMeIP8.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1944613062042128489",
+        "created_at": "2025-07-14T04:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T05:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944613062042128489"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "HeyG",
+              "probability": 0.548,
+              "start": 135,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645583064729518080",
+              "start": 3,
+              "username": "HeyGenLabs"
+            },
+            {
+              "end": 32,
+              "id": "1128661417312210945",
+              "start": 16,
+              "username": "aAMtF1c2kjh8NM1"
+            },
+            {
+              "end": 46,
+              "id": "1822951722060238849",
+              "start": 33,
+              "username": "LCBSINNERNO4"
+            },
+            {
+              "end": 58,
+              "id": "1595550442334961665",
+              "start": 47,
+              "username": "ezdubs_bot"
+            },
+            {
+              "end": 75,
+              "id": "1128661417312210945",
+              "start": 59,
+              "username": "aAMtF1c2kjh8NM1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Make videos as simply as making PowerPoints. HeyGen is an online video tool with AI talking avatar that unleash people's creativity by removing the costly barriers of traditional video shooting and editing process.",
+              "display_url": "app.heygen.com/video-translat…",
+              "end": 129,
+              "expanded_url": "https://app.heygen.com/video-translate/share/b6fb2165b65a4c3fbee6cc7db04b0e8b?sid=twitter-bot",
+              "images": [
+                {
+                  "height": 480,
+                  "url": "https://pbs.twimg.com/news_img/1903800598887309312/ZC8XUmLW?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1903800598887309312/ZC8XUmLW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Video Translated into Korean",
+              "unwound_url": "https://app.heygen.com/share/b6fb2165b65a4c3fbee6cc7db04b0e8b?sid=twitter-bot",
+              "url": "https://t.co/U9lGLgjPRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944613062042128489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903800555434324222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeyGenLabs: @aAMtF1c2kjh8NM1 @LCBSINNERNO4 @ezdubs_bot @aAMtF1c2kjh8NM1 Here's your translated video: https://t.co/U9lGLgjPRt\n\nTry HeyG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903800522857119744"
+          ]
+        },
+        "author_id": "1645583064729518080",
+        "conversation_id": "1903396195952943611",
+        "created_at": "2025-03-23T13:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T14:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903800555434324222"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 124,
+              "normalized_text": "HeyGen",
+              "probability": 0.6299,
+              "start": 119,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1128661417312210945",
+              "start": 0,
+              "username": "aAMtF1c2kjh8NM1"
+            },
+            {
+              "end": 30,
+              "id": "1822951722060238849",
+              "start": 17,
+              "username": "LCBSINNERNO4"
+            },
+            {
+              "end": 42,
+              "id": "1595550442334961665",
+              "start": 31,
+              "username": "ezdubs_bot"
+            },
+            {
+              "end": 59,
+              "id": "1128661417312210945",
+              "start": 43,
+              "username": "aAMtF1c2kjh8NM1"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Make videos as simply as making PowerPoints. HeyGen is an online video tool with AI talking avatar that unleash people's creativity by removing the costly barriers of traditional video shooting and editing process.",
+              "display_url": "app.heygen.com/video-translat…",
+              "end": 113,
+              "expanded_url": "https://app.heygen.com/video-translate/share/b6fb2165b65a4c3fbee6cc7db04b0e8b?sid=twitter-bot",
+              "images": [
+                {
+                  "height": 480,
+                  "url": "https://pbs.twimg.com/news_img/1903800598887309312/ZC8XUmLW?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1903800598887309312/ZC8XUmLW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "Video Translated into Korean",
+              "unwound_url": "https://app.heygen.com/share/b6fb2165b65a4c3fbee6cc7db04b0e8b?sid=twitter-bot",
+              "url": "https://t.co/U9lGLgjPRt"
+            },
+            {
+              "description": "HeyGen, rated 4.8/5 on G2, is the #1 AI video generator of 2025. Create professional AI-powered avatar videos, translate content, and bring ideas to life.",
+              "display_url": "HeyGen.com",
+              "end": 208,
+              "expanded_url": "http://HeyGen.com",
+              "images": [
+                {
+                  "height": 2220,
+                  "url": "https://pbs.twimg.com/news_img/1944416614394589184/wPjoTfFw?format=jpg&name=orig",
+                  "width": 3968
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1944416614394589184/wPjoTfFw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 185,
+              "status": 200,
+              "title": "AI Video Generator | #1 on G2’s 2025 Top 100 List | HeyGen",
+              "unwound_url": "https://www.heygen.com/",
+              "url": "https://t.co/ousgz6l35X"
+            },
+            {
+              "display_url": "pic.x.com/CpGoGn9d9J",
+              "end": 232,
+              "expanded_url": "https://x.com/HeyGenLabs/status/1903800555434324222/video/1",
+              "media_key": "7_1903800522857119744",
+              "start": 209,
+              "url": "https://t.co/CpGoGn9d9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903800555434324222",
+        "in_reply_to_user_id": "1128661417312210945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 229,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903795103153721659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aAMtF1c2kjh8NM1 @LCBSINNERNO4 @ezdubs_bot @aAMtF1c2kjh8NM1 Here's your translated video: https://t.co/U9lGLgjPRt\n\nTry HeyGen, our translations include lip-syncing &amp; voice cloning. https://t.co/ousgz6l35X https://t.co/CpGoGn9d9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 59,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 818
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T00:22:38.000Z",
+        "description": "Newest AI/Video tech from @HeyGen_Official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "HeyGen_Official"
+              }
+            ]
+          }
+        },
+        "id": "1645583064729518080",
+        "name": "HeyGen Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881797200667185152/LOm0DVoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25826,
+          "following_count": 9,
+          "like_count": 245,
+          "listed_count": 109,
+          "media_count": 134899,
+          "tweet_count": 135115
+        },
+        "username": "HeyGenLabs",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-15T14:00:26.000Z",
+        "description": "It's not my art",
+        "id": "1128661417312210945",
+        "name": "LSD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518607043292463104/YcAG4jpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1266,
+          "like_count": 23806,
+          "listed_count": 9,
+          "media_count": 1783,
+          "tweet_count": 39039
+        },
+        "username": "aAMtF1c2kjh8NM1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T11:02:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/8c6NsCXLYmRebz…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/8c6NsCXLYmRebzsq7",
+                "start": 0,
+                "url": "https://t.co/Gn1k3L64lP"
+              }
+            ]
+          }
+        },
+        "id": "1822951722060238849",
+        "name": "RYOSHU",
+        "pinned_tweet_id": "1844981911204266298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822978693108748288/QCSSTQ2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 112,
+          "like_count": 1789,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/Gn1k3L64lP",
+        "username": "LCBSINNERNO4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T22:50:46.000Z",
+        "description": "Dub videos in minutes, in the voice of the original speaker!\nTo dub, tag our bot in a reply with the source and target language.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ezdubs.ai",
+                "end": 23,
+                "expanded_url": "http://www.ezdubs.ai",
+                "start": 0,
+                "url": "https://t.co/BK69RUrXRO"
+              }
+            ]
+          }
+        },
+        "id": "1595550442334961665",
+        "location": "San Francisco",
+        "name": "EzDubs",
+        "pinned_tweet_id": "1866989443246329969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661143732752887808/mb52F9ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347461,
+          "following_count": 4,
+          "like_count": 173,
+          "listed_count": 1193,
+          "media_count": 542576,
+          "tweet_count": 626679
+        },
+        "url": "https://t.co/BK69RUrXRO",
+        "username": "ezdubs_bot",
+        "verified": true
+      }
+    ]
+  }
+}

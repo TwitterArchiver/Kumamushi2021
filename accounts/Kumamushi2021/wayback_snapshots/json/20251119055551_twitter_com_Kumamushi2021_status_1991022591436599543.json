@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1991021230829216004",
+    "created_at": "2025-11-19T05:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T06:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991022591436599543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808933044545630208",
+          "start": 0,
+          "username": "TauCeti_10700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991022591436599543",
+    "in_reply_to_user_id": "1808933044545630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991021230829216004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TauCeti_10700 好可爱（）我习惯先含一口水再找药然后抬头把药丢进嘴里吞下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1991021230829216004",
+        "created_at": "2025-11-19T05:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991022591436599543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991022591436599543",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991021230829216004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 好可爱（）我习惯先含一口水再找药然后抬头把药丢进嘴里吞下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808933044545630208",
+        "conversation_id": "1991021230829216004",
+        "created_at": "2025-11-19T05:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991021230829216004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991021230829216004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃药经常掰出来后叼着胶囊或者药片去到处找水x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 80,
+          "like_count": 2543,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1365
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra. / 药物内容@asplendour15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "asplendour15"
+              }
+            ]
+          }
+        },
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 45,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 267
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      }
+    ]
+  }
+}

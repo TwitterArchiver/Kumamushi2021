@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2010381232794927376",
+    "created_at": "2026-01-12T13:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T14:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010713076438638599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880056043012780032",
+          "start": 0,
+          "username": "ningmya111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010713076438638599",
+    "in_reply_to_user_id": "1880056043012780032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010705445997174899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningmya111 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2010381232794927376",
+        "created_at": "2026-01-12T13:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010713076438638599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880056043012780032",
+              "start": 0,
+              "username": "ningmya111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010713076438638599",
+        "in_reply_to_user_id": "1880056043012780032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010705445997174899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmya111 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880056043012780032",
+        "conversation_id": "2010381232794927376",
+        "created_at": "2026-01-12T13:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010705445997174899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010705445997174899",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010381232794927376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 92,
+          "like_count": 3164,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1582
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T00:54:46.000Z",
+        "description": "",
+        "id": "1880056043012780032",
+        "name": "於安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880058291474116608/CRQcG39Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 289,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "ningmya111",
+        "verified": false
+      }
+    ]
+  }
+}

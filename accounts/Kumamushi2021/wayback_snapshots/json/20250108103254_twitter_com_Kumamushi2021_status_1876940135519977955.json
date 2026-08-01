@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876646785269264384"
+      ],
+      "media_source_tweet_id": [
+        "1876646814902018206"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1876940135519977955",
+    "created_at": "2025-01-08T10:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T11:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876940135519977955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1950783002",
+          "start": 3,
+          "username": "candy91595956"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KBfVxZgCdu",
+          "end": 59,
+          "expanded_url": "https://x.com/candy91595956/status/1876646814902018206/photo/1",
+          "media_key": "3_1876646785269264384",
+          "start": 36,
+          "url": "https://t.co/KBfVxZgCdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876940135519977955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876646814902018206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @candy91595956: 照亮黑夜的擁抱感覺太浪漫了好喜歡 https://t.co/KBfVxZgCdu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1876646785269264384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgswTuzacAAwesW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876646785269264384"
+          ],
+          "media_source_tweet_id": [
+            "1876646814902018206"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1876940135519977955",
+        "created_at": "2025-01-08T10:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876940135519977955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1950783002",
+              "start": 3,
+              "username": "candy91595956"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBfVxZgCdu",
+              "end": 59,
+              "expanded_url": "https://x.com/candy91595956/status/1876646814902018206/photo/1",
+              "media_key": "3_1876646785269264384",
+              "start": 36,
+              "url": "https://t.co/KBfVxZgCdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876940135519977955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876646814902018206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @candy91595956: 照亮黑夜的擁抱感覺太浪漫了好喜歡 https://t.co/KBfVxZgCdu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876646785269264384"
+          ]
+        },
+        "author_id": "1950783002",
+        "conversation_id": "1876646814902018206",
+        "created_at": "2025-01-07T15:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876646814902018206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBfVxZgCdu",
+              "end": 40,
+              "expanded_url": "https://x.com/candy91595956/status/1876646814902018206/photo/1",
+              "media_key": "3_1876646785269264384",
+              "start": 17,
+              "url": "https://t.co/KBfVxZgCdu"
+            },
+            {
+              "display_url": "x.com/kann084only/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kann084only/status/1876270438252531835",
+              "start": 41,
+              "url": "https://t.co/FEPW4YYdn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876646814902018206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2200,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876270438252531835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "照亮黑夜的擁抱感覺太浪漫了好喜歡 https://t.co/KBfVxZgCdu https://t.co/FEPW4YYdn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 675
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-10T04:12:16.000Z",
+        "description": "20⬆️ 坑雜多（近期：LCB🎠）/無言フォロー失礼します/My native language is Mandarin, and I can read basic English and Japanese, but I have to use a translator for conversations.",
+        "id": "1950783002",
+        "name": "毛毛蓋瑞_たつみ",
+        "pinned_tweet_id": "1875556012989804570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851861768886456320/DHevNtqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 352,
+          "like_count": 9782,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 170
+        },
+        "username": "candy91595956",
+        "verified": false
+      }
+    ]
+  }
+}

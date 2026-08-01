@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1865315502647816192"
+      ],
+      "media_source_tweet_id": [
+        "1865315513959932172"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1865671272367268220",
+    "created_at": "2024-12-08T08:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T09:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865671272367268220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760123768020836352",
+          "start": 3,
+          "username": "_nectaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1bNZiR2pl",
+          "end": 39,
+          "expanded_url": "https://x.com/_nectaaa/status/1865315513959932172/video/1",
+          "media_key": "7_1865315502647816192",
+          "start": 16,
+          "url": "https://t.co/D1bNZiR2pl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865671272367268220",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865315513959932172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_nectaaa: 🎁 https://t.co/D1bNZiR2pl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6385,
+        "height": 464,
+        "media_key": "7_1865315502647816192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1865315502647816192/pu/img/c611-JZQinELQ9Cu.jpg",
+        "public_metrics": {
+          "view_count": 8076
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865315502647816192/pu/vid/avc1/320x326/PWxxbHmM6yntfmq4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1865315502647816192/pu/vid/avc1/454x464/kvYDcFgDsWd5wnNl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1865315502647816192/pu/pl/QOybJ6YDJQlLsbcs.m3u8?tag=12"
+          }
+        ],
+        "width": 454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865315502647816192"
+          ],
+          "media_source_tweet_id": [
+            "1865315513959932172"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1865671272367268220",
+        "created_at": "2024-12-08T08:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T09:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865671272367268220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760123768020836352",
+              "start": 3,
+              "username": "_nectaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1bNZiR2pl",
+              "end": 39,
+              "expanded_url": "https://x.com/_nectaaa/status/1865315513959932172/video/1",
+              "media_key": "7_1865315502647816192",
+              "start": 16,
+              "url": "https://t.co/D1bNZiR2pl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865671272367268220",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865315513959932172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_nectaaa: 🎁 https://t.co/D1bNZiR2pl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865315502647816192"
+          ]
+        },
+        "author_id": "1760123768020836352",
+        "conversation_id": "1865315513959932172",
+        "created_at": "2024-12-07T08:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T09:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865315513959932172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1bNZiR2pl",
+              "end": 25,
+              "expanded_url": "https://x.com/_nectaaa/status/1865315513959932172/video/1",
+              "media_key": "7_1865315502647816192",
+              "start": 2,
+              "url": "https://t.co/D1bNZiR2pl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865315513959932172",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 19251,
+          "like_count": 1711,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "🎁 https://t.co/D1bNZiR2pl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 42,
+          "like_count": 1500,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 636
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T02:08:34.000Z",
+        "description": "✨私はドンキちゃんの大ファン。ドンキちゃんの夢と道と冒険をsupport✨/🐣🎠､🎡🎠/7章クリア済み/たまに🚌以外も投稿する/⚠︎イラストの無断使用ダメ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oj9h8j51drlulv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oj9h8j51drlulvd?t=BAp8gN&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Owr82gmaAU"
+              }
+            ]
+          }
+        },
+        "id": "1760123768020836352",
+        "location": "ドンキホダイスキ協会3課",
+        "name": "ねくた",
+        "pinned_tweet_id": "1804768393909932032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804681180568326144/tYk2lA-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 362,
+          "like_count": 4293,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/Owr82gmaAU",
+        "username": "_nectaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      }
+    ],
+    "conversation_id": "1900793094599229448",
+    "created_at": "2025-03-15T06:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900793094599229448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "964007614026665984",
+          "start": 3,
+          "username": "HinaSuzuki_HH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900793094599229448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900166536930947452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HinaSuzuki_HH: ヴエェェェェ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900793094599229448",
+        "created_at": "2025-03-15T06:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900793094599229448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "964007614026665984",
+              "start": 3,
+              "username": "HinaSuzuki_HH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900793094599229448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900166536930947452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HinaSuzuki_HH: ヴエェェェェ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964007614026665984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900166536930947452",
+        "created_at": "2025-03-13T12:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T13:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900166536930947452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900166536930947452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 65212,
+          "like_count": 1767,
+          "quote_count": 10,
+          "reply_count": 44,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "ヴエェェェェ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 1588,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 694
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-15T05:25:00.000Z",
+        "description": "はおー！鈴木ヒナです！ ヒメ(@HimeTanaka_HH)と一緒に歌メインに活動してるよ！ ハイライトに最新情報まとめてるから見てね🥰 YouTube👉https://t.co/gWMWZn54sx TikTok👉https://t.co/2SAn7nBw1Q #ヒメヒナ #ヒメヒナアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "ヒメヒナ"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "tag": "ヒメヒナアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "HimeTanaka_HH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/8jh8yB",
+                "end": 100,
+                "expanded_url": "http://goo.gl/8jh8yB",
+                "start": 77,
+                "url": "https://t.co/gWMWZn54sx"
+              },
+              {
+                "display_url": "tiktok.com/@himehina.80",
+                "end": 131,
+                "expanded_url": "http://tiktok.com/@himehina.80",
+                "start": 108,
+                "url": "https://t.co/2SAn7nBw1Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "himehina.jp",
+                "end": 23,
+                "expanded_url": "http://himehina.jp",
+                "start": 0,
+                "url": "https://t.co/7yltSQ9bdh"
+              }
+            ]
+          }
+        },
+        "id": "964007614026665984",
+        "location": "Studio LaRa",
+        "name": "鈴木ヒナ(HIMEHINA)🥕",
+        "pinned_tweet_id": "1896204817510621664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331624828781031424/WZCxS4VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214798,
+          "following_count": 156,
+          "like_count": 2768,
+          "listed_count": 2519,
+          "media_count": 1414,
+          "tweet_count": 9176
+        },
+        "url": "https://t.co/7yltSQ9bdh",
+        "username": "HinaSuzuki_HH",
+        "verified": true
+      }
+    ]
+  }
+}

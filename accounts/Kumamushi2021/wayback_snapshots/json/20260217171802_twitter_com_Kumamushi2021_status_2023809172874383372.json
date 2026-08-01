@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023443692720427008"
+      ],
+      "media_source_tweet_id": [
+        "2023443697720062086"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "2023809172874383372",
+    "created_at": "2026-02-17T17:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T18:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023809172874383372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aftFhFodJV",
+          "end": 38,
+          "expanded_url": "https://x.com/minima_ai/status/2023443697720062086/photo/1",
+          "media_key": "3_2023443692720427008",
+          "start": 15,
+          "url": "https://t.co/aftFhFodJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023809172874383372",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023443697720062086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: https://t.co/aftFhFodJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2023443692720427008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBS3UV-bEAAm5h3.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023443692720427008"
+          ],
+          "media_source_tweet_id": [
+            "2023443697720062086"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "2023809172874383372",
+        "created_at": "2026-02-17T17:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023809172874383372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aftFhFodJV",
+              "end": 38,
+              "expanded_url": "https://x.com/minima_ai/status/2023443697720062086/photo/1",
+              "media_key": "3_2023443692720427008",
+              "start": 15,
+              "url": "https://t.co/aftFhFodJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023809172874383372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023443697720062086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: https://t.co/aftFhFodJV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023443692720427008"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "conversation_id": "2023443697720062086",
+        "created_at": "2026-02-16T17:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023443697720062086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aftFhFodJV",
+              "end": 23,
+              "expanded_url": "https://x.com/minima_ai/status/2023443697720062086/photo/1",
+              "media_key": "3_2023443692720427008",
+              "start": 0,
+              "url": "https://t.co/aftFhFodJV"
+            },
+            {
+              "display_url": "x.com/minima_ai/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/minima_ai/status/2023287672333320595",
+              "start": 24,
+              "url": "https://t.co/tpyIYBouXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023443697720062086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 10783,
+          "like_count": 426,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023287672333320595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/aftFhFodJV https://t.co/tpyIYBouXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 106,
+          "like_count": 3781,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1962
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "元Noise composer (1i) | AI画像+音楽 | AIアート集団 #SunRraiz 所属 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "SunRraiz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "2014642115620569245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9715,
+          "following_count": 794,
+          "like_count": 25017,
+          "listed_count": 84,
+          "media_count": 3010,
+          "tweet_count": 5018
+        },
+        "url": "https://t.co/cyyvEQuIex",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

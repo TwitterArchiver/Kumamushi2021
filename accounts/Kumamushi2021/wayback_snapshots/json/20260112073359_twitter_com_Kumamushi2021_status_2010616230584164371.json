@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2010381232794927376",
+    "created_at": "2026-01-12T07:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010616230584164371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000468725041090560",
+          "start": 0,
+          "username": "ElenaClair61839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010616230584164371",
+    "in_reply_to_user_id": "2000468725041090560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010616023763054811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElenaClair61839 谢谢你哇！💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2010381232794927376",
+        "created_at": "2026-01-12T07:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010616230584164371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000468725041090560",
+              "start": 0,
+              "username": "ElenaClair61839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010616230584164371",
+        "in_reply_to_user_id": "2000468725041090560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010616023763054811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElenaClair61839 谢谢你哇！💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000468725041090560",
+        "conversation_id": "2010381232794927376",
+        "created_at": "2026-01-12T07:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010616023763054811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010616023763054811",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010381232794927376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 好棒！生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3155,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1563
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T07:31:35.000Z",
+        "description": "🚪1314及以上可遥控秒回可定制视频 分享欲强 女高 价格＝质量 已读不回进入我的黑名单꒦ິ^꒦ິ 有处女情结别找我 双坑Jk lo",
+        "id": "2000468725041090560",
+        "location": "160/45 湘",
+        "name": "窝素一只小猫",
+        "pinned_tweet_id": "2009427521708949754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007469471854977024/GoW0bFT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 40,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 341
+        },
+        "username": "ElenaClair61839",
+        "verified": false
+      }
+    ]
+  }
+}

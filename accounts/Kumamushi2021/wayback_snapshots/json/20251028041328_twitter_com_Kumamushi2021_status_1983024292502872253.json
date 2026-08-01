@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982833800418643968"
+      ],
+      "media_source_tweet_id": [
+        "1983005816635453848"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983024292502872253",
+    "created_at": "2025-10-28T04:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983024292502872253"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 12,
+          "tag": "まのさばネタバレ"
+        },
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2409117906",
+          "start": 3,
+          "username": "xfoopy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EjeT91HOgx",
+          "end": 55,
+          "expanded_url": "https://x.com/xfoopy/status/1983005816635453848/photo/1",
+          "media_key": "3_1982833800418643968",
+          "start": 32,
+          "url": "https://t.co/EjeT91HOgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983024292502872253",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983005816635453848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xfoopy: #まのさばネタバレ #まのさば二次創作 https://t.co/EjeT91HOgx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1982833800418643968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Rw1gKXUAAvGUJ.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982833800418643968"
+          ],
+          "media_source_tweet_id": [
+            "1983005816635453848"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983024292502872253",
+        "created_at": "2025-10-28T04:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983024292502872253"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2409117906",
+              "start": 3,
+              "username": "xfoopy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjeT91HOgx",
+              "end": 55,
+              "expanded_url": "https://x.com/xfoopy/status/1983005816635453848/photo/1",
+              "media_key": "3_1982833800418643968",
+              "start": 32,
+              "url": "https://t.co/EjeT91HOgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983024292502872253",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983005816635453848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xfoopy: #まのさばネタバレ #まのさば二次創作 https://t.co/EjeT91HOgx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982833800418643968"
+          ]
+        },
+        "author_id": "2409117906",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983005816635453848",
+        "created_at": "2025-10-28T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983005816635453848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjeT91HOgx",
+              "end": 43,
+              "expanded_url": "https://x.com/xfoopy/status/1983005816635453848/photo/1",
+              "media_key": "3_1982833800418643968",
+              "start": 20,
+              "url": "https://t.co/EjeT91HOgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983005816635453848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 5567,
+          "like_count": 702,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさばネタバレ #まのさば二次創作 https://t.co/EjeT91HOgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 70,
+          "like_count": 2292,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1187
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-24T14:50:19.000Z",
+        "description": "🎨 ✦ 絵描き ✦\n🎮 ✦ ゲーム開発 ✦\n🌍 ✦ EN 🇦🇺 ◎ / CHT 🇭🇰 〇 / JPN 🇯🇵 △ ✦\n🤖 ✦ C#, C/C++, Python, GLSL, Java/KT, JS, SQL ✦\nhttps://t.co/H3rbblLSKm #まのさば #エマヒロ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "まのさば"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "エマヒロ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/foopy",
+                "end": 129,
+                "expanded_url": "http://odaibako.net/u/foopy",
+                "start": 106,
+                "url": "https://t.co/H3rbblLSKm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/foopy",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/foopy",
+                "start": 0,
+                "url": "https://t.co/2373S5aZwN"
+              }
+            ]
+          }
+        },
+        "id": "2409117906",
+        "name": "フーピ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979166428172271617/2icHx8Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 20,
+          "like_count": 975,
+          "listed_count": 10,
+          "media_count": 27,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/2373S5aZwN",
+        "username": "xfoopy",
+        "verified": false
+      }
+    ]
+  }
+}

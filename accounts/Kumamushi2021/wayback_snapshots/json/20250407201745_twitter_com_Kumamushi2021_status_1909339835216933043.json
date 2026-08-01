@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909199728212168704",
+        "3_1909199731181686784"
+      ],
+      "media_source_tweet_id": [
+        "1909199733371113953",
+        "1909199733371113953"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      }
+    ],
+    "conversation_id": "1909339835216933043",
+    "created_at": "2025-04-07T20:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T21:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909339835216933043"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "ヒメヒナアート"
+        },
+        {
+          "end": 33,
+          "start": 27,
+          "tag": "キスキツネ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831973380477829120",
+          "start": 3,
+          "username": "itonore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XV7iQ7BDPf",
+          "end": 57,
+          "expanded_url": "https://x.com/itonore/status/1909199733371113953/photo/1",
+          "media_key": "3_1909199728212168704",
+          "start": 34,
+          "url": "https://t.co/XV7iQ7BDPf"
+        },
+        {
+          "display_url": "pic.x.com/XV7iQ7BDPf",
+          "end": 57,
+          "expanded_url": "https://x.com/itonore/status/1909199733371113953/photo/1",
+          "media_key": "3_1909199731181686784",
+          "start": 34,
+          "url": "https://t.co/XV7iQ7BDPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909339835216933043",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909199733371113953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itonore: 🩷🦊🩵\n#ヒメヒナアート  #キスキツネ https://t.co/XV7iQ7BDPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1909199728212168704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7XCZVb0AAU6tA.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1909199731181686784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7XCkZbEAAIufo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909199728212168704",
+            "3_1909199731181686784"
+          ],
+          "media_source_tweet_id": [
+            "1909199733371113953",
+            "1909199733371113953"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1909339835216933043",
+        "created_at": "2025-04-07T20:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T21:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909339835216933043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "ヒメヒナアート"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "キスキツネ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831973380477829120",
+              "start": 3,
+              "username": "itonore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XV7iQ7BDPf",
+              "end": 57,
+              "expanded_url": "https://x.com/itonore/status/1909199733371113953/photo/1",
+              "media_key": "3_1909199728212168704",
+              "start": 34,
+              "url": "https://t.co/XV7iQ7BDPf"
+            },
+            {
+              "display_url": "pic.x.com/XV7iQ7BDPf",
+              "end": 57,
+              "expanded_url": "https://x.com/itonore/status/1909199733371113953/photo/1",
+              "media_key": "3_1909199731181686784",
+              "start": 34,
+              "url": "https://t.co/XV7iQ7BDPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909339835216933043",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909199733371113953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itonore: 🩷🦊🩵\n#ヒメヒナアート  #キスキツネ https://t.co/XV7iQ7BDPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909199728212168704",
+            "3_1909199731181686784"
+          ]
+        },
+        "author_id": "1831973380477829120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1909199733371113953",
+        "created_at": "2025-04-07T11:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T12:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909199733371113953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 4,
+              "tag": "ヒメヒナアート"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "キスキツネ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XV7iQ7BDPf",
+              "end": 44,
+              "expanded_url": "https://x.com/itonore/status/1909199733371113953/photo/1",
+              "media_key": "3_1909199728212168704",
+              "start": 21,
+              "url": "https://t.co/XV7iQ7BDPf"
+            },
+            {
+              "display_url": "pic.x.com/XV7iQ7BDPf",
+              "end": 44,
+              "expanded_url": "https://x.com/itonore/status/1909199733371113953/photo/1",
+              "media_key": "3_1909199731181686784",
+              "start": 21,
+              "url": "https://t.co/XV7iQ7BDPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909199733371113953",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 5772,
+          "like_count": 453,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "🩷🦊🩵\n#ヒメヒナアート  #キスキツネ https://t.co/XV7iQ7BDPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 53,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 718
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T08:31:19.000Z",
+        "description": "当アカウントが投稿する全ての画像は二次利用禁止です。",
+        "id": "1831973380477829120",
+        "name": "クロモジ",
+        "pinned_tweet_id": "1909199733371113953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902710835300237312/khPd-WQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "itonore",
+        "verified": false
+      }
+    ]
+  }
+}

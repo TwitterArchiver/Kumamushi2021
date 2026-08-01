@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1815403693409517893",
+    "created_at": "2024-07-22T15:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T16:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815415316559835154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "899502186",
+          "start": 0,
+          "username": "0u0HaNako666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815415316559835154",
+    "in_reply_to_user_id": "899502186",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815403693409517893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0u0HaNako666 谢谢noko😭😭真的很开心！！真的是最难忘的回忆了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1815403693409517893",
+        "created_at": "2024-07-22T15:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T16:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815415316559835154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "899502186",
+              "start": 0,
+              "username": "0u0HaNako666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815415316559835154",
+        "in_reply_to_user_id": "899502186",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815403693409517893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0u0HaNako666 谢谢noko😭😭真的很开心！！真的是最难忘的回忆了😭😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1815403693409517893",
+        "created_at": "2024-07-22T15:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T16:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815403693409517893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "伝説のライブをした🐼",
+              "display_url": "twitcasting.tv/0u0hanako666/m…",
+              "end": 34,
+              "expanded_url": "https://twitcasting.tv/0u0hanako666/movie/798330726?t=5",
+              "images": [
+                {
+                  "height": 335,
+                  "url": "https://pbs.twimg.com/news_img/1815403702402048000/d4kxcLoj?format=png&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1815403702402048000/d4kxcLoj?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "神聖かまってちゃんってバンド🎸",
+              "unwound_url": "https://twitcasting.tv/0u0hanako666/?m798330726&src=movie",
+              "url": "https://t.co/74tNYUbRjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815403693409517893",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4825,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "伝説のライブをした🐼\nhttps://t.co/74tNYUbRjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 33,
+          "like_count": 1137,
+          "listed_count": 0,
+          "tweet_count": 532
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん🐼ネット配信者.「進撃の巨人」The Final Season主題歌OP・2期ED. 「恋は雨上がりのように」映画主題歌、劇伴.「電波女と青春男」OP担当. 今まで作った自主制作Pv▷:https://t.co/fxmjNE4Euf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 125,
+                "expanded_url": "https://www.youtube.com/user/vivaru",
+                "start": 102,
+                "url": "https://t.co/fxmjNE4Euf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/AVgDmRDB0v"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1805934703926776135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212352234551275520/YFsOGIOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171452,
+          "following_count": 223,
+          "like_count": 347776,
+          "listed_count": 1426,
+          "tweet_count": 53576
+        },
+        "url": "https://t.co/AVgDmRDB0v",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

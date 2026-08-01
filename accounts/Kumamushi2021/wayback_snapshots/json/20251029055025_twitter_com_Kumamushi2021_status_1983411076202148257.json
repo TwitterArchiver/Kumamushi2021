@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1983411076202148257",
+    "created_at": "2025-10-29T05:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T06:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983411076202148257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1105857295429177351",
+          "start": 3,
+          "username": "Glory_and_Dream"
+        },
+        {
+          "end": 28,
+          "id": "1613079089879076864",
+          "start": 21,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983411076202148257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983365222040543549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Glory_and_Dream: @Cldeop [反驳] 这是人不是狗\n[疑问] 哪边是狗？\n[赞同] 希艾是对的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1983411076202148257",
+        "created_at": "2025-10-29T05:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983411076202148257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1105857295429177351",
+              "start": 3,
+              "username": "Glory_and_Dream"
+            },
+            {
+              "end": 28,
+              "id": "1613079089879076864",
+              "start": 21,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983411076202148257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983365222040543549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Glory_and_Dream: @Cldeop [反驳] 这是人不是狗\n[疑问] 哪边是狗？\n[赞同] 希艾是对的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1105857295429177351",
+        "conversation_id": "1983026400153215286",
+        "created_at": "2025-10-29T02:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983365222040543549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983365222040543549",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 532,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983026400153215286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop [反驳] 这是人不是狗\n[疑问] 哪边是狗？\n[赞同] 希艾是对的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 70,
+          "like_count": 2308,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T15:44:59.000Z",
+        "description": "#precure fan / #yuri enjoyer / #MiaSanMia\n \nprivate yuri-fever account: @Tokini_Ai_wa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "precure"
+              },
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "yuri"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "tag": "MiaSanMia"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Tokini_Ai_wa"
+              }
+            ]
+          }
+        },
+        "id": "1105857295429177351",
+        "name": "光荣与梦想",
+        "pinned_tweet_id": "1477190543293640707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933797651016822784/e__5dHhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 3189,
+          "like_count": 49738,
+          "listed_count": 25,
+          "media_count": 1233,
+          "tweet_count": 17931
+        },
+        "username": "Glory_and_Dream",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85545,
+          "following_count": 651,
+          "like_count": 31205,
+          "listed_count": 258,
+          "media_count": 13035,
+          "tweet_count": 18484
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

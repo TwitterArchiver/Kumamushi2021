@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1929885240857899452",
+    "created_at": "2025-06-03T12:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T13:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929885240857899452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1929885240857899452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想玩黑魂3结果一直说网络不行进不去，好不容易离线进去了手柄还出问题，我只是想打自己想玩的游戏结果不是没钱买就是电脑带不动，今天荡秋千还被老人当成智障带着小孩躲得远远的，我造了什么孽吗我只是想活得开心点为什么一直不行？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1929885240857899452",
+        "created_at": "2025-06-03T12:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929885240857899452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929885240857899452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩黑魂3结果一直说网络不行进不去，好不容易离线进去了手柄还出问题，我只是想打自己想玩的游戏结果不是没钱买就是电脑带不动，今天荡秋千还被老人当成智障带着小孩躲得远远的，我造了什么孽吗我只是想活得开心点为什么一直不行？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 57,
+          "like_count": 1714,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 864
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

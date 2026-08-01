@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918042653343576064"
+      ],
+      "media_source_tweet_id": [
+        "1918042655432360046"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1918747836285652992",
+    "created_at": "2025-05-03T19:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T20:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918747836285652992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1411075726330138631",
+          "start": 3,
+          "username": "red_s_7bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kyQPEiHmFb",
+          "end": 39,
+          "expanded_url": "https://x.com/red_s_7bot/status/1918042655432360046/photo/1",
+          "media_key": "3_1918042653343576064",
+          "start": 16,
+          "url": "https://t.co/kyQPEiHmFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918747836285652992",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918042655432360046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @red_s_7bot: https://t.co/kyQPEiHmFb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_1918042653343576064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp5BoYiXcAAEMzd.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918042653343576064"
+          ],
+          "media_source_tweet_id": [
+            "1918042655432360046"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1918747836285652992",
+        "created_at": "2025-05-03T19:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T20:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918747836285652992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1411075726330138631",
+              "start": 3,
+              "username": "red_s_7bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyQPEiHmFb",
+              "end": 39,
+              "expanded_url": "https://x.com/red_s_7bot/status/1918042655432360046/photo/1",
+              "media_key": "3_1918042653343576064",
+              "start": 16,
+              "url": "https://t.co/kyQPEiHmFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918747836285652992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918042655432360046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @red_s_7bot: https://t.co/kyQPEiHmFb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918042653343576064"
+          ]
+        },
+        "author_id": "1411075726330138631",
+        "conversation_id": "1918042655432360046",
+        "created_at": "2025-05-01T20:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T21:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918042655432360046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyQPEiHmFb",
+              "end": 23,
+              "expanded_url": "https://x.com/red_s_7bot/status/1918042655432360046/photo/1",
+              "media_key": "3_1918042653343576064",
+              "start": 0,
+              "url": "https://t.co/kyQPEiHmFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918042655432360046",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2288,
+          "like_count": 155,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kyQPEiHmFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 56,
+          "like_count": 1655,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 764
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T21:34:14.000Z",
+        "description": "posts shintaro-related media / done with @gimmickbots",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "gimmickbots"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "retrospring.net/@red_s_7",
+                "end": 23,
+                "expanded_url": "https://retrospring.net/@red_s_7",
+                "start": 0,
+                "url": "https://t.co/JmQN0Y7hNv"
+              }
+            ]
+          }
+        },
+        "id": "1411075726330138631",
+        "name": "Shintaro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649508564862664704/ynZG2BBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 10,
+          "like_count": 34,
+          "listed_count": 6,
+          "media_count": 2209,
+          "tweet_count": 16320
+        },
+        "url": "https://t.co/JmQN0Y7hNv",
+        "username": "red_s_7bot",
+        "verified": false
+      }
+    ]
+  }
+}

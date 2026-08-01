@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2017201752198832193",
+    "created_at": "2026-01-31T05:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017468261076725994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985030184379273216",
+          "start": 0,
+          "username": "outcast7outcast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017468261076725994",
+    "in_reply_to_user_id": "1985030184379273216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017464680936312984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@outcast7outcast 情绪是阴雨…🫂🫂😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2017201752198832193",
+        "created_at": "2026-01-31T05:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017468261076725994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985030184379273216",
+              "start": 0,
+              "username": "outcast7outcast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017468261076725994",
+        "in_reply_to_user_id": "1985030184379273216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017464680936312984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@outcast7outcast 情绪是阴雨…🫂🫂😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985030184379273216",
+        "conversation_id": "2017201752198832193",
+        "created_at": "2026-01-31T05:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017464680936312984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017464680936312984",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017201752198832193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 愿意安慰你的人无论多少次的难过都会一如往常的在你身边陪伴你的，可以情绪就是这样，像一场场阴湿的雨一样在无垠的人生中连绵不断，请放心难过吧🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 96,
+          "like_count": 3506,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1766
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:04:11.000Z",
+        "description": "",
+        "id": "1985030184379273216",
+        "location": "LIMBO",
+        "name": "學雲朵變灰然後變好",
+        "pinned_tweet_id": "2012500896245051627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016905618389647360/BeHVZ05Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 162
+        },
+        "username": "outcast7outcast",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1859937845051592991",
+    "created_at": "2025-01-08T10:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T11:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876938459299909960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1083571241171091458",
+          "start": 0,
+          "username": "Sixgooooood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876938459299909960",
+    "in_reply_to_user_id": "1083571241171091458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859937845051592991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sixgooooood 那麼請問在哪裡能夠看見呢…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1859937845051592991",
+        "created_at": "2025-01-08T10:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876938459299909960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1083571241171091458",
+              "start": 0,
+              "username": "Sixgooooood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876938459299909960",
+        "in_reply_to_user_id": "1083571241171091458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859937845051592991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sixgooooood 那麼請問在哪裡能夠看見呢…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1859937696703246336"
+          ]
+        },
+        "author_id": "1083571241171091458",
+        "conversation_id": "1859937845051592991",
+        "created_at": "2024-11-22T12:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T13:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859937845051592991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fcom9ten3g",
+              "end": 29,
+              "expanded_url": "https://x.com/Sixgooooood/status/1859937845051592991/video/1",
+              "media_key": "7_1859937696703246336",
+              "start": 6,
+              "url": "https://t.co/Fcom9ten3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859937845051592991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1438,
+          "impression_count": 101621,
+          "like_count": 7072,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 1609
+        },
+        "reply_settings": "everyone",
+        "text": "透一点手书 https://t.co/Fcom9ten3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 673
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T03:48:10.000Z",
+        "description": "中国人  中文/English/日本語/18↑\n提问箱https://t.co/cpuFoK9pFA…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lthbhvlbjqwese",
+                "end": 50,
+                "expanded_url": "http://marshmallow-qa.com/lthbhvlbjqwese",
+                "start": 27,
+                "url": "https://t.co/cpuFoK9pFA"
+              }
+            ]
+          }
+        },
+        "id": "1083571241171091458",
+        "name": "麦田六神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797249496516362240/hY_l947E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7643,
+          "following_count": 842,
+          "like_count": 3840,
+          "listed_count": 30,
+          "media_count": 657,
+          "tweet_count": 2433
+        },
+        "username": "Sixgooooood",
+        "verified": false
+      }
+    ]
+  }
+}

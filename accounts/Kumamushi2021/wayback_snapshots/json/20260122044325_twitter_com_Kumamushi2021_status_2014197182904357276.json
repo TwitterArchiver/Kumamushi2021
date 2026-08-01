@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2014183656303013929",
+    "created_at": "2026-01-22T04:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014197182904357276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985030184379273216",
+          "start": 0,
+          "username": "outcast7outcast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014197182904357276",
+    "in_reply_to_user_id": "1985030184379273216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014196756259418131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@outcast7outcast 只要不做MECT不住封闭病区其实也没那么可怕  我这边医院的床还挺舒服的而且医生护士人都很好  最好的情况就是只用调药啦\nMECT对记忆的影响还挺大的  而且要全麻  虽然丙泊酚推进去能睡得很好但是失忆真的有点难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2014183656303013929",
+        "created_at": "2026-01-22T04:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014197182904357276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985030184379273216",
+              "start": 0,
+              "username": "outcast7outcast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014197182904357276",
+        "in_reply_to_user_id": "1985030184379273216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014196756259418131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@outcast7outcast 只要不做MECT不住封闭病区其实也没那么可怕  我这边医院的床还挺舒服的而且医生护士人都很好  最好的情况就是只用调药啦\nMECT对记忆的影响还挺大的  而且要全麻  虽然丙泊酚推进去能睡得很好但是失忆真的有点难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985030184379273216",
+        "conversation_id": "2014183656303013929",
+        "created_at": "2026-01-22T04:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014196756259418131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014196756259418131",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014196162467946934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 辛苦你了哦🫂我好像也要住院了感觉好可怕(#_&lt;-)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 95,
+          "like_count": 3355,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1708
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:04:11.000Z",
+        "description": "",
+        "id": "1985030184379273216",
+        "location": "LIMBO",
+        "name": "學雲朵變灰然後變好",
+        "pinned_tweet_id": "2012500896245051627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998746530065641473/vZkYGwQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 47,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 132
+        },
+        "username": "outcast7outcast",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1838982997099630787",
+    "created_at": "2024-09-25T16:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T17:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838982997099630787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1838982997099630787",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "服用過量的喹硫平和攝入酒精都能讓我睡好覺，而且能讓我平靜下來，我需要酒精，這裡不安全。我需要喝酒，然後讓我的精神消散開去找安全的地方，拋棄這具肉體。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1838982997099630787",
+        "created_at": "2024-09-25T16:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T17:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838982997099630787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838982997099630787",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服用過量的喹硫平和攝入酒精都能讓我睡好覺，而且能讓我平靜下來，我需要酒精，這裡不安全。我需要喝酒，然後讓我的精神消散開去找安全的地方，拋棄這具肉體。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1829446039394460026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 1305,
+          "listed_count": 0,
+          "tweet_count": 643
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

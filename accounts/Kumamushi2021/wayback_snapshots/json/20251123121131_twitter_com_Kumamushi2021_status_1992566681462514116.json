@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1992566681462514116",
+    "created_at": "2025-11-23T12:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992566681462514116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988918274697134080",
+          "start": 3,
+          "username": "siinaikide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992566681462514116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990310224050422079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siinaikide: 这一次她做到了，致死量的解离剂果断地将一切痛苦引向终结。被她爱人发现时她已经离开了她爱的一切，她再也不需要靠伤害自己和滥用药物来维持她早已放弃的生命了。还有人值得她留恋，只是她即使反复被你救赎，痛苦也一直如影随形，让她只能选择放弃。她觉得她对不起…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1992566681462514116",
+        "created_at": "2025-11-23T12:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992566681462514116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988918274697134080",
+              "start": 3,
+              "username": "siinaikide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992566681462514116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990310224050422079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siinaikide: 这一次她做到了，致死量的解离剂果断地将一切痛苦引向终结。被她爱人发现时她已经离开了她爱的一切，她再也不需要靠伤害自己和滥用药物来维持她早已放弃的生命了。还有人值得她留恋，只是她即使反复被你救赎，痛苦也一直如影随形，让她只能选择放弃。她觉得她对不起…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988918274697134080",
+        "conversation_id": "1990310224050422079",
+        "created_at": "2025-11-17T06:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990310224050422079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990310224050422079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 219,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这一次她做到了，致死量的解离剂果断地将一切痛苦引向终结。被她爱人发现时她已经离开了她爱的一切，她再也不需要靠伤害自己和滥用药物来维持她早已放弃的生命了。还有人值得她留恋，只是她即使反复被你救赎，痛苦也一直如影随形，让她只能选择放弃。她觉得她对不起你 其实她并不想离开你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 80,
+          "like_count": 2587,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1388
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T10:34:41.000Z",
+        "description": "V系/地雷系餐券mtf｜负能爆炸慎关｜药物重度依赖",
+        "id": "1988918274697134080",
+        "location": "在家手搓氰化物中",
+        "name": "八千九百六十四滴泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992565447049580545/oN3rmvPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 85,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "siinaikide",
+        "verified": false
+      }
+    ]
+  }
+}

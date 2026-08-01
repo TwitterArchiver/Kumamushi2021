@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1805438979686515120",
+    "created_at": "2024-06-25T03:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T04:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805438979686515120"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805438979686515120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还差半年就成年了但还是画不出自己想要的画  写不出自己想要的文字  音乐梦早早地被丢在了不知道身后的哪里  没有才能没有未来的我大概已经可以是死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1805438979686515120",
+        "created_at": "2024-06-25T03:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T04:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805438979686515120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805438979686515120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还差半年就成年了但还是画不出自己想要的画  写不出自己想要的文字  音乐梦早早地被丢在了不知道身后的哪里  没有才能没有未来的我大概已经可以是死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 34,
+          "like_count": 1101,
+          "listed_count": 0,
+          "tweet_count": 509
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

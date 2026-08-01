@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2015600618740855074",
+    "created_at": "2026-01-26T02:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015608343377985723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1524775026569801729",
+          "start": 0,
+          "username": "karichan_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015608343377985723",
+    "in_reply_to_user_id": "1524775026569801729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015600618740855074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karichan_114514 尤其是单眼眼罩非常萌！！支持所有眼罩各种眼罩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2015600618740855074",
+        "created_at": "2026-01-26T02:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015608343377985723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1524775026569801729",
+              "start": 0,
+              "username": "karichan_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015608343377985723",
+        "in_reply_to_user_id": "1524775026569801729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015600618740855074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karichan_114514 尤其是单眼眼罩非常萌！！支持所有眼罩各种眼罩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524775026569801729",
+        "conversation_id": "2015600618740855074",
+        "created_at": "2026-01-26T01:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015600618740855074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015600618740855074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感覺戴眼罩的角色不管眼罩下那隻眼睛是不是異瞳或受傷都很可愛.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 96,
+          "like_count": 3418,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1741
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T15:34:48.000Z",
+        "description": "死にかけてるネズミの生活記録/性別不明/変な垢以外フォロバ100%",
+        "id": "1524775026569801729",
+        "location": "🇯🇵",
+        "name": "夢から覚めないで",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987461097746821120/ADHek3au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 633,
+          "like_count": 16523,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 3172
+        },
+        "username": "karichan_114514",
+        "verified": false
+      }
+    ]
+  }
+}

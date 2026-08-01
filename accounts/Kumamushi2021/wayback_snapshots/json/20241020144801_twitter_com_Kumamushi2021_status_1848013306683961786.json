@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1848013306683961786",
+    "created_at": "2024-10-20T14:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T15:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848013306683961786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1219249841483714560",
+          "start": 3,
+          "username": "sub97567866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848013306683961786",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847466491190325559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sub97567866: 感到悲伤的时候翻黄片自慰，有一种形容不出来的萧瑟，我完全没有性欲，但反复强奸自己达到高潮，我知道某天性欲会成为我厌恶的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1848013306683961786",
+        "created_at": "2024-10-20T14:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T15:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848013306683961786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1219249841483714560",
+              "start": 3,
+              "username": "sub97567866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848013306683961786",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847466491190325559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sub97567866: 感到悲伤的时候翻黄片自慰，有一种形容不出来的萧瑟，我完全没有性欲，但反复强奸自己达到高潮，我知道某天性欲会成为我厌恶的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219249841483714560",
+        "conversation_id": "1847466491190325559",
+        "created_at": "2024-10-19T02:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T03:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847466491190325559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847466491190325559",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 87621,
+          "like_count": 1358,
+          "quote_count": 17,
+          "reply_count": 52,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "感到悲伤的时候翻黄片自慰，有一种形容不出来的萧瑟，我完全没有性欲，但反复强奸自己达到高潮，我知道某天性欲会成为我厌恶的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 44,
+          "like_count": 1420,
+          "listed_count": 0,
+          "tweet_count": 736
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T13:26:41.000Z",
+        "description": "她已经是散开的长发   /  零落的雨水  /  一个被无限分享的源头",
+        "id": "1219249841483714560",
+        "name": "桑",
+        "pinned_tweet_id": "1843484085077061999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839178903316766720/SnxtJU3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 109,
+          "like_count": 3212,
+          "listed_count": 6,
+          "tweet_count": 354
+        },
+        "username": "sub97567866",
+        "verified": false
+      }
+    ]
+  }
+}

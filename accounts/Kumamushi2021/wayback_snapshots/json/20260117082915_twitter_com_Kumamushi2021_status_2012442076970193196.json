@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2012442076970193196",
+    "created_at": "2026-01-17T08:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T09:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012442076970193196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012442076970193196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起刚拿到VR的那天，我的朋友对我说“你现在的难点是没好友而不是没VR”，调试好上VRC的那天看着不到两位数的好友数陷入沉思\n独自一人好痛苦  即使有VR之后待在好看的地图更开心了  但是晕动症和寂寞也依旧能把我击垮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2012442076970193196",
+        "created_at": "2026-01-17T08:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012442076970193196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012442076970193196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起刚拿到VR的那天，我的朋友对我说“你现在的难点是没好友而不是没VR”，调试好上VRC的那天看着不到两位数的好友数陷入沉思\n独自一人好痛苦  即使有VR之后待在好看的地图更开心了  但是晕动症和寂寞也依旧能把我击垮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 93,
+          "like_count": 3259,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1650
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

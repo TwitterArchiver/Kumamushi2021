@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001262310963519488",
+        "3_2001262310971813888",
+        "3_2001262310967701504"
+      ],
+      "media_source_tweet_id": [
+        "2001262320228667513",
+        "2001262320228667513",
+        "2001262320228667513"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "2001461018719895695",
+    "created_at": "2025-12-18T01:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T02:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001461018719895695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533285336800866307",
+          "start": 3,
+          "username": "Miya_xxx_38"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CYSMsPwg36",
+          "end": 53,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+          "media_key": "3_2001262310963519488",
+          "start": 30,
+          "url": "https://t.co/CYSMsPwg36"
+        },
+        {
+          "display_url": "pic.x.com/CYSMsPwg36",
+          "end": 53,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+          "media_key": "3_2001262310971813888",
+          "start": 30,
+          "url": "https://t.co/CYSMsPwg36"
+        },
+        {
+          "display_url": "pic.x.com/CYSMsPwg36",
+          "end": 53,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+          "media_key": "3_2001262310967701504",
+          "start": 30,
+          "url": "https://t.co/CYSMsPwg36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001461018719895695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4870
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001262320228667513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miya_xxx_38: がんばる子ほど、夜に泣く https://t.co/CYSMsPwg36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2001262310963519488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Xpd_tboAAOefW.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1151,
+        "media_key": "3_2001262310971813888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Xpd_vaMAAAbYm.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1052,
+        "media_key": "3_2001262310967701504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Xpd_ubcAA1lPu.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001262310963519488",
+            "3_2001262310971813888",
+            "3_2001262310967701504"
+          ],
+          "media_source_tweet_id": [
+            "2001262320228667513",
+            "2001262320228667513",
+            "2001262320228667513"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "2001461018719895695",
+        "created_at": "2025-12-18T01:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T02:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001461018719895695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533285336800866307",
+              "start": 3,
+              "username": "Miya_xxx_38"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYSMsPwg36",
+              "end": 53,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+              "media_key": "3_2001262310963519488",
+              "start": 30,
+              "url": "https://t.co/CYSMsPwg36"
+            },
+            {
+              "display_url": "pic.x.com/CYSMsPwg36",
+              "end": 53,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+              "media_key": "3_2001262310971813888",
+              "start": 30,
+              "url": "https://t.co/CYSMsPwg36"
+            },
+            {
+              "display_url": "pic.x.com/CYSMsPwg36",
+              "end": 53,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+              "media_key": "3_2001262310967701504",
+              "start": 30,
+              "url": "https://t.co/CYSMsPwg36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001461018719895695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4870
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001262320228667513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miya_xxx_38: がんばる子ほど、夜に泣く https://t.co/CYSMsPwg36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001262310963519488",
+            "3_2001262310971813888",
+            "3_2001262310967701504"
+          ]
+        },
+        "author_id": "1533285336800866307",
+        "conversation_id": "2001262320228667513",
+        "created_at": "2025-12-17T12:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001262320228667513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYSMsPwg36",
+              "end": 36,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+              "media_key": "3_2001262310963519488",
+              "start": 13,
+              "url": "https://t.co/CYSMsPwg36"
+            },
+            {
+              "display_url": "pic.x.com/CYSMsPwg36",
+              "end": 36,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+              "media_key": "3_2001262310971813888",
+              "start": 13,
+              "url": "https://t.co/CYSMsPwg36"
+            },
+            {
+              "display_url": "pic.x.com/CYSMsPwg36",
+              "end": 36,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/2001262320228667513/photo/1",
+              "media_key": "3_2001262310967701504",
+              "start": 13,
+              "url": "https://t.co/CYSMsPwg36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001262320228667513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5977,
+          "impression_count": 954553,
+          "like_count": 64854,
+          "quote_count": 286,
+          "reply_count": 34,
+          "retweet_count": 4870
+        },
+        "reply_settings": "everyone",
+        "text": "がんばる子ほど、夜に泣く https://t.co/CYSMsPwg36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997689615113986048/TOzE4Ln8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 87,
+          "like_count": 2926,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1359
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T03:11:41.000Z",
+        "description": "𝙞𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣💌📮￤女の子とうさぎさんの 漫画を描いてます 【skeb受付中】https://t.co/0sN0BDpVrC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Miya_xxx_38",
+                "end": 67,
+                "expanded_url": "https://skeb.jp/@Miya_xxx_38",
+                "start": 44,
+                "url": "https://t.co/0sN0BDpVrC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/71183609",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/71183609",
+                "start": 0,
+                "url": "https://t.co/sQRbkOFkey"
+              }
+            ]
+          }
+        },
+        "id": "1533285336800866307",
+        "location": "ご依頼はskebのみ承っております(skeb only)",
+        "name": "みんとぴあ",
+        "pinned_tweet_id": "1982780544003031225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971199086654345216/MmLuUiJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14102,
+          "following_count": 388,
+          "like_count": 16431,
+          "listed_count": 60,
+          "media_count": 59,
+          "tweet_count": 3818
+        },
+        "url": "https://t.co/sQRbkOFkey",
+        "username": "Miya_xxx_38",
+        "verified": false
+      }
+    ]
+  }
+}

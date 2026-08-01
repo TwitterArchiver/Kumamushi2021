@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943744913222307842",
+        "3_1943744908839243776"
+      ],
+      "media_source_tweet_id": [
+        "1943744917836062926",
+        "1943744917836062926"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1944086666429575272",
+    "created_at": "2025-07-12T17:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T18:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944086666429575272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 18,
+          "tag": "LimbusCompany"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "LCB3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620412587925209089",
+          "start": 3,
+          "username": "YOZIjichikol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38qsVEfNrb",
+          "end": 69,
+          "expanded_url": "https://x.com/YOZIjichikol/status/1943744917836062926/photo/1",
+          "media_key": "3_1943744913222307842",
+          "start": 46,
+          "url": "https://t.co/38qsVEfNrb"
+        },
+        {
+          "display_url": "pic.x.com/38qsVEfNrb",
+          "end": 69,
+          "expanded_url": "https://x.com/YOZIjichikol/status/1943744917836062926/photo/1",
+          "media_key": "3_1943744908839243776",
+          "start": 46,
+          "url": "https://t.co/38qsVEfNrb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944086666429575272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943744917836062926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YOZIjichikol: #LimbusCompany #LCB3 \n正義劣等生 https://t.co/38qsVEfNrb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1943744913222307842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmRsz6WkAIgfsq.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1943744908839243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmRsjlWUAAUvpT.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943744913222307842",
+            "3_1943744908839243776"
+          ],
+          "media_source_tweet_id": [
+            "1943744917836062926",
+            "1943744917836062926"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1944086666429575272",
+        "created_at": "2025-07-12T17:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T18:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944086666429575272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 18,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "LCB3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620412587925209089",
+              "start": 3,
+              "username": "YOZIjichikol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38qsVEfNrb",
+              "end": 69,
+              "expanded_url": "https://x.com/YOZIjichikol/status/1943744917836062926/photo/1",
+              "media_key": "3_1943744913222307842",
+              "start": 46,
+              "url": "https://t.co/38qsVEfNrb"
+            },
+            {
+              "display_url": "pic.x.com/38qsVEfNrb",
+              "end": 69,
+              "expanded_url": "https://x.com/YOZIjichikol/status/1943744917836062926/photo/1",
+              "media_key": "3_1943744908839243776",
+              "start": 46,
+              "url": "https://t.co/38qsVEfNrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944086666429575272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943744917836062926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YOZIjichikol: #LimbusCompany #LCB3 \n正義劣等生 https://t.co/38qsVEfNrb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943744913222307842",
+            "3_1943744908839243776"
+          ]
+        },
+        "author_id": "1620412587925209089",
+        "conversation_id": "1943744917836062926",
+        "created_at": "2025-07-11T18:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943744917836062926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "LimbusCompany"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "LCB3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38qsVEfNrb",
+              "end": 51,
+              "expanded_url": "https://x.com/YOZIjichikol/status/1943744917836062926/photo/1",
+              "media_key": "3_1943744913222307842",
+              "start": 28,
+              "url": "https://t.co/38qsVEfNrb"
+            },
+            {
+              "display_url": "pic.x.com/38qsVEfNrb",
+              "end": 51,
+              "expanded_url": "https://x.com/YOZIjichikol/status/1943744917836062926/photo/1",
+              "media_key": "3_1943744908839243776",
+              "start": 28,
+              "url": "https://t.co/38qsVEfNrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943744917836062926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 42336,
+          "like_count": 3090,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "#LimbusCompany #LCB3 \n正義劣等生 https://t.co/38qsVEfNrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 59,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 813
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T13:24:15.000Z",
+        "description": "中文（Chinese）机翻，来追女神，顺便发点画，老子高中英语19分只能看懂不能说",
+        "id": "1620412587925209089",
+        "name": "YOZI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814725644116185088/1WlI3FtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 48,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 842
+        },
+        "username": "YOZIjichikol",
+        "verified": false
+      }
+    ]
+  }
+}

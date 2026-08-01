@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2019666768520966208",
+    "created_at": "2026-02-06T23:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T00:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019914448652366088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861412609121210368",
+          "start": 0,
+          "username": "SaladFire142857"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "163cn.tv/02iwLeJ",
+          "end": 72,
+          "expanded_url": "https://163cn.tv/02iwLeJ",
+          "start": 49,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?id=1357953772&uct2=mzVGFpPC%2BBg42puGICDvZQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.50&sc=wm&tn=",
+          "url": "https://t.co/vyw3o1fGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019914448652366088",
+    "in_reply_to_user_id": "1861412609121210368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019913713265016856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaladFire142857 分享ヨルシカ的单曲《八月、某、月明かり (八月、某、月光)》: https://t.co/vyw3o1fGeo (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2019666768520966208",
+        "created_at": "2026-02-06T23:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T00:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019914448652366088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861412609121210368",
+              "start": 0,
+              "username": "SaladFire142857"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "163cn.tv/02iwLeJ",
+              "end": 72,
+              "expanded_url": "https://163cn.tv/02iwLeJ",
+              "start": 49,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?id=1357953772&uct2=mzVGFpPC%2BBg42puGICDvZQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.50&sc=wm&tn=",
+              "url": "https://t.co/vyw3o1fGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019914448652366088",
+        "in_reply_to_user_id": "1861412609121210368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019913713265016856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaladFire142857 分享ヨルシカ的单曲《八月、某、月明かり (八月、某、月光)》: https://t.co/vyw3o1fGeo (来自@网易云音乐)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861412609121210368",
+        "conversation_id": "2019666768520966208",
+        "created_at": "2026-02-06T23:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T00:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019913713265016856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019913713265016856",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019666768520966208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 抚摸抚摸…\n一起来听好听的歌暂时逃避痛苦吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/demigirl/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 101,
+          "like_count": 3667,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1889
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T14:12:21.000Z",
+        "description": "娇气小猫@Opiumash",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "Opiumash"
+              }
+            ]
+          }
+        },
+        "id": "1861412609121210368",
+        "name": "Salad",
+        "pinned_tweet_id": "2019451121786576954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017636950266748928/rlkc45z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 275,
+          "like_count": 2539,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1286
+        },
+        "username": "SaladFire142857",
+        "verified": false
+      }
+    ]
+  }
+}

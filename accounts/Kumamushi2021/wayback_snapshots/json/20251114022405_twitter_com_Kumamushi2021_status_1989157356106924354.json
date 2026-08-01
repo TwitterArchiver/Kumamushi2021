@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1989157317414379520"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1989157356106924354",
+    "created_at": "2025-11-14T02:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T03:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989157356106924354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/baKgqcVD79",
+          "end": 23,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1989157356106924354/video/1",
+          "media_key": "7_1989157317414379520",
+          "start": 0,
+          "url": "https://t.co/baKgqcVD79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989157356106924354",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/baKgqcVD79"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86571,
+        "height": 1280,
+        "media_key": "7_1989157317414379520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989157317414379520/pu/img/CJ20n8N_tmtvQTX7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989157317414379520/pu/vid/avc1/320x710/o7vyucy1rzeYwmjS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989157317414379520/pu/vid/avc1/480x1066/G8bfFTtAGM6pLpho.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989157317414379520/pu/vid/avc1/576x1280/JPGdeAPm0rDFj5Iv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989157317414379520/pu/pl/S-5mELkXDc7Fboy-.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989157317414379520"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1989157356106924354",
+        "created_at": "2025-11-14T02:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989157356106924354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baKgqcVD79",
+              "end": 23,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1989157356106924354/video/1",
+              "media_key": "7_1989157317414379520",
+              "start": 0,
+              "url": "https://t.co/baKgqcVD79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989157356106924354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/baKgqcVD79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 74,
+          "like_count": 2474,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1302
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

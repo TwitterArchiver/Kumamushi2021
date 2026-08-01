@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976202409371410432"
+      ],
+      "media_source_tweet_id": [
+        "1976202412567494720"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1983123932904673510",
+    "created_at": "2025-10-28T10:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983123932904673510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "メイコ",
+          "probability": 0.59,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbYT5nI8h0",
+          "end": 48,
+          "expanded_url": "https://x.com/Dormicumproject/status/1976202412567494720/photo/1",
+          "media_key": "3_1976202409371410432",
+          "start": 25,
+          "url": "https://t.co/KbYT5nI8h0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983123932904673510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976202412567494720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: メイコ https://t.co/KbYT5nI8h0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976202409371410432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zhnvbaoAAkIEQ.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976202409371410432"
+          ],
+          "media_source_tweet_id": [
+            "1976202412567494720"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1983123932904673510",
+        "created_at": "2025-10-28T10:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983123932904673510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "メイコ",
+              "probability": 0.59,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbYT5nI8h0",
+              "end": 48,
+              "expanded_url": "https://x.com/Dormicumproject/status/1976202412567494720/photo/1",
+              "media_key": "3_1976202409371410432",
+              "start": 25,
+              "url": "https://t.co/KbYT5nI8h0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983123932904673510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976202412567494720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: メイコ https://t.co/KbYT5nI8h0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976202409371410432"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "1976202412567494720",
+        "created_at": "2025-10-09T08:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976202412567494720"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "メイコ",
+              "probability": 0.5286,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbYT5nI8h0",
+              "end": 27,
+              "expanded_url": "https://x.com/Dormicumproject/status/1976202412567494720/photo/1",
+              "media_key": "3_1976202409371410432",
+              "start": 4,
+              "url": "https://t.co/KbYT5nI8h0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976202412567494720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 48246,
+          "like_count": 618,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "メイコ https://t.co/KbYT5nI8h0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 70,
+          "like_count": 2300,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n作品はここから読めますhttps://t.co/SB66qxQm2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxQm2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLRIV"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "1974406691593871804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128205,
+          "following_count": 0,
+          "like_count": 1679,
+          "listed_count": 567,
+          "media_count": 746,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/CtEGqQLRIV",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

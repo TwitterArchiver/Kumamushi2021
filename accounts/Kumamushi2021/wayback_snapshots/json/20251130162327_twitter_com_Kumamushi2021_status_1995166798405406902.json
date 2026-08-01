@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1995165239105728809",
+    "created_at": "2025-11-30T16:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995166798405406902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538923015932522496",
+          "start": 0,
+          "username": "sunyixian8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995166798405406902",
+    "in_reply_to_user_id": "1538923015932522496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995166085608525991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyixian8 没事啦  只是看到自己的推文被引用还贴上了白夜里最喜欢的一段话  有点恍惚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1995165239105728809",
+        "created_at": "2025-11-30T16:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995166798405406902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538923015932522496",
+              "start": 0,
+              "username": "sunyixian8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995166798405406902",
+        "in_reply_to_user_id": "1538923015932522496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995166085608525991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyixian8 没事啦  只是看到自己的推文被引用还贴上了白夜里最喜欢的一段话  有点恍惚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538923015932522496",
+        "conversation_id": "1995165239105728809",
+        "created_at": "2025-11-30T16:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995166085608525991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995166085608525991",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995165602089173122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 怎么了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 87,
+          "like_count": 2702,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1244
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T16:33:44.000Z",
+        "description": "学中做，做中学，反复回忆｜\n不是我所给予你的超出你所理解的能力，而是超出了你所看到的本身——马里翁｜自己选择的路可以跑｜没什么比发现无法掌控自己的命运更让人沮丧的｜是个好人，但毫无用处｜极端Antinatalism｜以死亡为自由｜生活的很多不确定性我没办法保证｜与最卑微的人为伍",
+        "id": "1538923015932522496",
+        "location": "这是吐槽用的小号，不要fo",
+        "name": "从地下室走上天台",
+        "pinned_tweet_id": "1968903401988661639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965731573346840576/9PbOzkPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 179,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 202
+        },
+        "username": "sunyixian8",
+        "verified": false
+      }
+    ]
+  }
+}

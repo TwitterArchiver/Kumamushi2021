@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1957523183361474787",
+    "created_at": "2025-08-19T00:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T01:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957603039851806729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957603039851806729",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957523183361474787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine 好喜欢这个说法…TT确实旅馆存在的意义就只是为了让人休息欸  请问可以转推吗我很喜欢最后一句TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1957523183361474787",
+        "created_at": "2025-08-19T00:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T01:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957603039851806729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957603039851806729",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957523183361474787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine 好喜欢这个说法…TT确实旅馆存在的意义就只是为了让人休息欸  请问可以转推吗我很喜欢最后一句TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "1957523183361474787",
+        "created_at": "2025-08-18T19:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T20:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957523183361474787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957523183361474787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想念在旅馆的感觉，睡在一个陌生的整洁的地方不用思考它以前和以后是什么样，听到走廊或者隔壁传来分辨不清具体内容的说话声，自然地，安静地当一个幽灵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 888
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlCif7A"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "⏻",
+        "name": "⏻",
+        "pinned_tweet_id": "1945734187673366618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957418651012993024/qZMcZj9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 847,
+          "like_count": 11316,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/KhELlCif7A",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1866428992133427255",
+    "created_at": "2024-12-10T10:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T11:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866428992133427255"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866428992133427255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "從上次住院出來之後就失去了做病人的資格  活在了正常人與精神病之間的夾縫裡  所有人都以為我好了但我卻感覺自己更無可救藥了\n所以事實到底是怎樣的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1866428992133427255",
+        "created_at": "2024-12-10T10:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T11:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866428992133427255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866428992133427255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "從上次住院出來之後就失去了做病人的資格  活在了正常人與精神病之間的夾縫裡  所有人都以為我好了但我卻感覺自己更無可救藥了\n所以事實到底是怎樣的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 43,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 636
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

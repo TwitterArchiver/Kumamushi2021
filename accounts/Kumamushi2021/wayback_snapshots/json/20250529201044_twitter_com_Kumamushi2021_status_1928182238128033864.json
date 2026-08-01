@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916138630080565249"
+      ],
+      "media_source_tweet_id": [
+        "1925816468907729195"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1928182238128033864",
+    "created_at": "2025-05-29T20:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T21:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928182238128033864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1500374296619024385",
+          "start": 3,
+          "username": "kyanora3141"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VDFBd5b3IH",
+          "end": 44,
+          "expanded_url": "https://x.com/kyanora3141/status/1925816468907729195/photo/1",
+          "media_key": "3_1916138630080565249",
+          "start": 21,
+          "url": "https://t.co/VDFBd5b3IH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928182238128033864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 788
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925816468907729195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyanora3141: お迎え https://t.co/VDFBd5b3IH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2864,
+        "media_key": "3_1916138630080565249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpd97pJbEAEkigt.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916138630080565249"
+          ],
+          "media_source_tweet_id": [
+            "1925816468907729195"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928182238128033864",
+        "created_at": "2025-05-29T20:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T21:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928182238128033864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1500374296619024385",
+              "start": 3,
+              "username": "kyanora3141"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDFBd5b3IH",
+              "end": 44,
+              "expanded_url": "https://x.com/kyanora3141/status/1925816468907729195/photo/1",
+              "media_key": "3_1916138630080565249",
+              "start": 21,
+              "url": "https://t.co/VDFBd5b3IH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928182238128033864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 788
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925816468907729195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyanora3141: お迎え https://t.co/VDFBd5b3IH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916138630080565249"
+          ]
+        },
+        "author_id": "1500374296619024385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925816468907729195",
+        "created_at": "2025-05-23T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925816468907729195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDFBd5b3IH",
+              "end": 27,
+              "expanded_url": "https://x.com/kyanora3141/status/1925816468907729195/photo/1",
+              "media_key": "3_1916138630080565249",
+              "start": 4,
+              "url": "https://t.co/VDFBd5b3IH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925816468907729195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1080,
+          "impression_count": 174889,
+          "like_count": 10400,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 788
+        },
+        "reply_settings": "everyone",
+        "text": "お迎え https://t.co/VDFBd5b3IH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 1710,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 852
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T07:35:10.000Z",
+        "description": "備忘録",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kyano",
+                "end": 23,
+                "expanded_url": "https://lit.link/kyano",
+                "start": 0,
+                "url": "https://t.co/9YdNGdm3v6"
+              }
+            ]
+          }
+        },
+        "id": "1500374296619024385",
+        "location": "don't reupload　",
+        "name": "きゃの",
+        "pinned_tweet_id": "1870001192153260376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708356244820590592/e5anHIHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35605,
+          "following_count": 220,
+          "like_count": 166300,
+          "listed_count": 253,
+          "media_count": 122,
+          "tweet_count": 18267
+        },
+        "url": "https://t.co/9YdNGdm3v6",
+        "username": "kyanora3141",
+        "verified": false
+      }
+    ]
+  }
+}

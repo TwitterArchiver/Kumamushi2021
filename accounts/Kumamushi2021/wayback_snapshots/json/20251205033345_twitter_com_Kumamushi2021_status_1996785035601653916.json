@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996785031445204993",
+        "3_1996785031373901827"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996785035601653916",
+    "created_at": "2025-12-05T03:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996785035601653916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mLgfJGpVCH",
+          "end": 30,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1996785035601653916/photo/1",
+          "media_key": "3_1996785031445204993",
+          "start": 7,
+          "url": "https://t.co/mLgfJGpVCH"
+        },
+        {
+          "display_url": "pic.x.com/mLgfJGpVCH",
+          "end": 30,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1996785035601653916/photo/1",
+          "media_key": "3_1996785031373901827",
+          "start": 7,
+          "url": "https://t.co/mLgfJGpVCH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996785035601653916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早晚。\n…… https://t.co/mLgfJGpVCH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996785031445204993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YBaBwb0AEdIpZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996785031373901827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YBaBfb0AM2KQ5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996785031445204993",
+            "3_1996785031373901827"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996785035601653916",
+        "created_at": "2025-12-05T03:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996785035601653916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLgfJGpVCH",
+              "end": 30,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1996785035601653916/photo/1",
+              "media_key": "3_1996785031445204993",
+              "start": 7,
+              "url": "https://t.co/mLgfJGpVCH"
+            },
+            {
+              "display_url": "pic.x.com/mLgfJGpVCH",
+              "end": 30,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1996785035601653916/photo/1",
+              "media_key": "3_1996785031373901827",
+              "start": 7,
+              "url": "https://t.co/mLgfJGpVCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996785035601653916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早晚。\n…… https://t.co/mLgfJGpVCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 86,
+          "like_count": 2776,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1281
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

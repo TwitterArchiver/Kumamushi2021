@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2025812723771253245",
+    "created_at": "2026-02-23T05:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025812723771253245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889273834479693824",
+          "start": 3,
+          "username": "xvxnuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025812723771253245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025518516611473895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xvxnuo: 从我出生那一刻的啼哭开始，我的泪水居然稀稀疏疏的蔓延至现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2025812723771253245",
+        "created_at": "2026-02-23T05:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025812723771253245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889273834479693824",
+              "start": 3,
+              "username": "xvxnuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025812723771253245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025518516611473895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xvxnuo: 从我出生那一刻的啼哭开始，我的泪水居然稀稀疏疏的蔓延至现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889273834479693824",
+        "conversation_id": "2025518516611473895",
+        "created_at": "2026-02-22T10:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025518516611473895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025518516611473895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4189,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "从我出生那一刻的啼哭开始，我的泪水居然稀稀疏疏的蔓延至现在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 105,
+          "like_count": 3858,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2016
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T11:22:47.000Z",
+        "description": "我和你有什么好说的",
+        "id": "1889273834479693824",
+        "name": "诺诺许",
+        "pinned_tweet_id": "2024863140547272945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022304589597564928/cDFdjVka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 33,
+          "like_count": 15090,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 3709
+        },
+        "username": "xvxnuo",
+        "verified": false
+      }
+    ]
+  }
+}

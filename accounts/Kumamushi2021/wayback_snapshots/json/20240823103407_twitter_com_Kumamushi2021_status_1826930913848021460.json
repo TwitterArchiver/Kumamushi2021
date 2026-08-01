@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1826920850144297036",
+    "created_at": "2024-08-23T10:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T11:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826930913848021460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632439131577126912",
+          "start": 0,
+          "username": "StreetCattttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826930913848021460",
+    "in_reply_to_user_id": "1632439131577126912",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826920850144297036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StreetCattttt 好悲，我付了定金但是没钱补尾款……😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1826920850144297036",
+        "created_at": "2024-08-23T10:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T11:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826930913848021460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632439131577126912",
+              "start": 0,
+              "username": "StreetCattttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826930913848021460",
+        "in_reply_to_user_id": "1632439131577126912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826920850144297036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StreetCattttt 好悲，我付了定金但是没钱补尾款……😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826920847321563136"
+          ]
+        },
+        "author_id": "1632439131577126912",
+        "conversation_id": "1826920850144297036",
+        "created_at": "2024-08-23T09:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T10:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826920850144297036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnfrjfoqaw",
+              "end": 28,
+              "expanded_url": "https://twitter.com/StreetCattttt/status/1826920850144297036/photo/1",
+              "media_key": "3_1826920847321563136",
+              "start": 5,
+              "url": "https://t.co/TNFrjfOqAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826920850144297036",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二次元到 https://t.co/TNFrjfOqAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 38,
+          "like_count": 1197,
+          "listed_count": 0,
+          "tweet_count": 575
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T17:53:56.000Z",
+        "description": "我是逃跑大王 | 20↑（想来想去还是把年龄标上了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/K7_cayAePk",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/K7_cayAePk",
+                "start": 0,
+                "url": "https://t.co/okAyA4Lr4e"
+              }
+            ]
+          }
+        },
+        "id": "1632439131577126912",
+        "location": "shoulddie2day",
+        "name": "水和虹膜",
+        "pinned_tweet_id": "1813954773504385258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826483550146957313/dixcf3Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 115,
+          "like_count": 8916,
+          "listed_count": 0,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/okAyA4Lr4e",
+        "username": "StreetCattttt",
+        "verified": false
+      }
+    ]
+  }
+}

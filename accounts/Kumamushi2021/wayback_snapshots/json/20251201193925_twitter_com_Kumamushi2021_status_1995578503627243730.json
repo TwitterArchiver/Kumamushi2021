@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1995163115923906775",
+    "created_at": "2025-12-01T19:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T20:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995578503627243730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637972200371224577",
+          "start": 0,
+          "username": "P0larstern"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995578503627243730",
+    "in_reply_to_user_id": "1637972200371224577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995549727505760534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P0larstern 🥹谢谢小天……即使我的苦难真的能被分担我也不会愿意让别人因为我而难受的…小天也是善良的宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1995163115923906775",
+        "created_at": "2025-12-01T19:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995578503627243730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637972200371224577",
+              "start": 0,
+              "username": "P0larstern"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995578503627243730",
+        "in_reply_to_user_id": "1637972200371224577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995549727505760534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P0larstern 🥹谢谢小天……即使我的苦难真的能被分担我也不会愿意让别人因为我而难受的…小天也是善良的宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637972200371224577",
+        "conversation_id": "1995163115923906775",
+        "created_at": "2025-12-01T17:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T18:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995549727505760534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995549727505760534",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995163115923906775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 不要啊...明明现状已经很不好了还要用这种苦行僧式的心境消化吗宝宝，虽然知道苦难不应该比较但有时候真的会想要是这真的能分担一点就好了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 86,
+          "like_count": 2715,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1252
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T00:19:55.000Z",
+        "description": "前世@nenamais1 | 男的 | 可以叫我小天 | 互关寻回大挑战",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "nenamais1"
+              }
+            ]
+          }
+        },
+        "id": "1637972200371224577",
+        "name": "P0larstern 2.0",
+        "pinned_tweet_id": "1988210032106971468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988182912299302912/fH5qbSP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 55,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 266
+        },
+        "username": "P0larstern",
+        "verified": false
+      }
+    ]
+  }
+}

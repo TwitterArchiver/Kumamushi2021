@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905595025393905664"
+      ],
+      "media_source_tweet_id": [
+        "1905599000192921623"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1908965163216330758",
+    "created_at": "2025-04-06T19:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T20:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908965163216330758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797483770116993024",
+          "start": 3,
+          "username": "sakuho_lll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5eUJ81xN0",
+          "end": 56,
+          "expanded_url": "https://x.com/sakuho_lll/status/1905599000192921623/photo/1",
+          "media_key": "3_1905595025393905664",
+          "start": 33,
+          "url": "https://t.co/G5eUJ81xN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908965163216330758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905599000192921623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakuho_lll: セツが望む言葉だけを強制されたい https://t.co/G5eUJ81xN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_1905595025393905664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIIlE5a8AAf5Mk.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905595025393905664"
+          ],
+          "media_source_tweet_id": [
+            "1905599000192921623"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908965163216330758",
+        "created_at": "2025-04-06T19:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T20:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908965163216330758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797483770116993024",
+              "start": 3,
+              "username": "sakuho_lll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5eUJ81xN0",
+              "end": 56,
+              "expanded_url": "https://x.com/sakuho_lll/status/1905599000192921623/photo/1",
+              "media_key": "3_1905595025393905664",
+              "start": 33,
+              "url": "https://t.co/G5eUJ81xN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908965163216330758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905599000192921623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakuho_lll: セツが望む言葉だけを強制されたい https://t.co/G5eUJ81xN0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905595025393905664"
+          ]
+        },
+        "author_id": "1797483770116993024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905599000192921623",
+        "created_at": "2025-03-28T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905599000192921623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5eUJ81xN0",
+              "end": 40,
+              "expanded_url": "https://x.com/sakuho_lll/status/1905599000192921623/photo/1",
+              "media_key": "3_1905595025393905664",
+              "start": 17,
+              "url": "https://t.co/G5eUJ81xN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905599000192921623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 32324,
+          "like_count": 1556,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "セツが望む言葉だけを強制されたい https://t.co/G5eUJ81xN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 710
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T04:23:17.000Z",
+        "description": "今年はせっちゃんのマンガを多めに描く予定 | 多忙のため壁でのんびり\n忙しくなければ週１でなにか載せたい\nセツと女性主人公→ https://t.co/gKooEiOLqI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "privatter.me/user/sakuho",
+                "end": 86,
+                "expanded_url": "https://privatter.me/user/sakuho",
+                "start": 63,
+                "url": "https://t.co/gKooEiOLqI"
+              }
+            ]
+          }
+        },
+        "id": "1797483770116993024",
+        "name": "作歩",
+        "pinned_tweet_id": "1902646545004065149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797491742369058816/ZCAxYp0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 11,
+          "like_count": 483,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 117
+        },
+        "username": "sakuho_lll",
+        "verified": false
+      }
+    ]
+  }
+}

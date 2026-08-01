@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2019326420741468610",
+    "created_at": "2026-02-05T08:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019326801861034021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493601466346610712",
+          "start": 0,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019326801861034021",
+    "in_reply_to_user_id": "1493601466346610712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019326420741468610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilbakery1127 贴贴ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2019326410872221699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAYWq_2acAMZghb.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2019326420741468610",
+        "created_at": "2026-02-05T08:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019326801861034021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493601466346610712",
+              "start": 0,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019326801861034021",
+        "in_reply_to_user_id": "1493601466346610712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019326420741468610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilbakery1127 贴贴ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019326410872221699"
+          ]
+        },
+        "author_id": "1493601466346610712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2019326420741468610",
+        "created_at": "2026-02-05T08:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019326420741468610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/xZCbWxPpfY"
+            },
+            {
+              "display_url": "pic.x.com/L0fg0zplRF",
+              "end": 64,
+              "expanded_url": "https://x.com/basilbakery1127/status/2019326420741468610/photo/1",
+              "media_key": "3_2019326410872221699",
+              "start": 41,
+              "url": "https://t.co/L0fg0zplRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019326420741468610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/xZCbWxPpfY https://t.co/L0fg0zplRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/demigirl/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 100,
+          "like_count": 3628,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1849
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。",
+        "id": "1493601466346610712",
+        "name": "lime basil bakery",
+        "pinned_tweet_id": "2007152148266791304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991606256994533376/0cP3M5ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 213,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 642
+        },
+        "username": "basilbakery1127",
+        "verified": false
+      }
+    ]
+  }
+}

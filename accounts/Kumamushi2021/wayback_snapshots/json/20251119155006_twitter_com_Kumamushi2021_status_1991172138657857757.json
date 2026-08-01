@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990870389640306688"
+      ],
+      "media_source_tweet_id": [
+        "1990870392844792321"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1991172138657857757",
+    "created_at": "2025-11-19T15:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T16:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991172138657857757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "795534535307821056",
+          "start": 3,
+          "username": "Alpha01Code"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlVIuUiD1m",
+          "end": 55,
+          "expanded_url": "https://x.com/Alpha01Code/status/1990870392844792321/photo/1",
+          "media_key": "3_1990870389640306688",
+          "start": 32,
+          "url": "https://t.co/xlVIuUiD1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991172138657857757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990870392844792321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alpha01Code: あるちゃんにゃーん⛓️🐈⛓️ https://t.co/xlVIuUiD1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_1990870389640306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6D-EkBaoAAnxW9.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990870389640306688"
+          ],
+          "media_source_tweet_id": [
+            "1990870392844792321"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1991172138657857757",
+        "created_at": "2025-11-19T15:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991172138657857757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "795534535307821056",
+              "start": 3,
+              "username": "Alpha01Code"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlVIuUiD1m",
+              "end": 55,
+              "expanded_url": "https://x.com/Alpha01Code/status/1990870392844792321/photo/1",
+              "media_key": "3_1990870389640306688",
+              "start": 32,
+              "url": "https://t.co/xlVIuUiD1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991172138657857757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990870392844792321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alpha01Code: あるちゃんにゃーん⛓️🐈⛓️ https://t.co/xlVIuUiD1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990870389640306688"
+          ]
+        },
+        "author_id": "795534535307821056",
+        "conversation_id": "1990870392844792321",
+        "created_at": "2025-11-18T19:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T20:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990870392844792321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlVIuUiD1m",
+              "end": 38,
+              "expanded_url": "https://x.com/Alpha01Code/status/1990870392844792321/photo/1",
+              "media_key": "3_1990870389640306688",
+              "start": 15,
+              "url": "https://t.co/xlVIuUiD1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990870392844792321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 20617,
+          "like_count": 1730,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "あるちゃんにゃーん⛓️🐈⛓️ https://t.co/xlVIuUiD1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 81,
+          "like_count": 2549,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1371
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-07T07:53:08.000Z",
+        "description": "男女とガキ共が好き。⚠️禁止未经授权使用，复制或商业使用原始插图。転載・AI学習禁止 #お絵ガキ   https://t.co/CqD2OVZLhb ←skebくん。ガキ共描いてくれる場合っ→  #お絵ガキ帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "お絵ガキ"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "お絵ガキ帳"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Alpha01Code",
+                "end": 74,
+                "expanded_url": "https://skeb.jp/@Alpha01Code",
+                "start": 51,
+                "url": "https://t.co/CqD2OVZLhb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alpha.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://alpha.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/u2ganQkxA8"
+              }
+            ]
+          }
+        },
+        "id": "795534535307821056",
+        "location": "ネクロイリア",
+        "name": "がおぱぺっと‎",
+        "pinned_tweet_id": "1813916971303641262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657853006778609664/_6Q_TzBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4609,
+          "following_count": 295,
+          "like_count": 23211,
+          "listed_count": 61,
+          "media_count": 1370,
+          "tweet_count": 74241
+        },
+        "url": "https://t.co/u2ganQkxA8",
+        "username": "Alpha01Code",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2022651179235447161",
+    "created_at": "2026-02-14T12:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022651179235447161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974688655513096192",
+          "start": 3,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022651179235447161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022342745365557583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lin_dialog: 其实所有精神疾病都没法治好，你认为病好了 实际上是它藏起来了，它永远不会消失，会伴随着你一生，直到迈入黑暗，走进棺材。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2022651179235447161",
+        "created_at": "2026-02-14T12:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022651179235447161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974688655513096192",
+              "start": 3,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022651179235447161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022342745365557583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lin_dialog: 其实所有精神疾病都没法治好，你认为病好了 实际上是它藏起来了，它永远不会消失，会伴随着你一生，直到迈入黑暗，走进棺材。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "2022342745365557583",
+        "created_at": "2026-02-13T16:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022342745365557583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022342745365557583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3081,
+          "like_count": 134,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "其实所有精神疾病都没法治好，你认为病好了 实际上是它藏起来了，它永远不会消失，会伴随着你一生，直到迈入黑暗，走进棺材。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 106,
+          "like_count": 3760,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1958
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "竹霖♡ 18 they/them｜shedtwt odtwt｜bmi14.87｜烟酒割药四毒俱全｜无政府个人主义｜LGBTQ+全友好｜论点/观点常有 欢迎交流｜互fo私信 选拒建议别来",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015796280795258880/pvCRCu-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 194,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1980
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

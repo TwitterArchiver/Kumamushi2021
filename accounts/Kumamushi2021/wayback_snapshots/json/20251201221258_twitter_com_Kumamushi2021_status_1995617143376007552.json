@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1995304126918569984"
+      ],
+      "media_source_tweet_id": [
+        "1995304154257068399"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1995617143376007552",
+    "created_at": "2025-12-01T22:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T23:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995617143376007552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374312630521716740",
+          "start": 3,
+          "username": "apaajaguama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tH98bxwq3a",
+          "end": 40,
+          "expanded_url": "https://x.com/apaajaguama/status/1995304154257068399/video/1",
+          "media_key": "7_1995304126918569984",
+          "start": 17,
+          "url": "https://t.co/tH98bxwq3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995617143376007552",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995304154257068399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apaajaguama: https://t.co/tH98bxwq3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 1280,
+        "media_key": "7_1995304126918569984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995304126918569984/pu/img/S2_8em_8lCxuL1So.jpg",
+        "public_metrics": {
+          "view_count": 39785
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995304126918569984/pu/vid/avc1/320x568/kI-pEITAF9kvvknq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995304126918569984/pu/vid/avc1/480x852/LADGxcrJnscKecbJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995304126918569984/pu/vid/avc1/720x1280/3f8XqYFpVDnp98ZG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995304126918569984/pu/pl/yrD58hMpPzSyiF0y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995304126918569984"
+          ],
+          "media_source_tweet_id": [
+            "1995304154257068399"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1995617143376007552",
+        "created_at": "2025-12-01T22:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T23:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995617143376007552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374312630521716740",
+              "start": 3,
+              "username": "apaajaguama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tH98bxwq3a",
+              "end": 40,
+              "expanded_url": "https://x.com/apaajaguama/status/1995304154257068399/video/1",
+              "media_key": "7_1995304126918569984",
+              "start": 17,
+              "url": "https://t.co/tH98bxwq3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995617143376007552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995304154257068399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apaajaguama: https://t.co/tH98bxwq3a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995304126918569984"
+          ]
+        },
+        "author_id": "1374312630521716740",
+        "conversation_id": "1995304154257068399",
+        "created_at": "2025-12-01T01:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995304154257068399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tH98bxwq3a",
+              "end": 23,
+              "expanded_url": "https://x.com/apaajaguama/status/1995304154257068399/video/1",
+              "media_key": "7_1995304126918569984",
+              "start": 0,
+              "url": "https://t.co/tH98bxwq3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995304154257068399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 64266,
+          "like_count": 375,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tH98bxwq3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 86,
+          "like_count": 2719,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1256
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T10:50:48.000Z",
+        "description": "Have fun",
+        "id": "1374312630521716740",
+        "location": "Jakarta Capital Region",
+        "name": "Velinn",
+        "pinned_tweet_id": "1995066164368879684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978422070066470912/IwLKpfWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 1008,
+          "like_count": 21318,
+          "listed_count": 5,
+          "media_count": 500,
+          "tweet_count": 12724
+        },
+        "username": "apaajaguama",
+        "verified": true
+      }
+    ]
+  }
+}

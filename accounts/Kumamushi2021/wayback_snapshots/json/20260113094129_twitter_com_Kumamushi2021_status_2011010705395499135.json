@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2010973691811926274",
+    "created_at": "2026-01-13T09:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T10:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011010705395499135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1984165717860913152",
+          "start": 0,
+          "username": "eyermoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011010705395499135",
+    "in_reply_to_user_id": "1984165717860913152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011008727458201818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eyermoon 我其实也是，必须在学习环境中才能学习，所以只有在学校的时候我才会学的得很拼命……\n其实我享受的不是学习本身而是获得新知识的那种感觉，所以看各种杂学视频也会有学习的畅快感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2010973691811926274",
+        "created_at": "2026-01-13T09:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T10:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011010705395499135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1984165717860913152",
+              "start": 0,
+              "username": "eyermoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011010705395499135",
+        "in_reply_to_user_id": "1984165717860913152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011008727458201818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eyermoon 我其实也是，必须在学习环境中才能学习，所以只有在学校的时候我才会学的得很拼命……\n其实我享受的不是学习本身而是获得新知识的那种感觉，所以看各种杂学视频也会有学习的畅快感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984165717860913152",
+        "conversation_id": "2010973691811926274",
+        "created_at": "2026-01-13T09:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T10:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011008727458201818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011008727458201818",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011008227140649401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 水熊好棒\n我是需要在学习环境中才能开始学习的低自控力人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 92,
+          "like_count": 3183,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1607
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T07:49:16.000Z",
+        "description": "本人男，可以做树洞投稿（限本人）",
+        "id": "1984165717860913152",
+        "name": "让我康康泥",
+        "pinned_tweet_id": "1986284584498307413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009142675786878977/x8kUZ1Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 137,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 519
+        },
+        "username": "eyermoon",
+        "verified": false
+      }
+    ]
+  }
+}

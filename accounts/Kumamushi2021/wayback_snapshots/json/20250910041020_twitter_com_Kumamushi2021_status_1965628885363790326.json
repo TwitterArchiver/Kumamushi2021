@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1965628866061623296"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1965628885363790326",
+    "created_at": "2025-09-10T04:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965628885363790326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rckQGVLOzN",
+          "end": 34,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1965628885363790326/video/1",
+          "media_key": "7_1965628866061623296",
+          "start": 11,
+          "url": "https://t.co/rckQGVLOzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965628885363790326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呕哑嘲哳难为听\n好难 https://t.co/rckQGVLOzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33999,
+        "height": 1280,
+        "media_key": "7_1965628866061623296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1965628866061623296/pu/img/aFI698FAmVYVsE97.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965628866061623296/pu/vid/avc1/320x568/8iU66vjUzfQJn4DV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965628866061623296/pu/vid/avc1/480x852/3Tr4PXtlr6fJa4c5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1965628866061623296/pu/vid/avc1/720x1280/7Ris9uxkUuLlNeWw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1965628866061623296/pu/pl/a4lSg1izSZ2VHEjj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1965628866061623296"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1965628885363790326",
+        "created_at": "2025-09-10T04:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965628885363790326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rckQGVLOzN",
+              "end": 34,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1965628885363790326/video/1",
+              "media_key": "7_1965628866061623296",
+              "start": 11,
+              "url": "https://t.co/rckQGVLOzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965628885363790326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呕哑嘲哳难为听\n好难 https://t.co/rckQGVLOzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 68,
+          "like_count": 1944,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

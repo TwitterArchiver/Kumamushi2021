@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2007696533001756912",
+    "created_at": "2026-01-04T06:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007698184496394391"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007698184496394391",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007696533001756912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而现在的我与之不太一样的是我一直在吃药。他用酒精麻痹自己，而我用药物逃避。也许这次住院之后我就会变麻木了呢，失去记忆与情感换取不再想自杀的心情，这样真的能算好起来吗？他不清楚，我也不清楚。\n喜欢夕阳，喜欢乌鸦，喜欢阳光与帐篷。\n年后去广州看看他吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2007696533001756912",
+        "created_at": "2026-01-04T06:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007698184496394391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007698184496394391",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007696533001756912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而现在的我与之不太一样的是我一直在吃药。他用酒精麻痹自己，而我用药物逃避。也许这次住院之后我就会变麻木了呢，失去记忆与情感换取不再想自杀的心情，这样真的能算好起来吗？他不清楚，我也不清楚。\n喜欢夕阳，喜欢乌鸦，喜欢阳光与帐篷。\n年后去广州看看他吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2007696533001756912",
+        "created_at": "2026-01-04T06:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007696533001756912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007696533001756912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在五年前我遇到了一位朋友，至今为止他帮助了我许多，我伤害过他，我们去看过live，我还记得于我而言个子很高的他把手臂搭在我肩上，回到酒店我问他你是不是把我当你的手枕了，他说是呀高度正好\n好像也到了跟刚认识他时跟他差不多的年龄了  我是否也变成了那样的人呢\n只记得当时的他一直在喝酒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004502982227054592/tsjcfrWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 96,
+          "like_count": 2993,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1428
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

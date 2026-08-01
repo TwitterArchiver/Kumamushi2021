@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1993624271126683739",
+    "created_at": "2025-11-26T10:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993624271126683739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993624271126683739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的感受，像是被泡在了淹过下巴的冷水中，无法呼吸，挣扎无用。即使不是极寒，也感到十分绝望。爱我的大家，我爱的大家，大家都带来了很多温暖，但是就像蜡烛没入了黑暗的水域。我的问题出在我自身，只要我还存活我就无法得到解脱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1993624271126683739",
+        "created_at": "2025-11-26T10:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993624271126683739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993624271126683739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的感受，像是被泡在了淹过下巴的冷水中，无法呼吸，挣扎无用。即使不是极寒，也感到十分绝望。爱我的大家，我爱的大家，大家都带来了很多温暖，但是就像蜡烛没入了黑暗的水域。我的问题出在我自身，只要我还存活我就无法得到解脱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 84,
+          "like_count": 2630,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1212
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

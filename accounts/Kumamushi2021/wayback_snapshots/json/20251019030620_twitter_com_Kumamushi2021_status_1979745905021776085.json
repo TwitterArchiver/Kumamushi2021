@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979725225559277569"
+      ],
+      "media_source_tweet_id": [
+        "1979725228373909706"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1979745905021776085",
+    "created_at": "2025-10-19T03:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T04:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979745905021776085"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "まのさばネタバレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1002208293840863233",
+          "start": 3,
+          "username": "q323_tachibana_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7GTKDy53N",
+          "end": 81,
+          "expanded_url": "https://x.com/q323_tachibana_/status/1979725228373909706/photo/1",
+          "media_key": "3_1979725225559277569",
+          "start": 58,
+          "url": "https://t.co/N7GTKDy53N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979745905021776085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979725228373909706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q323_tachibana_: #まのさばネタバレ \nあてぃし…忘れてたんだ…\nかくれんぼ…ダメだって… https://t.co/N7GTKDy53N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979725225559277569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3llmoZXQAEtBbc.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979725225559277569"
+          ],
+          "media_source_tweet_id": [
+            "1979725228373909706"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1979745905021776085",
+        "created_at": "2025-10-19T03:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979745905021776085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1002208293840863233",
+              "start": 3,
+              "username": "q323_tachibana_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7GTKDy53N",
+              "end": 81,
+              "expanded_url": "https://x.com/q323_tachibana_/status/1979725228373909706/photo/1",
+              "media_key": "3_1979725225559277569",
+              "start": 58,
+              "url": "https://t.co/N7GTKDy53N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979745905021776085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979725228373909706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @q323_tachibana_: #まのさばネタバレ \nあてぃし…忘れてたんだ…\nかくれんぼ…ダメだって… https://t.co/N7GTKDy53N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979725225559277569"
+          ]
+        },
+        "author_id": "1002208293840863233",
+        "conversation_id": "1979725228373909706",
+        "created_at": "2025-10-19T01:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979725228373909706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7GTKDy53N",
+              "end": 60,
+              "expanded_url": "https://x.com/q323_tachibana_/status/1979725228373909706/photo/1",
+              "media_key": "3_1979725225559277569",
+              "start": 37,
+              "url": "https://t.co/N7GTKDy53N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979725228373909706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2479,
+          "like_count": 297,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさばネタバレ \nあてぃし…忘れてたんだ…\nかくれんぼ…ダメだって… https://t.co/N7GTKDy53N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 65,
+          "like_count": 2192,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-31T15:20:52.000Z",
+        "description": "絵\n多忙\n\ncos→@FUyuREN_cOs\n歌&配信→@FUYUREN20231125\n\n本垢 雜RT多 委託開放\n近期：まのさば/OW/ホロスタ/オリキャラ\n\n我叫小橘！\n中文⭕ 日本語🔺\n無断転載、AI學習 禁止\n\n委託事項、排程置頂可以查看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "FUyuREN_cOs"
+              },
+              {
+                "end": 44,
+                "start": 28,
+                "username": "FUYUREN20231125"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/tachibanafu…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/tachibanafumino",
+                "start": 0,
+                "url": "https://t.co/nBjnDGxNPH"
+              }
+            ]
+          }
+        },
+        "id": "1002208293840863233",
+        "location": "台灣 Taiwan",
+        "name": "ふゆれん （小橘）",
+        "pinned_tweet_id": "1841314158312407516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957231772900737024/hU59jh6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 1736,
+          "like_count": 41292,
+          "listed_count": 12,
+          "media_count": 737,
+          "tweet_count": 13888
+        },
+        "url": "https://t.co/nBjnDGxNPH",
+        "username": "q323_tachibana_",
+        "verified": false
+      }
+    ]
+  }
+}

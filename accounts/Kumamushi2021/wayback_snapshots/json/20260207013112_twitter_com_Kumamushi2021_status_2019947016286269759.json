@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2019947016286269759",
+    "created_at": "2026-02-07T01:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019947016286269759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675987834195562496",
+          "start": 3,
+          "username": "IvanyaZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019947016286269759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019812455711424933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @IvanyaZhang: 我是心理学背景的，毕业后第一份工作涉及到弱势群体的公益咨询师培训，前期筛选阶段可以看到某些多年经验的咨询师带着明显的偏见和猎奇的眼光来报名，每一期筛选后参加培训的老师只有10几位，后续可以通过督导筛选并成为公益咨询师的最多2～3位。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2019947016286269759",
+        "created_at": "2026-02-07T01:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019947016286269759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675987834195562496",
+              "start": 3,
+              "username": "IvanyaZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019947016286269759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019812455711424933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @IvanyaZhang: 我是心理学背景的，毕业后第一份工作涉及到弱势群体的公益咨询师培训，前期筛选阶段可以看到某些多年经验的咨询师带着明显的偏见和猎奇的眼光来报名，每一期筛选后参加培训的老师只有10几位，后续可以通过督导筛选并成为公益咨询师的最多2～3位。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2019812455711424933",
+        "created_at": "2026-02-06T16:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019812455711424933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miiiyoz/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/miiiyoz/status/2019691845882884162",
+              "start": 117,
+              "url": "https://t.co/q5wluSHw1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019812455711424933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是心理学背景的，毕业后第一份工作涉及到弱势群体的公益咨询师培训，前期筛选阶段可以看到某些多年经验的咨询师带着明显的偏见和猎奇的眼光来报名，每一期筛选后参加培训的老师只有10几位，后续可以通过督导筛选并成为公益咨询师的最多2～3位。\n那个时候，参加培训并通过考试后就可以拿到心理咨询师证书并挂牌上岗，可见提供心理支持的人们未必有匹配的职业素养。\n精神科医生的问题很多朋友提过了。在我毕业前，班级组织去某著名精神专科医院短期培训，其中一位讲师还是编写教材的。\n他侃侃而谈什么“性少数是一种可以治疗的疾病”之类的言论，我整个人都不好了。\n后来因为抑郁和焦虑的问题我也去看了精神科医生，实际上他们只负责开药和鉴别诊断，复诊的时候也没什么耐心。\n医院乌央乌央的都是人，很多医生也没有那个时间和精力去共情每一位患者。\n但患者本身是容易被二次伤害的。\n就更别提防自杀热线中存在不专业的接线员，某位咨询师朋友和我分享过接线员处理不当导致求助者轻生的惨痛事实。\n试问一位好不容易伸出手寻求帮助的人接连遇到此类“真人心理支持”，你能说真人是最有帮助的吗？\n“不伤害”原则尚且难以做到，又凭什么高高在上地说“AI无法替代真人给予帮助”呢？\n哦对了，当年还有一个心理医院，不知道现在有没有关停。\n一位医生翘着二郎腿对我说：“性少数是因为基因突变，人有26对染色体，他们染色体和正常人不一样”。\n你们来地球有什么目的？？？\nAI无法替代优秀的咨询师，我承认。\n但是假设咨询师和精神科医生每一位都能提供合适的帮助、每一个人都能支付得起费用、在突发危机时咨询师能强行介入，真的不现实，而且这种言论非常傲慢且冷漠。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1816,
+          "like_count": 91,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019691845882884162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我是心理学背景的，毕业后第一份工作涉及到弱势群体的公益咨询师培训，前期筛选阶段可以看到某些多年经验的咨询师带着明显的偏见和猎奇的眼光来报名，每一期筛选后参加培训的老师只有10几位，后续可以通过督导筛选并成为公益咨询师的最多2～3位。 https://t.co/q5wluSHw1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/demigirl/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 101,
+          "like_count": 3669,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1893
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "2018505451084689808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017452724967657472/a32v83PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 366,
+          "like_count": 45083,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 14612
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      }
+    ]
+  }
+}

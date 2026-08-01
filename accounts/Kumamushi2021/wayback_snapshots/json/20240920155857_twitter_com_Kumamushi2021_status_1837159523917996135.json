@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1837070651783532907",
+    "created_at": "2024-09-20T15:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T16:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837159523917996135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251771324181016576",
+          "start": 0,
+          "username": "OWOb169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837159523917996135",
+    "in_reply_to_user_id": "1251771324181016576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837156297072071100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OWOb169 謝謝你願意跟我聊天🥲可是我要睡覺了  夜安qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1837070651783532907",
+        "created_at": "2024-09-20T15:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837159523917996135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251771324181016576",
+              "start": 0,
+              "username": "OWOb169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837159523917996135",
+        "in_reply_to_user_id": "1251771324181016576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837156297072071100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OWOb169 謝謝你願意跟我聊天🥲可是我要睡覺了  夜安qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251771324181016576",
+        "conversation_id": "1837070651783532907",
+        "created_at": "2024-09-20T15:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837156297072071100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837156297072071100",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837070651783532907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 我來助你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1829446039394460026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 1281,
+          "listed_count": 0,
+          "tweet_count": 637
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T07:16:07.000Z",
+        "description": "第一天 我們聊生活聊賺錢聊感情 第二天 他想看我小穴😭",
+        "id": "1251771324181016576",
+        "name": "微不足道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822360796040761344/DHQxY0kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 3318,
+          "like_count": 7959,
+          "listed_count": 14,
+          "tweet_count": 226
+        },
+        "username": "OWOb169",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2025951005180047624",
+    "created_at": "2026-02-23T15:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025952297478672449"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025952297478672449",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025951005180047624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也没活多少，还是很想死，但已经当时的死意已经不再难以忍受。或许因为当时的我可以只跟着他们活动，只偶尔请请客出出钱，不用思考别的事吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025951002030182400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2fs9BbEAAQx84.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025951001552068609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2fs7PboAEv-Wh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2025951005180047624",
+        "created_at": "2026-02-23T15:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025952297478672449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025952297478672449",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025951005180047624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也没活多少，还是很想死，但已经当时的死意已经不再难以忍受。或许因为当时的我可以只跟着他们活动，只偶尔请请客出出钱，不用思考别的事吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025951002030182400",
+            "3_2025951001552068609"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025951005180047624",
+        "created_at": "2026-02-23T15:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025951005180047624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKXa9mxr85",
+              "end": 63,
+              "expanded_url": "https://x.com/Kumamushi2021/status/2025951005180047624/photo/1",
+              "media_key": "3_2025951002030182400",
+              "start": 40,
+              "url": "https://t.co/IKXa9mxr85"
+            },
+            {
+              "display_url": "pic.x.com/IKXa9mxr85",
+              "end": 63,
+              "expanded_url": "https://x.com/Kumamushi2021/status/2025951005180047624/photo/1",
+              "media_key": "3_2025951001552068609",
+              "start": 40,
+              "url": "https://t.co/IKXa9mxr85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025951005180047624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟朋友出去玩了一圈，买了二次元小垃圾去居酒屋吃了火锅乌冬面还去了酒吧，短暂复活 https://t.co/IKXa9mxr85"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 105,
+          "like_count": 3869,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2022
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976787477177434112"
+      ],
+      "media_source_tweet_id": [
+        "1976787495724761443"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1976849047777575220",
+    "created_at": "2025-10-11T03:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T04:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976849047777575220"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "フランドール",
+          "probability": 0.3931,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "781266320457293824",
+          "start": 3,
+          "username": "CatHouseShiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HrN5SHEh5Y",
+          "end": 49,
+          "expanded_url": "https://x.com/CatHouseShiki/status/1976787495724761443/photo/1",
+          "media_key": "3_1976787477177434112",
+          "start": 26,
+          "url": "https://t.co/HrN5SHEh5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976849047777575220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976787495724761443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatHouseShiki: フランドール https://t.co/HrN5SHEh5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3624,
+        "media_key": "3_1976787477177434112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G271vK2aAAAaIsl.jpg",
+        "width": 2591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976787477177434112"
+          ],
+          "media_source_tweet_id": [
+            "1976787495724761443"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1976849047777575220",
+        "created_at": "2025-10-11T03:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976849047777575220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "フランドール",
+              "probability": 0.3931,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "781266320457293824",
+              "start": 3,
+              "username": "CatHouseShiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrN5SHEh5Y",
+              "end": 49,
+              "expanded_url": "https://x.com/CatHouseShiki/status/1976787495724761443/photo/1",
+              "media_key": "3_1976787477177434112",
+              "start": 26,
+              "url": "https://t.co/HrN5SHEh5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976849047777575220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976787495724761443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatHouseShiki: フランドール https://t.co/HrN5SHEh5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976787477177434112"
+          ]
+        },
+        "author_id": "781266320457293824",
+        "conversation_id": "1976787495724761443",
+        "created_at": "2025-10-10T23:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976787495724761443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "フランドール",
+              "probability": 0.3629,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrN5SHEh5Y",
+              "end": 30,
+              "expanded_url": "https://x.com/CatHouseShiki/status/1976787495724761443/photo/1",
+              "media_key": "3_1976787477177434112",
+              "start": 7,
+              "url": "https://t.co/HrN5SHEh5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976787495724761443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3121,
+          "like_count": 395,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "フランドール https://t.co/HrN5SHEh5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2127,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-28T22:56:21.000Z",
+        "description": "イラストレーター ■ 10月分のご依頼〆ました",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/CatHouseShiki",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/CatHouseShiki",
+                "start": 0,
+                "url": "https://t.co/nabU2c96WE"
+              }
+            ]
+          }
+        },
+        "id": "781266320457293824",
+        "location": "猫屋敷",
+        "name": "猫家しき@紅楼夢【ぬ-09b】秋例【う55ab】",
+        "pinned_tweet_id": "1976559738990231564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912786837254598658/meB4iYLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 1399,
+          "like_count": 11483,
+          "listed_count": 46,
+          "media_count": 1437,
+          "tweet_count": 26303
+        },
+        "url": "https://t.co/nabU2c96WE",
+        "username": "CatHouseShiki",
+        "verified": false
+      }
+    ]
+  }
+}

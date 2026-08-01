@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1805176183308587487",
+    "created_at": "2024-06-24T09:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T10:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805176183308587487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1412307311259910147",
+          "start": 3,
+          "username": "C08M1"
+        },
+        {
+          "end": 27,
+          "id": "731525153985822720",
+          "start": 11,
+          "username": "rebecca_hoshino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805176183308587487",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804834664592658744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C08M1: @rebecca_hoshino 沒什麼，就是小孩抓到了跟這類亞洲父母講話的要點：「我說感覺不舒服，你說小病痛要忍住；我說對成績很滿意，你說不懂上進；我說這個很有趣，你說不如學習去；我說生活很痛苦，你說怎麼不懂滿足。\n我說了，你都聽不進；我不說了，你說我叛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1805176183308587487",
+        "created_at": "2024-06-24T09:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T10:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805176183308587487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1412307311259910147",
+              "start": 3,
+              "username": "C08M1"
+            },
+            {
+              "end": 27,
+              "id": "731525153985822720",
+              "start": 11,
+              "username": "rebecca_hoshino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805176183308587487",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804834664592658744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C08M1: @rebecca_hoshino 沒什麼，就是小孩抓到了跟這類亞洲父母講話的要點：「我說感覺不舒服，你說小病痛要忍住；我說對成績很滿意，你說不懂上進；我說這個很有趣，你說不如學習去；我說生活很痛苦，你說怎麼不懂滿足。\n我說了，你都聽不進；我不說了，你說我叛…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1412307311259910147",
+        "conversation_id": "1804692302390247584",
+        "created_at": "2024-06-23T11:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804834664592658744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "731525153985822720",
+              "start": 0,
+              "username": "rebecca_hoshino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804834664592658744",
+        "in_reply_to_user_id": "731525153985822720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5103,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804692302390247584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rebecca_hoshino 沒什麼，就是小孩抓到了跟這類亞洲父母講話的要點：「我說感覺不舒服，你說小病痛要忍住；我說對成績很滿意，你說不懂上進；我說這個很有趣，你說不如學習去；我說生活很痛苦，你說怎麼不懂滿足。\n我說了，你都聽不進；我不說了，你說我叛逆、有病，那我只好一直給你同樣的回應。」\n🤗🤗🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1776293991069499496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 1101,
+          "listed_count": 0,
+          "tweet_count": 511
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-06T07:08:13.000Z",
+        "description": "小人掩大禍👮‍♂️🤜🤐\n無聊就看看在大火現場趴伏的他們抱怨底下的空氣不新鮮、可能有毒，最後如願以償的模樣☠️",
+        "id": "1412307311259910147",
+        "name": "小雨淹大水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419725459663646725/_w4F_lNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 239,
+          "like_count": 14608,
+          "listed_count": 1,
+          "tweet_count": 1757
+        },
+        "username": "C08M1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-14T16:42:42.000Z",
+        "description": "25°C, 78%, 19:31 | 春を告げ踊り出す山菜、夏を見る宇治野原唐草乾くわ、秋の月登ったまん丸さお祝い、冬を過ぎまた月日を数える",
+        "id": "731525153985822720",
+        "location": "Adrastea",
+        "name": "阿米娜・阔伊姆@二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756250182302490624/6xPvlYW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253646,
+          "following_count": 331,
+          "like_count": 8,
+          "listed_count": 778,
+          "tweet_count": 43199
+        },
+        "username": "rebecca_hoshino",
+        "verified": false
+      }
+    ]
+  }
+}

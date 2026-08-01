@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900509360620711936"
+      ],
+      "media_source_tweet_id": [
+        "1900509369328156699"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      }
+    ],
+    "conversation_id": "1900791395817820636",
+    "created_at": "2025-03-15T06:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900791395817820636"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 43,
+          "tag": "ヒメヒナアート"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378199035849306112",
+          "start": 3,
+          "username": "mogusan__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7d4VFPsJnc",
+          "end": 75,
+          "expanded_url": "https://x.com/mogusan__/status/1900509369328156699/photo/1",
+          "media_key": "3_1900509360620711936",
+          "start": 52,
+          "url": "https://t.co/7d4VFPsJnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900791395817820636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 388
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900509369328156699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogusan__: 本家はこんな苦しい顔じゃななくて愛ある顔してたはず☺️ #ヒメヒナアート https://t.co/7d4VFPsJnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1900509360620711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_3MbQaMAAHrF1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900509360620711936"
+          ],
+          "media_source_tweet_id": [
+            "1900509369328156699"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900791395817820636",
+        "created_at": "2025-03-15T06:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900791395817820636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "ヒメヒナアート"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378199035849306112",
+              "start": 3,
+              "username": "mogusan__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7d4VFPsJnc",
+              "end": 75,
+              "expanded_url": "https://x.com/mogusan__/status/1900509369328156699/photo/1",
+              "media_key": "3_1900509360620711936",
+              "start": 52,
+              "url": "https://t.co/7d4VFPsJnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900791395817820636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 388
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900509369328156699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogusan__: 本家はこんな苦しい顔じゃななくて愛ある顔してたはず☺️ #ヒメヒナアート https://t.co/7d4VFPsJnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900509360620711936"
+          ]
+        },
+        "author_id": "1378199035849306112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900509369328156699",
+        "created_at": "2025-03-14T11:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T12:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900509369328156699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "ヒメヒナアート"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7d4VFPsJnc",
+              "end": 60,
+              "expanded_url": "https://x.com/mogusan__/status/1900509369328156699/photo/1",
+              "media_key": "3_1900509360620711936",
+              "start": 37,
+              "url": "https://t.co/7d4VFPsJnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900509369328156699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 135757,
+          "like_count": 2896,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 388
+        },
+        "reply_settings": "everyone",
+        "text": "本家はこんな苦しい顔じゃななくて愛ある顔してたはず☺️ #ヒメヒナアート https://t.co/7d4VFPsJnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 1583,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 691
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T04:15:06.000Z",
+        "description": "描きたいものを描きます。🚫無断転載・本人以外の利用、AI禁止 | 声優、アニメ、ゲーム、百合などジャンル雑多な推し活垢 なので注意| お姉さんは至高",
+        "id": "1378199035849306112",
+        "name": "もぐさん",
+        "pinned_tweet_id": "1900751470515126511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471780928783814664/OwkJISQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 711,
+          "like_count": 22974,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 2722
+        },
+        "username": "mogusan__",
+        "verified": false
+      }
+    ]
+  }
+}

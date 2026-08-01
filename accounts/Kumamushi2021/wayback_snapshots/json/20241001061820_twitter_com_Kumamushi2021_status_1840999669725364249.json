@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1840999669725364249",
+    "created_at": "2024-10-01T06:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T07:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840999669725364249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1805868256747831296",
+          "start": 3,
+          "username": "bvnyc4ls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840999669725364249",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839351857497682186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bvnyc4ls: i will lose 15 kg\ni will lose 15 k\ni will lose 15\ni will lose 1 \ni will lose\ni will lose m\ni will lose my\ni will lose my m\ni…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1840999669725364249",
+        "created_at": "2024-10-01T06:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T07:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840999669725364249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1805868256747831296",
+              "start": 3,
+              "username": "bvnyc4ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840999669725364249",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839351857497682186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bvnyc4ls: i will lose 15 kg\ni will lose 15 k\ni will lose 15\ni will lose 1 \ni will lose\ni will lose m\ni will lose my\ni will lose my m\ni…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805868256747831296",
+        "conversation_id": "1839351857497682186",
+        "created_at": "2024-09-26T17:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T18:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839351857497682186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839351857497682186",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 83164,
+          "like_count": 7470,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 2108
+        },
+        "reply_settings": "everyone",
+        "text": "i will lose 15 kg\ni will lose 15 k\ni will lose 15\ni will lose 1 \ni will lose\ni will lose m\ni will lose my\ni will lose my m\ni will lose my mi\ni will lose my min\ni will lose my mind"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 1342,
+          "listed_count": 0,
+          "tweet_count": 656
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T07:38:47.000Z",
+        "description": "地雷女 || starving bunnie || 🇨🇳🇸🇬",
+        "id": "1805868256747831296",
+        "location": "cbmi 16.5  ||  ISFP",
+        "name": "lottie 桃桃",
+        "pinned_tweet_id": "1839701443194036386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839701237945757696/zCsFuPCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 647,
+          "like_count": 19064,
+          "listed_count": 3,
+          "tweet_count": 2374
+        },
+        "username": "bvnyc4ls",
+        "verified": false
+      }
+    ]
+  }
+}

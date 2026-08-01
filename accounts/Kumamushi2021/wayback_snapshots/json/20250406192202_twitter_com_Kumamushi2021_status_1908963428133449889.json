@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908536571286245376"
+      ],
+      "media_source_tweet_id": [
+        "1908536578307481652"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1908963428133449889",
+    "created_at": "2025-04-06T19:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T20:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908963428133449889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827551571582038016",
+          "start": 3,
+          "username": "nekoilys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VtkQRHJKiT",
+          "end": 45,
+          "expanded_url": "https://x.com/nekoilys/status/1908536578307481652/photo/1",
+          "media_key": "3_1908536571286245376",
+          "start": 22,
+          "url": "https://t.co/VtkQRHJKiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908963428133449889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908536578307481652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekoilys: #SKC美術部 https://t.co/VtkQRHJKiT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1908536571286245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnx75lRb0AADDt1.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908536571286245376"
+          ],
+          "media_source_tweet_id": [
+            "1908536578307481652"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1908963428133449889",
+        "created_at": "2025-04-06T19:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T20:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908963428133449889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827551571582038016",
+              "start": 3,
+              "username": "nekoilys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtkQRHJKiT",
+              "end": 45,
+              "expanded_url": "https://x.com/nekoilys/status/1908536578307481652/photo/1",
+              "media_key": "3_1908536571286245376",
+              "start": 22,
+              "url": "https://t.co/VtkQRHJKiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908963428133449889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908536578307481652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekoilys: #SKC美術部 https://t.co/VtkQRHJKiT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908536571286245376"
+          ]
+        },
+        "author_id": "1827551571582038016",
+        "conversation_id": "1908536578307481652",
+        "created_at": "2025-04-05T15:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T16:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908536578307481652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtkQRHJKiT",
+              "end": 31,
+              "expanded_url": "https://x.com/nekoilys/status/1908536578307481652/photo/1",
+              "media_key": "3_1908536571286245376",
+              "start": 8,
+              "url": "https://t.co/VtkQRHJKiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908536578307481652",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 57602,
+          "like_count": 4885,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/VtkQRHJKiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 709
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T03:40:43.000Z",
+        "description": "音楽に毎日救われてます☆*。神聖かまってちゃん🐼/大森靖子ちゃん🌎💖/挫・人間/3markets",
+        "id": "1827551571582038016",
+        "location": "無言♡RTフォロー失礼します˘ ᴗ  ̫ ᴗ ˘",
+        "name": "すずのき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830256117642924034/eT7ahIgg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 226,
+          "like_count": 7665,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 1252
+        },
+        "username": "nekoilys",
+        "verified": false
+      }
+    ]
+  }
+}

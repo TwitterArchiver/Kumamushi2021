@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999721238055514112"
+      ],
+      "media_source_tweet_id": [
+        "1999721556394803436"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "2000042406256033814",
+    "created_at": "2025-12-14T03:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000042406256033814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701869974644805632",
+          "start": 3,
+          "username": "cube_kan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSEghXgvHR",
+          "end": 58,
+          "expanded_url": "https://x.com/cube_kan/status/1999721556394803436/video/1",
+          "media_key": "13_1999721238055514112",
+          "start": 35,
+          "url": "https://t.co/jSEghXgvHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000042406256033814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6763
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999721556394803436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cube_kan: キューブのオフ会開いたら電卓ガチ勢が来た https://t.co/jSEghXgvHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40836,
+        "height": 1280,
+        "media_key": "13_1999721238055514112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999721238055514112/img/wxon2UDx1LXj4Kh-.jpg",
+        "public_metrics": {
+          "view_count": 824552
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999721238055514112/vid/avc1/320x568/hzZs173V6a58Hokf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999721238055514112/vid/avc1/480x852/JtYT6GCr8iqmbiK-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999721238055514112/vid/avc1/720x1280/rOgev6gl_VAmAWzO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999721238055514112/pl/l6iB0ahk2j-rKHPt.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999721238055514112"
+          ],
+          "media_source_tweet_id": [
+            "1999721556394803436"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "2000042406256033814",
+        "created_at": "2025-12-14T03:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000042406256033814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701869974644805632",
+              "start": 3,
+              "username": "cube_kan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSEghXgvHR",
+              "end": 58,
+              "expanded_url": "https://x.com/cube_kan/status/1999721556394803436/video/1",
+              "media_key": "13_1999721238055514112",
+              "start": 35,
+              "url": "https://t.co/jSEghXgvHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000042406256033814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6763
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999721556394803436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cube_kan: キューブのオフ会開いたら電卓ガチ勢が来た https://t.co/jSEghXgvHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999721238055514112"
+          ]
+        },
+        "author_id": "1701869974644805632",
+        "conversation_id": "1999721556394803436",
+        "created_at": "2025-12-13T06:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999721556394803436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSEghXgvHR",
+              "end": 44,
+              "expanded_url": "https://x.com/cube_kan/status/1999721556394803436/video/1",
+              "media_key": "13_1999721238055514112",
+              "start": 21,
+              "url": "https://t.co/jSEghXgvHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999721556394803436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5828,
+          "impression_count": 1478420,
+          "like_count": 53264,
+          "quote_count": 441,
+          "reply_count": 106,
+          "retweet_count": 6763
+        },
+        "reply_settings": "everyone",
+        "text": "キューブのオフ会開いたら電卓ガチ勢が来た https://t.co/jSEghXgvHR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997689615113986048/TOzE4Ln8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 87,
+          "like_count": 2892,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1339
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T08:06:49.000Z",
+        "description": "49秒界隈",
+        "id": "1701869974644805632",
+        "name": "kan_cube",
+        "pinned_tweet_id": "1890968005707735510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707893443526377472/tfgb2nC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 635,
+          "like_count": 17913,
+          "listed_count": 5,
+          "media_count": 646,
+          "tweet_count": 1666
+        },
+        "username": "cube_kan",
+        "verified": false
+      }
+    ]
+  }
+}

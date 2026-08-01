@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1972677114479706112"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1972677165356568791",
+    "created_at": "2025-09-29T14:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T15:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972677165356568791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBifl8WTD5",
+          "end": 32,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1972677165356568791/video/1",
+          "media_key": "7_1972677114479706112",
+          "start": 9,
+          "url": "https://t.co/cBifl8WTD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972677165356568791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酒精，微型暴风雪 https://t.co/cBifl8WTD5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36074,
+        "height": 1280,
+        "media_key": "7_1972677114479706112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972677114479706112/pu/img/pCuLE5bMtFS7q8Gx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972677114479706112/pu/vid/avc1/320x568/GPr7elaKWHT73rFy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972677114479706112/pu/vid/avc1/480x852/26nrM-TjE4DIBV0p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972677114479706112/pu/vid/avc1/720x1280/AQIk9DwxBGkBuWq1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972677114479706112/pu/pl/wcthXrPoMbZt6Wd1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1972677114479706112"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1972677165356568791",
+        "created_at": "2025-09-29T14:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972677165356568791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBifl8WTD5",
+              "end": 32,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1972677165356568791/video/1",
+              "media_key": "7_1972677114479706112",
+              "start": 9,
+              "url": "https://t.co/cBifl8WTD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972677165356568791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒精，微型暴风雪 https://t.co/cBifl8WTD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 64,
+          "like_count": 2045,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

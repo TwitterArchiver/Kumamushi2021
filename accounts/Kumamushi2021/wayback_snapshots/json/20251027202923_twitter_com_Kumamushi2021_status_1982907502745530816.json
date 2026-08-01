@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1982900255432839282",
+    "created_at": "2025-10-27T20:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T21:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982907502745530816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1593149117844393984",
+          "start": 0,
+          "username": "Auras_beichny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982907502745530816",
+    "in_reply_to_user_id": "1593149117844393984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982906695207845970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auras_beichny 喔是跟我一样的替身（划去）呢\n我也是很不喜欢听白噪音  但是听着自己喜欢的歌睡觉就很容易睡着  不知道原神老师知不知道魔法医生我是听着魔法医生能睡着觉的人（草）\n以前半夜睡不着我会爬起来手绘oc  进了状态一时半会就睡不着了但是画完就能心满意足入睡  不过这个方法可能不太适用就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1982900255432839282",
+        "created_at": "2025-10-27T20:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T21:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982907502745530816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593149117844393984",
+              "start": 0,
+              "username": "Auras_beichny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982907502745530816",
+        "in_reply_to_user_id": "1593149117844393984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982906695207845970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auras_beichny 喔是跟我一样的替身（划去）呢\n我也是很不喜欢听白噪音  但是听着自己喜欢的歌睡觉就很容易睡着  不知道原神老师知不知道魔法医生我是听着魔法医生能睡着觉的人（草）\n以前半夜睡不着我会爬起来手绘oc  进了状态一时半会就睡不着了但是画完就能心满意足入睡  不过这个方法可能不太适用就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593149117844393984",
+        "conversation_id": "1982900255432839282",
+        "created_at": "2025-10-27T20:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T21:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982906695207845970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982906695207845970",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982905574724645019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 啊啊啊啊其实我知道很难变困但是我真不知道干啥了（（（\n躺在床上一直闭眼不知道为什么我会喘不过气（\n白噪音我也试过没什么用反而越来越烦躁（\n真的就是一直在打哈欠但是真的去睡了反而睡不着啊？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 2284,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T07:48:51.000Z",
+        "description": "♀️/已经放飞自我，什么都有可能发/ヒロエマ相手固定左右固定过激洁癖，但是会溺爱无差亲友/中國人、日本語勉強中/English ok/無言フォロー失礼します\n全是自我的小号→ @sakaki2839",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "sakaki2839"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5eta3trpyk598j…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5eta3trpyk598jn?t=ZwTO9v&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/T0zy0obbna"
+              }
+            ]
+          }
+        },
+        "id": "1593149117844393984",
+        "location": "神经",
+        "name": "サカキ",
+        "pinned_tweet_id": "1981739570719867067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971984841651658752/v2mfE5y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 94,
+          "like_count": 3891,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/T0zy0obbna",
+        "username": "Auras_beichny",
+        "verified": false
+      }
+    ]
+  }
+}

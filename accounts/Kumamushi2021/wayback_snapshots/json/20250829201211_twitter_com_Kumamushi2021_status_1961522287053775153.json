@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961362712619044865"
+      ],
+      "media_source_tweet_id": [
+        "1961362720642703853"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1961522287053775153",
+    "created_at": "2025-08-29T20:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T21:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961522287053775153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1765232056592736256",
+          "start": 3,
+          "username": "cyberseaurchin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOXTt8Mte1",
+          "end": 68,
+          "expanded_url": "https://x.com/cyberseaurchin/status/1961362720642703853/photo/1",
+          "media_key": "3_1961362712619044865",
+          "start": 45,
+          "url": "https://t.co/HOXTt8Mte1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961522287053775153",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961362720642703853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyberseaurchin: Day28 | The day you left https://t.co/HOXTt8Mte1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1961362712619044865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzgo_tFa0AEjB0S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961362712619044865"
+          ],
+          "media_source_tweet_id": [
+            "1961362720642703853"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1961522287053775153",
+        "created_at": "2025-08-29T20:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T21:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961522287053775153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1765232056592736256",
+              "start": 3,
+              "username": "cyberseaurchin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOXTt8Mte1",
+              "end": 68,
+              "expanded_url": "https://x.com/cyberseaurchin/status/1961362720642703853/photo/1",
+              "media_key": "3_1961362712619044865",
+              "start": 45,
+              "url": "https://t.co/HOXTt8Mte1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961522287053775153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961362720642703853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyberseaurchin: Day28 | The day you left https://t.co/HOXTt8Mte1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961362712619044865"
+          ]
+        },
+        "author_id": "1765232056592736256",
+        "conversation_id": "1961362720642703853",
+        "created_at": "2025-08-29T09:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961362720642703853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOXTt8Mte1",
+              "end": 48,
+              "expanded_url": "https://x.com/cyberseaurchin/status/1961362720642703853/photo/1",
+              "media_key": "3_1961362712619044865",
+              "start": 25,
+              "url": "https://t.co/HOXTt8Mte1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961362720642703853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 26030,
+          "like_count": 3166,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "Day28 | The day you left https://t.co/HOXTt8Mte1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 66,
+          "like_count": 1833,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T04:25:05.000Z",
+        "description": "🌟Illustrator 🌟Commission contact: cyberseaurchin@gmail.com",
+        "id": "1765232056592736256",
+        "location": "🪐",
+        "name": "溺水海胆",
+        "pinned_tweet_id": "1926376704919973902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778999318776614912/rN6IWi0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5606,
+          "following_count": 626,
+          "like_count": 5053,
+          "listed_count": 29,
+          "media_count": 194,
+          "tweet_count": 530
+        },
+        "username": "cyberseaurchin",
+        "verified": false
+      }
+    ]
+  }
+}

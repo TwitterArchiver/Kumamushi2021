@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1836977810562515387",
+    "created_at": "2024-09-20T09:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T10:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837068316675907870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757032601276342272",
+          "start": 0,
+          "username": "Half__Milk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837068316675907870",
+    "in_reply_to_user_id": "1757032601276342272",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837067016991297687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Half__Milk 人在學校所以可能沒有辦法買到鹽或電解質水…目前在靠蒙脫石散和溫開水維持狀況  謝謝你的關心(=゜ω゜)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1836977810562515387",
+        "created_at": "2024-09-20T09:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T10:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837068316675907870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757032601276342272",
+              "start": 0,
+              "username": "Half__Milk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837068316675907870",
+        "in_reply_to_user_id": "1757032601276342272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837067016991297687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Half__Milk 人在學校所以可能沒有辦法買到鹽或電解質水…目前在靠蒙脫石散和溫開水維持狀況  謝謝你的關心(=゜ω゜)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757032601276342272",
+        "conversation_id": "1836977810562515387",
+        "created_at": "2024-09-20T09:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T10:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837067016991297687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837067016991297687",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837066603764261155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 摸摸，记得补电解质水哈，如果脱水或者电解质紊乱了更麻烦了，快点好起来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1829446039394460026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 1276,
+          "listed_count": 0,
+          "tweet_count": 632
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T13:23:22.000Z",
+        "description": "低氣壓牛奶",
+        "id": "1757032601276342272",
+        "location": "Kowloon City District",
+        "name": "Milk",
+        "pinned_tweet_id": "1822607055066452158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832241978505097216/84YbfA75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 147,
+          "like_count": 1102,
+          "listed_count": 0,
+          "tweet_count": 417
+        },
+        "username": "Half__Milk",
+        "verified": false
+      }
+    ]
+  }
+}

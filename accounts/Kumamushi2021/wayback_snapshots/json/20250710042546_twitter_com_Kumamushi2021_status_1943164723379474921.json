@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943164720325828608"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053202456",
+          "name": "魔法少女サイト"
+        }
+      }
+    ],
+    "conversation_id": "1943164723379474921",
+    "created_at": "2025-07-10T04:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T05:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943164723379474921"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "雨谷小雨"
+        },
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "魔法少女サイト"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqwqI8yYbW",
+          "end": 52,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1943164723379474921/photo/1",
+          "media_key": "3_1943164720325828608",
+          "start": 29,
+          "url": "https://t.co/cqwqI8yYbW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943164723379474921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久违地画了同人\n是雨谷小雨\n#雨谷小雨 #魔法少女サイト https://t.co/cqwqI8yYbW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943164720325828608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GveCBI8XoAA8G4t.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943164720325828608"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053202456",
+              "name": "魔法少女サイト"
+            }
+          }
+        ],
+        "conversation_id": "1943164723379474921",
+        "created_at": "2025-07-10T04:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T05:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943164723379474921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "雨谷小雨"
+            },
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "魔法少女サイト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqwqI8yYbW",
+              "end": 52,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1943164723379474921/photo/1",
+              "media_key": "3_1943164720325828608",
+              "start": 29,
+              "url": "https://t.co/cqwqI8yYbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943164723379474921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违地画了同人\n是雨谷小雨\n#雨谷小雨 #魔法少女サイト https://t.co/cqwqI8yYbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 58,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 804
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

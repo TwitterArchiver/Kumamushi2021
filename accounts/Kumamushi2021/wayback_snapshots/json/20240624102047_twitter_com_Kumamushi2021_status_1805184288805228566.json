@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1804541933924319307",
+    "created_at": "2024-06-24T10:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T11:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805184288805228566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1677530479782768641",
+          "start": 0,
+          "username": "bai57248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805184288805228566",
+    "in_reply_to_user_id": "1677530479782768641",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804541933924319307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai57248 我想和一辈子的朋友玩一辈子的游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1804541933924319307",
+        "created_at": "2024-06-24T10:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T11:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805184288805228566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677530479782768641",
+              "start": 0,
+              "username": "bai57248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805184288805228566",
+        "in_reply_to_user_id": "1677530479782768641",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804541933924319307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai57248 我想和一辈子的朋友玩一辈子的游戏"
+      },
+      {
+        "attachments": {},
+        "author_id": "1677530479782768641",
+        "conversation_id": "1804541933924319307",
+        "created_at": "2024-06-22T15:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T16:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804541933924319307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804541933924319307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 24212,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 265,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能莫名其妙的给我评论一句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "（*^ω^）ノ♪：",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 34,
+          "like_count": 1101,
+          "listed_count": 0,
+          "tweet_count": 508
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:10:14.000Z",
+        "description": "我全名是云居泉//类日记，包含无意义喊话",
+        "id": "1677530479782768641",
+        "name": "泉5.0（低浮上",
+        "pinned_tweet_id": "1782114967715729596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777649414552616960/lodla0OU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5680,
+          "following_count": 640,
+          "like_count": 22970,
+          "listed_count": 10,
+          "tweet_count": 6595
+        },
+        "username": "bai57248",
+        "verified": false
+      }
+    ]
+  }
+}

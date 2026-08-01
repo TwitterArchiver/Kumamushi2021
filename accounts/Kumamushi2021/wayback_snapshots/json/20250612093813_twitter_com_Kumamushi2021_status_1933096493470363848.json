@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1932896959163215895",
+    "created_at": "2025-06-12T09:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T10:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933096493470363848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444966273293504516",
+          "start": 0,
+          "username": "toby71389927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933096493470363848",
+    "in_reply_to_user_id": "1444966273293504516",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932990146967974326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toby71389927 🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932990146967974326].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932990146967974326",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932990146967974326"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1932896959163215895",
+        "created_at": "2025-06-12T09:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933096493470363848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444966273293504516",
+              "start": 0,
+              "username": "toby71389927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933096493470363848",
+        "in_reply_to_user_id": "1444966273293504516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932990146967974326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toby71389927 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 62,
+          "like_count": 1726,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 891
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T10:03:26.000Z",
+        "description": "你主人",
+        "id": "1444966273293504516",
+        "name": "seele",
+        "pinned_tweet_id": "1922547061599170580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922547700832026624/rzHgBVuo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 382,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 121
+        },
+        "username": "toby71389927",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2005536940742086682",
+    "created_at": "2026-02-21T17:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T18:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025259094282830171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803711973215092736",
+          "start": 0,
+          "username": "LemeryL30062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025259094282830171",
+    "in_reply_to_user_id": "1803711973215092736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025254914369138877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemeryL30062 如果需要正规处方用于镇痛的话直接去疼痛科挂号说明情况与医生协商即可   如果用于od那我不支持任何滥用药物的行为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2005536940742086682",
+        "created_at": "2026-02-21T17:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025259094282830171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803711973215092736",
+              "start": 0,
+              "username": "LemeryL30062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025259094282830171",
+        "in_reply_to_user_id": "1803711973215092736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025254914369138877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemeryL30062 如果需要正规处方用于镇痛的话直接去疼痛科挂号说明情况与医生协商即可   如果用于od那我不支持任何滥用药物的行为"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803711973215092736",
+        "conversation_id": "2005536940742086682",
+        "created_at": "2026-02-21T17:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025254914369138877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025254914369138877",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005536940742086682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 想问一下怎么样才能让医院给开羟考酮啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 105,
+          "like_count": 3845,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2004
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T08:50:29.000Z",
+        "description": "",
+        "id": "1803711973215092736",
+        "name": "lemery_lllllllllllll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803712197178380288/-ik0ZgWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 108,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "LemeryL30062",
+        "verified": false
+      }
+    ]
+  }
+}

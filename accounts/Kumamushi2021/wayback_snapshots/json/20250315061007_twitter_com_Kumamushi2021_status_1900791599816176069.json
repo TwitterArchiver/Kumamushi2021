@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900490971399467008"
+      ],
+      "media_source_tweet_id": [
+        "1900490987795030122"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248017566917775361",
+          "name": "HIMEHINA"
+        }
+      }
+    ],
+    "conversation_id": "1900791599816176069",
+    "created_at": "2025-03-15T06:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900791599816176069"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 39,
+          "tag": "ヒメヒナアート"
+        },
+        {
+          "end": 58,
+          "start": 48,
+          "tag": "ヒメヒナ秘密じかん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729662248573120512",
+          "start": 3,
+          "username": "kgrzk_aoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SS9ZnPNA5Y",
+          "end": 82,
+          "expanded_url": "https://x.com/kgrzk_aoi/status/1900490987795030122/photo/1",
+          "media_key": "3_1900490971399467008",
+          "start": 59,
+          "url": "https://t.co/SS9ZnPNA5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900791599816176069",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900490987795030122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kgrzk_aoi: ｳﾞｪｪｪ\n聞いた事ない声すぎておもろかった笑\n#ヒメヒナアート\n#ヒメヒナ秘密じかん https://t.co/SS9ZnPNA5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900490971399467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_meCEaMAA_6yN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900490971399467008"
+          ],
+          "media_source_tweet_id": [
+            "1900490987795030122"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900791599816176069",
+        "created_at": "2025-03-15T06:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900791599816176069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "ヒメヒナアート"
+            },
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "ヒメヒナ秘密じかん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729662248573120512",
+              "start": 3,
+              "username": "kgrzk_aoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SS9ZnPNA5Y",
+              "end": 82,
+              "expanded_url": "https://x.com/kgrzk_aoi/status/1900490987795030122/photo/1",
+              "media_key": "3_1900490971399467008",
+              "start": 59,
+              "url": "https://t.co/SS9ZnPNA5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900791599816176069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900490987795030122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kgrzk_aoi: ｳﾞｪｪｪ\n聞いた事ない声すぎておもろかった笑\n#ヒメヒナアート\n#ヒメヒナ秘密じかん https://t.co/SS9ZnPNA5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900490971399467008"
+          ]
+        },
+        "author_id": "1729662248573120512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248017566917775361",
+              "name": "HIMEHINA"
+            }
+          }
+        ],
+        "conversation_id": "1900490987795030122",
+        "created_at": "2025-03-14T10:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900490987795030122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "ヒメヒナアート"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "ヒメヒナ秘密じかん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SS9ZnPNA5Y",
+              "end": 67,
+              "expanded_url": "https://x.com/kgrzk_aoi/status/1900490987795030122/photo/1",
+              "media_key": "3_1900490971399467008",
+              "start": 44,
+              "url": "https://t.co/SS9ZnPNA5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900490987795030122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 538,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "ｳﾞｪｪｪ\n聞いた事ない声すぎておもろかった笑\n#ヒメヒナアート\n#ヒメヒナ秘密じかん https://t.co/SS9ZnPNA5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "死んでからの世界は？",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 1586,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 692
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T00:43:52.000Z",
+        "description": "火女🖋、JOJI🥕、他V推しあり/気分絵描き/鍵絵垢@osgyubn/マシュマロhttps://t.co/TIeArRbBwr /干し芋https://t.co/fJzttYxjxw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "osgyubn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v2p4jmv9blz4p84",
+                "end": 63,
+                "expanded_url": "https://marshmallow-qa.com/v2p4jmv9blz4p84",
+                "start": 40,
+                "url": "https://t.co/TIeArRbBwr"
+              },
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 91,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/284ZN2XKNFIQZ?ref_=wl_share",
+                "start": 68,
+                "url": "https://t.co/fJzttYxjxw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90107269",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/90107269",
+                "start": 0,
+                "url": "https://t.co/ddbvv1wVqL"
+              }
+            ]
+          }
+        },
+        "id": "1729662248573120512",
+        "name": "神楽坂🖋🥕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884020635158147072/69bCdvzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 124,
+          "like_count": 53093,
+          "listed_count": 5,
+          "media_count": 590,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/ddbvv1wVqL",
+        "username": "kgrzk_aoi",
+        "verified": false
+      }
+    ]
+  }
+}

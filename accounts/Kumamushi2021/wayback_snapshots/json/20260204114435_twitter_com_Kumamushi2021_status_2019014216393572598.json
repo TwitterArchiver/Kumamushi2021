@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2018994817163026839",
+    "created_at": "2026-02-04T11:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019014216393572598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985030184379273216",
+          "start": 0,
+          "username": "outcast7outcast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019014216393572598",
+    "in_reply_to_user_id": "1985030184379273216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019013968707362912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@outcast7outcast 我不讨厌被喜欢只是被喜欢会让我感到惶恐，我认为我不配被喜欢……谢谢你愿意喜欢我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2018994817163026839",
+        "created_at": "2026-02-04T11:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019014216393572598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985030184379273216",
+              "start": 0,
+              "username": "outcast7outcast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019014216393572598",
+        "in_reply_to_user_id": "1985030184379273216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019013968707362912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@outcast7outcast 我不讨厌被喜欢只是被喜欢会让我感到惶恐，我认为我不配被喜欢……谢谢你愿意喜欢我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985030184379273216",
+        "conversation_id": "2018994817163026839",
+        "created_at": "2026-02-04T11:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019013968707362912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019013968707362912",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018994817163026839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 🫂或许喜欢本身也是一种暴力，只是你比别人更加敏感，对这种跨越边界的讨好感到不适呢，（不过我或许也会无理由地喜欢你？😵‍💫😵‍💫😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 100,
+          "like_count": 3609,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1820
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:04:11.000Z",
+        "description": "",
+        "id": "1985030184379273216",
+        "location": "LIMBO",
+        "name": "學雲朵變灰然後變好",
+        "pinned_tweet_id": "2012500896245051627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016905618389647360/BeHVZ05Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 178
+        },
+        "username": "outcast7outcast",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1991035297820520578",
+    "created_at": "2025-11-19T09:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991077792214090028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991077792214090028",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991061153343287579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 是那些人的问题，搓搓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1991035297820520578",
+        "created_at": "2025-11-19T09:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991077792214090028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991077792214090028",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991061153343287579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 是那些人的问题，搓搓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "1991035297820520578",
+        "created_at": "2025-11-19T08:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991061153343287579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991061153343287579",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991035297820520578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 我初中时就经常被嘲笑走路姿势，但我现在始终都不明白他们在笑什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 81,
+          "like_count": 2546,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1368
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "一些花开在高高的树上，一些果结在深深的地下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sword_1003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sword_1003",
+                "start": 0,
+                "url": "https://t.co/XsfLeAz3kC"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "name": "HongSword🚏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963640817748529152/rO-B39dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 235,
+          "like_count": 13095,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/XsfLeAz3kC",
+        "username": "sword_1003",
+        "verified": false
+      }
+    ]
+  }
+}

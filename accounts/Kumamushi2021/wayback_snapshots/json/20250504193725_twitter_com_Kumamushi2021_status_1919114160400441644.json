@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914319050446172160"
+      ],
+      "media_source_tweet_id": [
+        "1914319061200298226"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1919114160400441644",
+    "created_at": "2025-05-04T19:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T20:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919114160400441644"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "フランちゃん",
+          "probability": 0.8224,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "712533273591853060",
+          "start": 3,
+          "username": "sabapi_oO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lzVmNO6Tbq",
+          "end": 51,
+          "expanded_url": "https://x.com/sabapi_oO/status/1914319061200298226/photo/1",
+          "media_key": "3_1914319050446172160",
+          "start": 28,
+          "url": "https://t.co/lzVmNO6Tbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919114160400441644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914319061200298226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sabapi_oO: フランちゃん描きました🌹 https://t.co/lzVmNO6Tbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914319050446172160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEHCKybcAA7CrQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914319050446172160"
+          ],
+          "media_source_tweet_id": [
+            "1914319061200298226"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1919114160400441644",
+        "created_at": "2025-05-04T19:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T20:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919114160400441644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "フランちゃん",
+              "probability": 0.8224,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "712533273591853060",
+              "start": 3,
+              "username": "sabapi_oO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzVmNO6Tbq",
+              "end": 51,
+              "expanded_url": "https://x.com/sabapi_oO/status/1914319061200298226/photo/1",
+              "media_key": "3_1914319050446172160",
+              "start": 28,
+              "url": "https://t.co/lzVmNO6Tbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919114160400441644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914319061200298226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sabapi_oO: フランちゃん描きました🌹 https://t.co/lzVmNO6Tbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914319050446172160"
+          ]
+        },
+        "author_id": "712533273591853060",
+        "conversation_id": "1914319061200298226",
+        "created_at": "2025-04-21T14:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914319061200298226"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "フランちゃん",
+              "probability": 0.8336,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzVmNO6Tbq",
+              "end": 36,
+              "expanded_url": "https://x.com/sabapi_oO/status/1914319061200298226/photo/1",
+              "media_key": "3_1914319050446172160",
+              "start": 13,
+              "url": "https://t.co/lzVmNO6Tbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914319061200298226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 51344,
+          "like_count": 4486,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "フランちゃん描きました🌹 https://t.co/lzVmNO6Tbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "(›´ω`‹ )",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 56,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 772
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-23T06:55:45.000Z",
+        "description": "こいしちゃんがすきです ❌AI学習、無断転載 skeb→ https://t.co/DdQU8B7QjV お仕事→ sababyss5001@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sabapi_oO",
+                "end": 52,
+                "expanded_url": "http://skeb.jp/@sabapi_oO",
+                "start": 29,
+                "url": "https://t.co/DdQU8B7QjV"
+              }
+            ]
+          }
+        },
+        "id": "712533273591853060",
+        "name": "🐟skeb受付中",
+        "pinned_tweet_id": "1845767964597129453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907687361770827778/55ylzS_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 144,
+          "like_count": 20992,
+          "listed_count": 40,
+          "media_count": 2039,
+          "tweet_count": 19134
+        },
+        "username": "sabapi_oO",
+        "verified": false
+      }
+    ]
+  }
+}

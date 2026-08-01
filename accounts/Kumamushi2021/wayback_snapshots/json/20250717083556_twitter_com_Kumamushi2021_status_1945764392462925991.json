@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945764389040033792",
+        "3_1945764389136543744",
+        "3_1945764387891064832"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945764392462925991",
+    "created_at": "2025-07-17T08:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T09:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945764392462925991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W71larW9r4",
+          "end": 23,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1945764392462925991/photo/1",
+          "media_key": "3_1945764389040033792",
+          "start": 0,
+          "url": "https://t.co/W71larW9r4"
+        },
+        {
+          "display_url": "pic.x.com/W71larW9r4",
+          "end": 23,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1945764392462925991/photo/1",
+          "media_key": "3_1945764389136543744",
+          "start": 0,
+          "url": "https://t.co/W71larW9r4"
+        },
+        {
+          "display_url": "pic.x.com/W71larW9r4",
+          "end": 23,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1945764392462925991/photo/1",
+          "media_key": "3_1945764387891064832",
+          "start": 0,
+          "url": "https://t.co/W71larW9r4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945764392462925991",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/W71larW9r4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_1945764389040033792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwC-ZxlWEAAMIVh.jpg",
+        "width": 964
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1945764389136543744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwC-Zx8WsAArlLJ.jpg",
+        "width": 964
+      },
+      {
+        "height": 204,
+        "media_key": "3_1945764387891064832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwC-ZtTaMAAS7Qr.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945764389040033792",
+            "3_1945764389136543744",
+            "3_1945764387891064832"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945764392462925991",
+        "created_at": "2025-07-17T08:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945764392462925991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W71larW9r4",
+              "end": 23,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1945764392462925991/photo/1",
+              "media_key": "3_1945764389040033792",
+              "start": 0,
+              "url": "https://t.co/W71larW9r4"
+            },
+            {
+              "display_url": "pic.x.com/W71larW9r4",
+              "end": 23,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1945764392462925991/photo/1",
+              "media_key": "3_1945764389136543744",
+              "start": 0,
+              "url": "https://t.co/W71larW9r4"
+            },
+            {
+              "display_url": "pic.x.com/W71larW9r4",
+              "end": 23,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1945764392462925991/photo/1",
+              "media_key": "3_1945764387891064832",
+              "start": 0,
+              "url": "https://t.co/W71larW9r4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945764392462925991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W71larW9r4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/learning EN/日本語勉強中/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多",
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 59,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 828
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

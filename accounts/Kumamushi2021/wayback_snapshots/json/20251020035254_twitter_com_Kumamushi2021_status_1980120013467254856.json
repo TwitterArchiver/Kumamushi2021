@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979115328605995008"
+      ],
+      "media_source_tweet_id": [
+        "1979115335510020294"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980120013467254856",
+    "created_at": "2025-10-20T03:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980120013467254856"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "古明地こいし",
+          "probability": 0.3557,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891773472600436736",
+          "start": 3,
+          "username": "ponkotuREIN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iNPoLEU74K",
+          "end": 54,
+          "expanded_url": "https://x.com/ponkotuREIN/status/1979115335510020294/photo/1",
+          "media_key": "3_1979115328605995008",
+          "start": 31,
+          "url": "https://t.co/iNPoLEU74K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980120013467254856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979115335510020294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ponkotuREIN: 中二病になった古明地こいし https://t.co/iNPoLEU74K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_1979115328605995008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3c659MXQAA33V_.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979115328605995008"
+          ],
+          "media_source_tweet_id": [
+            "1979115335510020294"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980120013467254856",
+        "created_at": "2025-10-20T03:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980120013467254856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "古明地こいし",
+              "probability": 0.3557,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891773472600436736",
+              "start": 3,
+              "username": "ponkotuREIN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNPoLEU74K",
+              "end": 54,
+              "expanded_url": "https://x.com/ponkotuREIN/status/1979115335510020294/photo/1",
+              "media_key": "3_1979115328605995008",
+              "start": 31,
+              "url": "https://t.co/iNPoLEU74K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980120013467254856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979115335510020294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ponkotuREIN: 中二病になった古明地こいし https://t.co/iNPoLEU74K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979115328605995008"
+          ]
+        },
+        "author_id": "1891773472600436736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979115335510020294",
+        "created_at": "2025-10-17T09:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979115335510020294"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "古明地こいし",
+              "probability": 0.4701,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNPoLEU74K",
+              "end": 37,
+              "expanded_url": "https://x.com/ponkotuREIN/status/1979115335510020294/photo/1",
+              "media_key": "3_1979115328605995008",
+              "start": 14,
+              "url": "https://t.co/iNPoLEU74K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979115335510020294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 8969,
+          "like_count": 1026,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "中二病になった古明地こいし https://t.co/iNPoLEU74K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 65,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T08:55:33.000Z",
+        "description": "因みに私が作成している画像はAI生成です、AIイラストです！！（大事な事なので二回）チャンネルはこちらhttps://t.co/MVLRikxZx9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@satorikoisi",
+                "end": 74,
+                "expanded_url": "https://www.youtube.com/@satorikoisi",
+                "start": 51,
+                "url": "https://t.co/MVLRikxZx9"
+              }
+            ]
+          }
+        },
+        "id": "1891773472600436736",
+        "name": "空門レイン〜！",
+        "pinned_tweet_id": "1891777676735545849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977001265189335041/yHedubqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3601,
+          "following_count": 102,
+          "like_count": 1685,
+          "listed_count": 20,
+          "media_count": 187,
+          "tweet_count": 624
+        },
+        "username": "ponkotuREIN",
+        "verified": false
+      }
+    ]
+  }
+}

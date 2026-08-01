@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1972484217612407239",
+    "created_at": "2025-09-29T02:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T03:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972494095336820865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972494095336820865",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972484217612407239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 47！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1972484214475104256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-r8UDaoAAOGB_.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1972484217612407239",
+        "created_at": "2025-09-29T02:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972494095336820865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972494095336820865",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972484217612407239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 47！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972484214475104256"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "conversation_id": "1972484217612407239",
+        "created_at": "2025-09-29T02:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972484217612407239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbyNGTDWpB",
+              "end": 28,
+              "expanded_url": "https://x.com/inks_chain/status/1972484217612407239/photo/1",
+              "media_key": "3_1972484214475104256",
+              "start": 5,
+              "url": "https://t.co/SbyNGTDWpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972484217612407239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也要玩 https://t.co/SbyNGTDWpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 64,
+          "like_count": 2043,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "本体很丑陋 请不要讨厌我 请不要对我抱有希望 我是肮脏的臭虫 只是喜欢贴贴抱抱。。。不，请不要这样，我害怕。日常活动区域：重庆/四川/（以后可能有广东和上海） 。本体@Chain_Inks 可能。。。能算个男妈妈（？）请需要帮助的时候来找我，我会尽力帮助你，我希望所有人跟我交友前先明确我的性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ时间优泠",
+        "pinned_tweet_id": "1968515087435530611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971357818285613056/uztkWkW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 252,
+          "like_count": 1868,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 630
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

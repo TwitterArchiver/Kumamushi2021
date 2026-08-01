@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966489702837661696"
+      ],
+      "media_source_tweet_id": [
+        "1966489712878633173"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1966516886323011784",
+    "created_at": "2025-09-12T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966516886323011784"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "まのさば"
+        },
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1663458918260183040",
+          "start": 3,
+          "username": "love_________5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTGW78ugto",
+          "end": 70,
+          "expanded_url": "https://x.com/love_________5/status/1966489712878633173/photo/1",
+          "media_key": "3_1966489702837661696",
+          "start": 47,
+          "url": "https://t.co/jTGW78ugto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966516886323011784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966489712878633173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love_________5: 「みんな死ねばいい」\n#まのさば #まのさば二次創作 https://t.co/jTGW78ugto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966489702837661696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pf90AaMAA-jBh.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966489702837661696"
+          ],
+          "media_source_tweet_id": [
+            "1966489712878633173"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1966516886323011784",
+        "created_at": "2025-09-12T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966516886323011784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "まのさば"
+            },
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1663458918260183040",
+              "start": 3,
+              "username": "love_________5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTGW78ugto",
+              "end": 70,
+              "expanded_url": "https://x.com/love_________5/status/1966489712878633173/photo/1",
+              "media_key": "3_1966489702837661696",
+              "start": 47,
+              "url": "https://t.co/jTGW78ugto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966516886323011784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966489712878633173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love_________5: 「みんな死ねばいい」\n#まのさば #まのさば二次創作 https://t.co/jTGW78ugto"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966489702837661696"
+          ]
+        },
+        "author_id": "1663458918260183040",
+        "conversation_id": "1966489712878633173",
+        "created_at": "2025-09-12T13:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966489712878633173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "まのさば"
+            },
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTGW78ugto",
+              "end": 50,
+              "expanded_url": "https://x.com/love_________5/status/1966489712878633173/photo/1",
+              "media_key": "3_1966489702837661696",
+              "start": 27,
+              "url": "https://t.co/jTGW78ugto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966489712878633173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3828,
+          "like_count": 461,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "「みんな死ねばいい」\n#まのさば #まのさば二次創作 https://t.co/jTGW78ugto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 68,
+          "like_count": 1972,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T08:14:56.000Z",
+        "description": "雑多にお絵描き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/5vqokpzad…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/5vqokpzadz50f56i/",
+                "start": 0,
+                "url": "https://t.co/FU6U9zFv97"
+              }
+            ]
+          }
+        },
+        "id": "1663458918260183040",
+        "location": "原神、まのさば、ウマ娘中心",
+        "name": "あゆ",
+        "pinned_tweet_id": "1941860390020759929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942564766070816768/VWgfdvtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 24,
+          "like_count": 3384,
+          "listed_count": 7,
+          "media_count": 13,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/FU6U9zFv97",
+        "username": "love_________5",
+        "verified": false
+      }
+    ]
+  }
+}

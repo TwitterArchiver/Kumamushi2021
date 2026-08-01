@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926165844163186688"
+      ],
+      "media_source_tweet_id": [
+        "1926165865189253235"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1926369495217566130",
+    "created_at": "2025-05-24T20:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T21:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926369495217566130"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 14,
+          "tag": "hellocharlotte"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997364615995397",
+          "start": 3,
+          "username": "mjsusiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VpY8sqfALr",
+          "end": 57,
+          "expanded_url": "https://x.com/mjsusiii/status/1926165865189253235/photo/1",
+          "media_key": "3_1926165844163186688",
+          "start": 34,
+          "url": "https://t.co/VpY8sqfALr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926369495217566130",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926165865189253235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mjsusiii: #hellocharlotte umm https://t.co/VpY8sqfALr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_1926165844163186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsdoUfWUAALSBk.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926165844163186688"
+          ],
+          "media_source_tweet_id": [
+            "1926165865189253235"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1926369495217566130",
+        "created_at": "2025-05-24T20:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T21:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926369495217566130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 14,
+              "tag": "hellocharlotte"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997364615995397",
+              "start": 3,
+              "username": "mjsusiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpY8sqfALr",
+              "end": 57,
+              "expanded_url": "https://x.com/mjsusiii/status/1926165865189253235/photo/1",
+              "media_key": "3_1926165844163186688",
+              "start": 34,
+              "url": "https://t.co/VpY8sqfALr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926369495217566130",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926165865189253235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mjsusiii: #hellocharlotte umm https://t.co/VpY8sqfALr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926165844163186688"
+          ]
+        },
+        "author_id": "1701997364615995397",
+        "conversation_id": "1926165865189253235",
+        "created_at": "2025-05-24T06:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T07:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926165865189253235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "hellocharlotte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpY8sqfALr",
+              "end": 43,
+              "expanded_url": "https://x.com/mjsusiii/status/1926165865189253235/photo/1",
+              "media_key": "3_1926165844163186688",
+              "start": 20,
+              "url": "https://t.co/VpY8sqfALr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926165865189253235",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1548,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "#hellocharlotte umm https://t.co/VpY8sqfALr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "幽灵。",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 1705,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 832
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T16:32:59.000Z",
+        "description": "i dont draw enstars mainly actually its just a pfp | mw @meowmeowlice | 18 y.o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "meowmeowlice"
+              }
+            ]
+          }
+        },
+        "id": "1701997364615995397",
+        "name": "mjsusi :p",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904257597714411521/kRXnMWgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 82,
+          "like_count": 4851,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 153
+        },
+        "username": "mjsusiii",
+        "verified": false
+      }
+    ]
+  }
+}

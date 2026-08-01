@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1971600011147476992"
+      ]
+    },
+    "author_id": "1437034228768595977",
+    "conversation_id": "1971600045867942081",
+    "created_at": "2025-09-26T15:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T16:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971600045867942081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fiXqdtuI5Y",
+          "end": 40,
+          "expanded_url": "https://x.com/Kumamushi2021/status/1971600045867942081/video/1",
+          "media_key": "7_1971600011147476992",
+          "start": 17,
+          "url": "https://t.co/fiXqdtuI5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971600045867942081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "许久之前  回家的火车上拍摄的雨 https://t.co/fiXqdtuI5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21250,
+        "height": 720,
+        "media_key": "7_1971600011147476992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971600011147476992/pu/img/2o4t5cWvsH6FMCu6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971600011147476992/pu/vid/avc1/480x270/yCkRESkZrom3JWXb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971600011147476992/pu/vid/avc1/640x360/6STeCcyCLy1YmJQG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971600011147476992/pu/vid/avc1/1280x720/h87-fuCPhSar_LcE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971600011147476992/pu/pl/cYrbd71M0leUOkg7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971600011147476992"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1971600045867942081",
+        "created_at": "2025-09-26T15:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T16:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971600045867942081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiXqdtuI5Y",
+              "end": 40,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1971600045867942081/video/1",
+              "media_key": "7_1971600011147476992",
+              "start": 17,
+              "url": "https://t.co/fiXqdtuI5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971600045867942081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许久之前  回家的火车上拍摄的雨 https://t.co/fiXqdtuI5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 64,
+          "like_count": 2040,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

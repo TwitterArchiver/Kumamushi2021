@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1965304801824297206",
+    "created_at": "2025-09-09T06:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T07:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965304801824297206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kumamushi2021/…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/Kumamushi2021/status/1965122023509860616",
+          "start": 105,
+          "url": "https://t.co/fiCFYzIOj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965304801824297206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965122023509860616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个  如果是和莉莉安在一起的时候梦到的话会半夜盯着莉莉安的睡颜沉默  会想像人类尤里卡与莉莉安缠绵那样亲亲莉莉安\n然后在莉莉安死后的未来意识到自己无法与莉莉安一同死去的悲哀  会羡慕身为人类能够死去的自己吧 https://t.co/fiCFYzIOj9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1965304801824297206",
+        "created_at": "2025-09-09T06:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T07:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965304801824297206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kumamushi2021/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Kumamushi2021/status/1965122023509860616",
+              "start": 105,
+              "url": "https://t.co/fiCFYzIOj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965304801824297206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965122023509860616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个  如果是和莉莉安在一起的时候梦到的话会半夜盯着莉莉安的睡颜沉默  会想像人类尤里卡与莉莉安缠绵那样亲亲莉莉安\n然后在莉莉安死后的未来意识到自己无法与莉莉安一同死去的悲哀  会羡慕身为人类能够死去的自己吧 https://t.co/fiCFYzIOj9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1965122023509860616",
+        "created_at": "2025-09-08T18:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T19:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965122023509860616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965122023509860616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果说作为龙的尤里卡又梦到作为人类的自己与莉莉安幸福的日常会怎样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 70,
+          "like_count": 1919,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

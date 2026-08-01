@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2014585699048300575",
+    "created_at": "2026-01-23T06:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014586248489529807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014586248489529807",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014585699048300575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver 好癫的声音（）张力好强  强大"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45200,
+        "height": 480,
+        "media_key": "13_2014583762475171840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014583762475171840/img/g5k5dl6btvWK-8a2.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014583762475171840/vid/avc1/540x270/C0G4m08ZGICN5Ft7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014583762475171840/vid/avc1/720x360/08Q_AWbXDDI3Idwt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014583762475171840/vid/avc1/960x480/WwYZSZSUkpEioCi5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014583762475171840/pl/ztM0rtr_JIYw-qgB.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2014585699048300575",
+        "created_at": "2026-01-23T06:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014586248489529807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014586248489529807",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014585699048300575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver 好癫的声音（）张力好强  强大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014583762475171840"
+          ]
+        },
+        "author_id": "1841093178268794881",
+        "conversation_id": "2014585699048300575",
+        "created_at": "2026-01-23T06:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014585699048300575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmwK1MSweG",
+              "end": 50,
+              "expanded_url": "https://x.com/idle_beaver/status/2014585699048300575/video/1",
+              "media_key": "13_2014583762475171840",
+              "start": 27,
+              "url": "https://t.co/dmwK1MSweG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014585699048300575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "富有感情地表演疯狂的台词（\n近一年的声音改变好像很大 https://t.co/dmwK1MSweG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 96,
+          "like_count": 3389,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1729
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "现实戒断中 / email: u@uhio.uk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk/void",
+                "end": 23,
+                "expanded_url": "http://uhio.uk/void",
+                "start": 0,
+                "url": "https://t.co/WMoIHNeDdb"
+              }
+            ]
+          }
+        },
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "雪银熊",
+        "pinned_tweet_id": "2005557494320660954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007723316203954176/pXpK4CTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 27,
+          "like_count": 4091,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/WMoIHNeDdb",
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

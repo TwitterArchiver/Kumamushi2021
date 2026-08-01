@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "2019194895802732615",
+    "created_at": "2026-02-04T23:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T00:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019194895802732615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847835560175685635",
+          "start": 3,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019194895802732615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018954115347599361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OPPOFANS114514: 假如认识的朋友们都因为各种原因离开我了\n那我是否从一开始就一直都是孤独的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2019194895802732615",
+        "created_at": "2026-02-04T23:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T00:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019194895802732615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847835560175685635",
+              "start": 3,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019194895802732615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018954115347599361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OPPOFANS114514: 假如认识的朋友们都因为各种原因离开我了\n那我是否从一开始就一直都是孤独的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "2018954115347599361",
+        "created_at": "2026-02-04T07:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018954115347599361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018954115347599361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1658,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "假如认识的朋友们都因为各种原因离开我了\n那我是否从一开始就一直都是孤独的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 100,
+          "like_count": 3617,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1825
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心₍˄·͈༝·͈˄*₎◞ ̑̑\n已对🍔上瘾喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVopG5"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 2051,
+          "like_count": 18694,
+          "listed_count": 7,
+          "media_count": 589,
+          "tweet_count": 18044
+        },
+        "url": "https://t.co/37m0RVopG5",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

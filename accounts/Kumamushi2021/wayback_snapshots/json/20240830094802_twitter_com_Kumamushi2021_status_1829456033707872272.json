@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1829446501120286769",
+    "created_at": "2024-08-30T09:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T10:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829456033707872272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490349541329195008",
+          "start": 0,
+          "username": "Sasako_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829456033707872272",
+    "in_reply_to_user_id": "1490349541329195008",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829453474251342196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sasako_chan 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1829446501120286769",
+        "created_at": "2024-08-30T09:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T10:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829456033707872272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490349541329195008",
+              "start": 0,
+              "username": "Sasako_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829456033707872272",
+        "in_reply_to_user_id": "1490349541329195008",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829453474251342196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sasako_chan 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490349541329195008",
+        "conversation_id": "1829446501120286769",
+        "created_at": "2024-08-30T09:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T10:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829453474251342196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829453474251342196",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829446501120286769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 38,
+          "like_count": 1204,
+          "listed_count": 0,
+          "tweet_count": 585
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:40:15.000Z",
+        "description": "任何困难都能打倒我",
+        "id": "1490349541329195008",
+        "name": "😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇",
+        "pinned_tweet_id": "1827501303859442045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809819129689538560/pozyQaK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 525
+        },
+        "username": "Sasako_chan",
+        "verified": false
+      }
+    ]
+  }
+}

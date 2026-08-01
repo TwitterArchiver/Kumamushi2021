@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1968229688527999194",
+    "created_at": "2025-09-17T09:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968249911499231475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1541881940352958465",
+          "start": 0,
+          "username": "heihuamu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968249911499231475",
+    "in_reply_to_user_id": "1541881940352958465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968229688527999194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heihuamu1 太可爱了！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4245,
+        "height": 720,
+        "media_key": "13_1968208642211213312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968208642211213312/img/fhJL0BcocMdzwA6K.jpg",
+        "public_metrics": {
+          "view_count": 896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968208642211213312/vid/avc1/480x270/FtI1RB4mhQM7rZcT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968208642211213312/vid/avc1/640x360/bmpkquvvKgZRbeHG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968208642211213312/vid/avc1/1282x720/Npq47rctiYu6YQSd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968208642211213312/pl/8rr-wqZUcvCRXVet.m3u8?tag=14"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1968229688527999194",
+        "created_at": "2025-09-17T09:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968249911499231475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1541881940352958465",
+              "start": 0,
+              "username": "heihuamu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968249911499231475",
+        "in_reply_to_user_id": "1541881940352958465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968229688527999194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heihuamu1 太可爱了！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968208642211213312"
+          ]
+        },
+        "author_id": "1541881940352958465",
+        "conversation_id": "1968229688527999194",
+        "created_at": "2025-09-17T08:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968229688527999194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y51mSwmj4j",
+              "end": 31,
+              "expanded_url": "https://x.com/heihuamu1/status/1968229688527999194/video/1",
+              "media_key": "13_1968208642211213312",
+              "start": 8,
+              "url": "https://t.co/Y51mSwmj4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968229688527999194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 3359,
+          "like_count": 358,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "しっぽふりふり https://t.co/Y51mSwmj4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 69,
+          "like_count": 2004,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1048
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T20:35:00.000Z",
+        "description": "♀/@yuqizhongdian\nエマヒロエマ\nアイコンは白鷺さん",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "yuqizhongdian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/heihuamu1",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/heihuamu1",
+                "start": 0,
+                "url": "https://t.co/bf58l1b5Rz"
+              }
+            ]
+          }
+        },
+        "id": "1541881940352958465",
+        "location": "🌸🌸🌸",
+        "name": "虫",
+        "pinned_tweet_id": "1962117082608480380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957293139410186240/2XupGInu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 250,
+          "like_count": 1018,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/bf58l1b5Rz",
+        "username": "heihuamu1",
+        "verified": false
+      }
+    ]
+  }
+}

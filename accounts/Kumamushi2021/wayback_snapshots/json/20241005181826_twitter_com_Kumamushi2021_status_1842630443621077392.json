@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1842628926998565254",
+    "created_at": "2024-10-05T18:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T19:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842630443621077392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543201953009881090",
+          "start": 0,
+          "username": "eykastay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842630443621077392",
+    "in_reply_to_user_id": "1543201953009881090",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842629820783395038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eykastay I'm afraid I'm not very well. I can't sleep and I'm in a bad mood：（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1842628926998565254",
+        "created_at": "2024-10-05T18:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T19:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842630443621077392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543201953009881090",
+              "start": 0,
+              "username": "eykastay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842630443621077392",
+        "in_reply_to_user_id": "1543201953009881090",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842629820783395038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eykastay I'm afraid I'm not very well. I can't sleep and I'm in a bad mood：（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543201953009881090",
+        "conversation_id": "1842628926998565254",
+        "created_at": "2024-10-05T18:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T19:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842629820783395038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842629820783395038",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842628926998565254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 HIII!! Im really good what abt youu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 45,
+          "like_count": 1367,
+          "listed_count": 0,
+          "tweet_count": 671
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T11:57:16.000Z",
+        "description": "she/her || 14",
+        "id": "1543201953009881090",
+        "name": "astro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831772271217614848/D01nzd0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 215,
+          "like_count": 22333,
+          "listed_count": 6,
+          "tweet_count": 350
+        },
+        "username": "eykastay",
+        "verified": false
+      }
+    ]
+  }
+}

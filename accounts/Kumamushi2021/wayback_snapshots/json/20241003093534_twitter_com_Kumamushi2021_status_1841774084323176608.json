@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1841774084323176608",
+    "created_at": "2024-10-03T09:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T10:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841774084323176608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841774084323176608",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4533
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841540815077707906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: not to be suicidal but if i die it’s like ok finally"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1841774084323176608",
+        "created_at": "2024-10-03T09:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841774084323176608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841774084323176608",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4533
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841540815077707906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: not to be suicidal but if i die it’s like ok finally"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "1841540815077707906",
+        "created_at": "2024-10-02T18:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T19:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841540815077707906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841540815077707906",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 191598,
+          "like_count": 12435,
+          "quote_count": 102,
+          "reply_count": 36,
+          "retweet_count": 4533
+        },
+        "reply_settings": "everyone",
+        "text": "not to be suicidal but if i die it’s like ok finally"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 1351,
+          "listed_count": 0,
+          "tweet_count": 662
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "i do not exist",
+        "id": "1472022007797719048",
+        "location": "deleted",
+        "name": "‏ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826123420771237888/NJlFj7nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67706,
+          "following_count": 184,
+          "like_count": 5896,
+          "listed_count": 81,
+          "tweet_count": 5446
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1837164700926435477",
+    "created_at": "2024-09-20T16:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T17:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837164700926435477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1334774167942524930",
+          "start": 3,
+          "username": "0YAMAnek0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837164700926435477",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837158788547367150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @0YAMAnek0: 幸福というのはね 温かい香りの良い湯気で鼻腔を満たすこと"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1837164700926435477",
+        "created_at": "2024-09-20T16:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T17:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837164700926435477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1334774167942524930",
+              "start": 3,
+              "username": "0YAMAnek0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837164700926435477",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837158788547367150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @0YAMAnek0: 幸福というのはね 温かい香りの良い湯気で鼻腔を満たすこと"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1334774167942524930",
+        "conversation_id": "1837158788547367150",
+        "created_at": "2024-09-20T15:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837158788547367150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837158788547367150",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "幸福というのはね 温かい香りの良い湯気で鼻腔を満たすこと"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1829446039394460026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 1283,
+          "listed_count": 0,
+          "tweet_count": 638
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-04T08:19:52.000Z",
+        "description": "⛓︎ 鳴かずとも いつか皆死ぬ ホトトギス ⛏︎ call me Sireneko",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@OyamaNEK0",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@OyamaNEK0",
+                "start": 0,
+                "url": "https://t.co/CWQDRkIxfA"
+              }
+            ]
+          }
+        },
+        "id": "1334774167942524930",
+        "location": "Больница No.4 Ганнушкина",
+        "name": "ⰔⰋⰓⰅⰐⰅⰍⰑ",
+        "pinned_tweet_id": "1831359463917551852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795868659304497152/L1vZqhuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 17,
+          "like_count": 7391,
+          "listed_count": 1,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/CWQDRkIxfA",
+        "username": "0YAMAnek0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1988482750345867645",
+    "created_at": "2025-11-14T00:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T01:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989129318593884369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1290891046390358016",
+          "start": 0,
+          "username": "JiXT2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989129318593884369",
+    "in_reply_to_user_id": "1290891046390358016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989008914768359711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiXT2004 没有看过哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1988482750345867645",
+        "created_at": "2025-11-14T00:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989129318593884369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1290891046390358016",
+              "start": 0,
+              "username": "JiXT2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989129318593884369",
+        "in_reply_to_user_id": "1290891046390358016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989008914768359711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiXT2004 没有看过哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290891046390358016",
+        "conversation_id": "1988482750345867645",
+        "created_at": "2025-11-13T16:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989008914768359711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989008914768359711",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988482750345867645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 你看过《北回归线》和《裸体午餐》吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/害怕人群/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 74,
+          "like_count": 2474,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1299
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T06:03:22.000Z",
+        "description": "",
+        "id": "1290891046390358016",
+        "location": "China",
+        "name": "AoAo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899360215373352960/07R-vJ7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 124
+        },
+        "username": "JiXT2004",
+        "verified": false
+      }
+    ]
+  }
+}

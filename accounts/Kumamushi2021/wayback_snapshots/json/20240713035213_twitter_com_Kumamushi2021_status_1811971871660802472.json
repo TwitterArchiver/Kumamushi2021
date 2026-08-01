@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1437034228768595977",
+    "conversation_id": "1811971737736618094",
+    "created_at": "2024-07-13T03:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T04:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811971871660802472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1811971871660802472",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811971737736618094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小宝宝，小乖乖，无论怎么抱着蹭抱着吸都不会闹脾气的小乖乖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1811971737736618094",
+        "created_at": "2024-07-13T03:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T04:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811971871660802472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811971871660802472",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811971737736618094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小宝宝，小乖乖，无论怎么抱着蹭抱着吸都不会闹脾气的小乖乖"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811971734049828864"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1811971737736618094",
+        "created_at": "2024-07-13T03:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T04:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811971737736618094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/juHc1FO9Wz",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Kumamushi2021/status/1811971737736618094/photo/1",
+              "media_key": "3_1811971734049828864",
+              "start": 10,
+              "url": "https://t.co/juHc1FO9Wz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811971737736618094",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我的猫在睡觉。 https://t.co/juHc1FO9Wz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "卡里布卡里布，请带我去天国吧",
+        "id": "1437034228768595977",
+        "location": "天國",
+        "name": "💊🐱",
+        "pinned_tweet_id": "1805179050262180054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776286821699444736/_oY-9tVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 35,
+          "like_count": 1128,
+          "listed_count": 0,
+          "tweet_count": 528
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}
